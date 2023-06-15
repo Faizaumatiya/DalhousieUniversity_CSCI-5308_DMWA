@@ -1,0 +1,1999 @@
+platform_reference_id	platform_project_reference	platform_type	platform_depth	latitude(degree_north)	longitude(degree_east)	datacenter_reference
+SAF-MB002	SAF	Underwater mooring	21	-34.08662	22.19435	OTN-Global
+SAF-MB013	SAF	Underwater mooring	48	-34.15786	22.24009	OTN-Global
+SAF-FB001	SAF	Underwater mooring	41	-34.36798	18.81178	OTN-Global
+SAF-MB014	SAF	Underwater mooring	50	-34.16428	22.24424	OTN-Global
+SAF-AB001	SAF	Underwater mooring	20	-33.77729	26.31278	OTN-Global
+SAF-AB002	SAF	Underwater mooring	20	-33.78536	26.31389	OTN-Global
+SAF-AB003	SAF	Underwater mooring	28	-33.79325	26.3152	OTN-Global
+SAF-AB004	SAF	Underwater mooring	28	-33.8017	26.31621	OTN-Global
+SAF-AB005	SAF	Underwater mooring	30	-33.80968	26.31628	OTN-Global
+SAF-AB006	SAF	Underwater mooring	31	-33.81786	26.31632	OTN-Global
+SAF-AB007	SAF	Underwater mooring	29	-33.82578	26.31655	OTN-Global
+SAF-MB001	SAF	Underwater mooring	15	-34.08061	22.1905	OTN-Global
+SAF-HB005	SAF	Underwater mooring	82	-34.04391	18.27266	OTN-Global
+SAF-MB003	SAF	Underwater mooring	27	-34.09309	22.1985	OTN-Global
+SAF-MB004	SAF	Underwater mooring	31	-34.0996	22.20267	OTN-Global
+SAF-MB005	SAF	Underwater mooring	35	-34.10602	22.20682	OTN-Global
+KM001	SAF	Underwater mooring	30.8	-32.704722	28.384833	OTN-Global
+SAF-FB002	SAF	Underwater mooring	54	-34.36868	18.80307	OTN-Global
+SAF-FB003	SAF	Underwater mooring	61	-34.36905	18.79488	OTN-Global
+SAF-FB004	SAF	Underwater mooring	73	-34.36967	18.7865	OTN-Global
+SAF-MB006	SAF	Underwater mooring	37	-34.11254	22.211	OTN-Global
+SAF-MB007	SAF	Underwater mooring	38	-34.1191	22.21518	OTN-Global
+SAF-FB005	SAF	Underwater mooring	71	-34.37021	18.77812	OTN-Global
+SAF-HB001	SAF	Underwater mooring	29	-34.04449	18.30325	OTN-Global
+SAF-HB002	SAF	Underwater mooring	38	-34.04445	18.29575	OTN-Global
+SAF-GB001	SAF	Underwater mooring	20	-34.06667	22.24215	OTN-Global
+SAF-GB002	SAF	Underwater mooring	27	-34.07296	22.24687	OTN-Global
+SAF-GB003	SAF	Underwater mooring	30	-34.07895	22.25137	OTN-Global
+SAF-CSB001	SAF	Underwater mooring	25	-34.18228	22.1753	OTN-Global
+SAF-CSB002	SAF	Underwater mooring	33	-34.18782	22.1818	OTN-Global
+SAF-CSB003	SAF	Underwater mooring	43	-34.19321	22.18766	OTN-Global
+SAF-HB003	SAF	Underwater mooring	60	-34.04431	18.28771	OTN-Global
+SAF-HB004	SAF	Underwater mooring	68	-34.04415	18.28085	OTN-Global
+SAF-MOZ001	SAF	Underwater mooring	17.7	-26.85456	32.89933	OTN-Global
+SAF-MOZ002	SAF	Underwater mooring	29.1	-26.8545	32.90536	OTN-Global
+SAF-MOZ003	SAF	Underwater mooring	45.1	-26.8545	32.91139	OTN-Global
+SAF-Bushmans	SAF	Underwater mooring	1.8	-33.68522	26.66255	OTN-Global
+SAF-Great Fish	SAF	Underwater mooring	1.5	-33.49092	27.12949	OTN-Global
+SAF-Kariega	SAF	Underwater mooring	1.5	-33.67194	26.67469	OTN-Global
+SAF-Kowie	SAF	Underwater mooring	1.5	-33.59969	26.89424	OTN-Global
+KM002	SAF	Underwater mooring	44.1	-32.708083	28.391333	OTN-Global
+KM003	SAF	Underwater mooring	40.9	-32.711	28.397972	OTN-Global
+SAF-CP001	SAF	Underwater mooring	32	-34.32815	18.4748	OTN-Global
+SAF-CP002	SAF	Underwater mooring	50	-34.3275	18.48335	OTN-Global
+SAF-CP003	SAF	Underwater mooring	60	-34.32701	18.49183	OTN-Global
+SAF-CP004	SAF	Underwater mooring	64	-34.32656	18.50018	OTN-Global
+SAF-CP005	SAF	Underwater mooring	67	-34.32618	18.50856	OTN-Global
+SAF-PA001	SAF	Underwater mooring	28.4	-33.62376	26.89191	OTN-Global
+SAF-PA002	SAF	Underwater mooring	34.2	-33.62813	26.89851	OTN-Global
+GSB-GSB002	SAF	Underwater mooring	29	-34.70415	19.40503	OTN-Global
+SAF-MOZ004	SAF	Underwater mooring	44.9	-26.85447	32.91739	OTN-Global
+SAF-PA003	SAF	Underwater mooring	39.2	-33.63283	26.90616	OTN-Global
+SAF-PA004	SAF	Underwater mooring	50.2	-33.63732	26.91446	OTN-Global
+SAF-PA005	SAF	Underwater mooring	61.1	-33.64155	26.92158	OTN-Global
+RECAPTURE-SAIAB-52-14	SAF	Underwater mooring	135.3	-33.86534	25.63307	OTN-Global
+RECAPTURE-SAIAB-r0-14	SAF	Underwater mooring	135.3	-33.86534	25.63307	OTN-Global
+SAF-MOZ005	SAF	Underwater mooring	49.5	-26.85447	32.92342	OTN-Global
+SAF-Sundays	SAF	Underwater mooring	1.5	-33.69511	25.83502	OTN-Global
+SAF-PSJ001	SAF	Underwater mooring	20	-31.61339	29.58931	OTN-Global
+SAF-PSJ002	SAF	Underwater mooring	34	-31.61746	29.59521	OTN-Global
+SAF-PSJ003	SAF	Underwater mooring	42	-31.62116	29.60119	OTN-Global
+SAF-PSJ004	SAF	Underwater mooring	54	-31.62494	29.60773	OTN-Global
+SAF-PSJ005	SAF	Underwater mooring	70	-31.62851	29.61389	OTN-Global
+RECAPTURE-SAIAB-23-14	SAF	Underwater mooring	135.3	-33.72009	25.85276	OTN-Global
+GSB-GSB003	SAF	Underwater mooring	29	-34.71118	19.40718	OTN-Global
+EST-Coega	SAF	Underwater mooring	3	-33.79908	25.69785	OTN-Global
+EST-Gamtoos	SAF	Underwater mooring	1.6	-33.96096	25.01524	OTN-Global
+EST-Gouritz	SAF	Underwater mooring	1	-34.33985	21.881	OTN-Global
+EST-Keiskamma	SAF	Underwater mooring	1.3	-33.27771	27.48596	OTN-Global
+EST-Knysna	SAF	Underwater mooring	6	-34.06535	23.04641	OTN-Global
+EST-Kromme	SAF	Underwater mooring	1.8	-34.13954	24.83558	OTN-Global
+EST-Mzimvubu	SAF	Underwater mooring	0.5	-31.5952	29.52911	OTN-Global
+EST-Swartkops	SAF	Underwater mooring	1.5	-33.85946	25.6262	OTN-Global
+GSB-GSB001	SAF	Underwater mooring	22	-34.69697	19.40488	OTN-Global
+GSB-GSB004	SAF	Underwater mooring	41	-34.71837	19.40892	OTN-Global
+GSB-GSB005	SAF	Underwater mooring	62	-34.72553	19.41082	OTN-Global
+GWE-GG001	SAF	Underwater mooring	18	-31.293	30.0168	OTN-Global
+JP-JP001	SAF	Underwater mooring	25	-27.5612	32.6861	OTN-Global
+JP-JP002	SAF	Underwater mooring	40	-27.56112	32.69218	OTN-Global
+JP-JP003	SAF	Underwater mooring	63	-27.56113	32.69847	OTN-Global
+JP-JP004	SAF	Underwater mooring	68	-27.56118	32.70455	OTN-Global
+JP-JP005	SAF	Underwater mooring	96	-27.56113	32.7112	OTN-Global
+SAF-AB008	SAF	Underwater mooring	25	-33.83396	26.31708	OTN-Global
+SAF-AB009	SAF	Underwater mooring	22	-33.84197	26.31772	OTN-Global
+SAF-AB010	SAF	Underwater mooring	25	-33.84899	26.31833	OTN-Global
+SAF-AB011	SAF	Underwater mooring	34	-33.8571	26.31908	OTN-Global
+SAF-AB012	SAF	Underwater mooring	38	-33.86496	26.31999	OTN-Global
+SAF-AB013	SAF	Underwater mooring	42	-33.87194	26.32075	OTN-Global
+SAF-AB014	SAF	Underwater mooring	51	-33.87948	26.32158	OTN-Global
+SAF-AB015	SAF	Underwater mooring	62	-33.8868	26.32199	OTN-Global
+SAF-MB008	SAF	Underwater mooring	40	-34.12556	22.21933	OTN-Global
+SAF-MB009	SAF	Underwater mooring	42	-34.13199	22.22348	OTN-Global
+SAF-MB010	SAF	Underwater mooring	44	-34.1385	22.22766	OTN-Global
+SAF-AB016	SAF	Underwater mooring	78	-33.89395	26.32216	OTN-Global
+SAF-AB017	SAF	Underwater mooring	79	-33.90068	26.32248	OTN-Global
+SAF-AB018	SAF	Underwater mooring	91	-33.90823	26.32264	OTN-Global
+SAF-AB019	SAF	Underwater mooring	95	-33.91389	26.32297	OTN-Global
+SAF-AB020	SAF	Underwater mooring	93	-33.9199	26.32371	OTN-Global
+SAF-MB011	SAF	Underwater mooring	46	-34.14488	22.23176	OTN-Global
+SAF-MB012	SAF	Underwater mooring	48	-34.15143	22.23597	OTN-Global
+SAF-MB010T	SAF	Underwater mooring	47	-34.1385	22.22766	OTN-Global
+EST-Storms River	SAF	Underwater mooring	8	-34.01886	23.90357	OTN-Global
+DUR-BRDeep	SAF	Underwater mooring	26	-29.90783	31.05077	OTN-Global
+DUR-BRShallow	SAF	Underwater mooring	15	-29.90528	31.04613	OTN-Global
+DUR-Dharb	SAF	Underwater mooring	9	-29.86467	31.05718	OTN-Global
+GWE-GG002	SAF	Underwater mooring	29	-31.29557	30.02297	OTN-Global
+EST-Goukou	SAF	Underwater mooring	2	-34.36857	21.41443	OTN-Global
+EST-Mngazana	SAF	Underwater mooring	1.5	-31.68787	29.38733	OTN-Global
+PR-PR001	SAF	Underwater mooring	19.2	-30.82203	30.41302	OTN-Global
+UM-UM001	SAF	Underwater mooring	20	-29.61437	31.16558	OTN-Global
+RECAPTURE-SAIAB-22-14	SAF	Underwater mooring	135.3	-33.0057	27.82525	OTN-Global
+RECAPTURE-SAIAB-38-14	SAF	Underwater mooring	135.3	-33.72009	25.85276	OTN-Global
+RECAPTURE-SAIAB-53-14	SAF	Underwater mooring	135.3	-31.59999	29.53117	OTN-Global
+RECAPTURE-SAIAB-28-14	SAF	Underwater mooring	135.3	-31.59999	29.53117	OTN-Global
+RECAPTURE-SAIAB-25876	SAF	Underwater mooring	135.3	-33.4962	27.14026	OTN-Global
+EST-DUI	SAF	Underwater mooring	1.6	-34.35142	21.00866	OTN-Global
+EST-Klein Brak	SAF	Underwater mooring	2	-34.09104	22.1425	OTN-Global
+EST-Tyolomnqa	SAF	Underwater mooring	1.2	-33.22471	27.57863	OTN-Global
+EST-Breede	SAF	Underwater mooring	1.5	-34.3974	20.8353	OTN-Global
+EST-Ntafufu	SAF	Underwater mooring	1.5	-31.557	29.6258	OTN-Global
+GWE-GG01	SAF	Underwater mooring	18	-31.2929	30.0176	OTN-Global
+GWE-GG02	SAF	Underwater mooring	29	-31.2952	30.022	OTN-Global
+KZN-Hibberdene	SAF	Underwater mooring	20	-30.5877	30.5777	OTN-Global
+KZN-Ifafa	SAF	Underwater mooring	18	-30.4658	30.6593	OTN-Global
+KZN-Mbango 1	SAF	Underwater mooring	20	-30.7567	30.4584	OTN-Global
+KZN-Mtwalume	SAF	Underwater mooring	19	-30.5014	30.6378	OTN-Global
+KZN-Mzamba	SAF	Underwater mooring	15	-31.0926	30.195	OTN-Global
+KZN-Palm beach	SAF	Underwater mooring	14.5	-30.9861	30.2931	OTN-Global
+KZN-Park Ryn	SAF	Underwater mooring	18	-30.3392	30.74	OTN-Global
+KZN-Pennington	SAF	Underwater mooring	18	-30.3928	30.7021	OTN-Global
+KZN-Scott	SAF	Underwater mooring	12	-30.2795	30.7677	OTN-Global
+KZN-T.O. Strand	SAF	Underwater mooring	18	-31.0371	30.2454	OTN-Global
+KZN-Umtentweni	SAF	Underwater mooring	17	-30.7127	30.4892	OTN-Global
+PLB-PLB001	SAF	Underwater mooring	17	-34.0871	23.4011	OTN-Global
+PLB-PLB002	SAF	Underwater mooring	22	-34.0537	23.3966	OTN-Global
+PLB-PLB003	SAF	Underwater mooring	22	-34.014	23.4457	OTN-Global
+PLB-PLB004	SAF	Underwater mooring	22	-33.9903	23.5721	OTN-Global
+SAF-RR001	SAF	Underwater mooring	20	-27.0469	32.8653	OTN-Global
+SAF-RR002	SAF	Underwater mooring	30	-27.0469	32.8732	OTN-Global
+WB-WB001	SAF	Underwater mooring	24	-34.4195	19.2539	OTN-Global
+WB-WB002	SAF	Underwater mooring	24	-34.4206	19.2475	OTN-Global
+WB-WB003	SAF	Underwater mooring	23	-34.4259	19.2842	OTN-Global
+WB-WB004	SAF	Underwater mooring	27	-34.4362	19.2276	OTN-Global
+V2LKZNSB-HIBBERDENE	V2LKZNSB	Underwater mooring	20	-30.5877	30.5777	SAF
+V2LKZNSB-IFAFA	V2LKZNSB	Underwater mooring	18	-30.4658	30.6593	SAF
+V2LKZNSB-MBANGO 1	V2LKZNSB	Underwater mooring	20	-30.7567	30.4584	SAF
+V2LKZNSB-MTWALUME	V2LKZNSB	Underwater mooring	19	-30.5014	30.6378	SAF
+V2LKZNSB-MZAMBA	V2LKZNSB	Underwater mooring	15	-31.0926	30.195	SAF
+V2LKZNSB-PALM BEACH	V2LKZNSB	Underwater mooring	14.5	-30.9861	30.2931	SAF
+V2LKZNSB-PARK RYN	V2LKZNSB	Underwater mooring	18	-30.3392	30.74	SAF
+V2LKZNSB-PENNINGTON	V2LKZNSB	Underwater mooring	18	-30.3928	30.7021	SAF
+V2LKZNSB-SCOTT	V2LKZNSB	Underwater mooring	12	-30.2795	30.7677	SAF
+V2LKZNSB-T.O. STRAND	V2LKZNSB	Underwater mooring	18	-31.0371	30.2454	SAF
+V2LKZNSB-UMTENTWENI	V2LKZNSB	Underwater mooring	17	-30.7127	30.4892	SAF
+Armitage Island	ADM	Underwater mooring	135.3	48.5345	-122.7956	nep
+Cypress Island	ADM	Underwater mooring	135.3	48.5957	-122.7301	nep
+Freeman Island	ADM	Underwater mooring	135.3	48.6991	-122.9522	nep
+Iceberg Point	ADM	Underwater mooring	135.3	48.4234	-122.8927	nep
+Lawrence Point	ADM	Underwater mooring	135.3	48.6597	-122.7344	nep
+Lime Kiln	ADM	Underwater mooring	135.3	48.5157	-123.1529	nep
+NW Blakely Dock	ADM	Underwater mooring	135.3	48.5856	-122.8173	nep
+Obstruction Pass	ADM	Underwater mooring	135.3	48.6003	-122.8305	nep
+Patos Island	ADM	Underwater mooring	135.3	48.7856	-122.9705	nep
+Point George	ADM	Underwater mooring	135.3	48.5608	-122.9892	nep
+Sentinel Island	ADM	Underwater mooring	135.3	48.6392	-123.1643	nep
+Sucia	ADM	Underwater mooring	135.3	48.7463	-122.8993	nep
+ADMIRALTY001	ADM	Underwater mooring	60	48.07304	-122.61662	nep
+ADMIRALTY002	ADM	Underwater mooring	123	48.07201	-122.6235	nep
+ADMIRALTY003	ADM	Underwater mooring	159	48.07204	-122.62987	nep
+ADMIRALTY004	ADM	Underwater mooring	146	48.07323	-122.63297	nep
+ADMIRALTY005	ADM	Underwater mooring	128	48.07158	-122.64118	nep
+ADMIRALTY006	ADM	Underwater mooring	134	48.07332	-122.644	nep
+ADMIRALTY007	ADM	Underwater mooring	119	48.07185	-122.64923	nep
+ADMIRALTY008	ADM	Underwater mooring	86	48.07331	-122.655	nep
+ADMIRALTY009	ADM	Underwater mooring	75	48.07335	-122.66151	nep
+Turn Pt Stuart Is	ADM	Underwater mooring	135.3	48.6883	-123.2374	nep
+Yellow Island	ADM	Underwater mooring	135.3	48.5904	-123.0336	nep
+ADMIRALTY010	ADM	Underwater mooring	79	48.07359	-122.66689	nep
+ADMIRALTY011	ADM	Underwater mooring	101	48.07327	-122.67194	nep
+ADMIRALTY012	ADM	Underwater mooring	88	48.07331	-122.67749	nep
+ADMIRALTY013	ADM	Underwater mooring	20	48.07337	-122.68244	nep
+SJ013	ADM	Underwater mooring	135.3	48.5582	-123.1737	nep
+SJ017	ADM	Underwater mooring	135.3	48.4796	-123.0736	nep
+SJ007	ADM	Underwater mooring	135.3	48.6004	-122.8292	nep
+ADM-test tags	ADM	Underwater mooring	135.3	48.1	-122.4	nep
+NETS1	ALFA	Underwater mooring	57	44.7002	-124.1495	nep
+NETS2	ALFA	Underwater mooring	60	44.7002	-124.1588	nep
+NETS3	ALFA	Underwater mooring	63	44.7002	-124.1685	nep
+NETS4	ALFA	Underwater mooring	65	44.7002	-124.1778	nep
+NETS5	ALFA	Underwater mooring	68	44.6997	-124.1875	nep
+NETS6	ALFA	Underwater mooring	69	44.7	-124.1968	nep
+NETS7	ALFA	Underwater mooring	69	44.7002	-124.2063	nep
+NETS8	ALFA	Underwater mooring	67	44.7002	-124.2157	nep
+SETSA1	ALFA	Underwater mooring	55	44.5583	-124.1768	nep
+SETSA2	ALFA	Underwater mooring	57	44.5582	-124.1863	nep
+SETSA3	ALFA	Underwater mooring	59	44.5583	-124.1958	nep
+SETSA4	ALFA	Underwater mooring	61	44.5583	-124.2053	nep
+SETSA5	ALFA	Underwater mooring	64	44.5583	-124.2143	nep
+SETSA6	ALFA	Underwater mooring	68	44.5582	-124.2242	nep
+SETSA7	ALFA	Underwater mooring	73	44.5582	-124.2337	nep
+SETSA8	ALFA	Underwater mooring	75	44.5583	-124.243	nep
+SETSB1	ALFA	Underwater mooring	56	44.541	-124.1775	nep
+SETSB2	ALFA	Underwater mooring	58	44.542	-124.1863	nep
+SETSB3	ALFA	Underwater mooring	59	44.5415	-124.1958	nep
+SETSB4	ALFA	Underwater mooring	61	44.5418	-124.2052	nep
+SETSB5	ALFA	Underwater mooring	65	44.5417	-124.215	nep
+SETSB6	ALFA	Underwater mooring	69	44.5415	-124.2242	nep
+SETSB7	ALFA	Underwater mooring	74	44.5417	-124.2337	nep
+SETSB8	ALFA	Underwater mooring	73	44.5417	-124.243	nep
+5RIVERS-5RIVERS	ALSEA	Underwater mooring	3	44.215048	-123.493317	nep
+NEHALEM-O	ALSEA	Underwater mooring	2.1	45.484323	-123.45422	nep
+Jaws Inner-001	ALSEA	Underwater mooring	4.7	44.42404635	-124.0763811	nep
+Jaws Inner-002	ALSEA	Underwater mooring	9	44.42333407	-124.0755389	nep
+Jaws Inner-003	ALSEA	Underwater mooring	9	44.42261917	-124.0749731	nep
+Jaws outer-001	ALSEA	Underwater mooring	9	44.421937	-124.077674	nep
+Jaws outer-002	ALSEA	Underwater mooring	9	44.42129479	-124.0788933	nep
+MidEstuary-001	ALSEA	Underwater mooring	4	44.4380728	-124.064852	nep
+MidEstuary-002	ALSEA	Underwater mooring	3	44.43706504	-124.062861	nep
+MidEstuary-003	ALSEA	Underwater mooring	3	44.43570281	-124.0621955	nep
+Mouth of Fall Cr.-001	ALSEA	Underwater mooring	1.8	44.37606173	-123.7332235	nep
+NEHALEM-BOATLAUNCH	ALSEA	Underwater mooring	2.1	45.7058122	-123.8874564	nep
+NEHALEM-CONFLUENCE	ALSEA	Underwater mooring	1.8	45.7347839	-123.8748561	nep
+NEHALEM-JAWS	ALSEA	Underwater mooring	4.6	45.6600147	-123.9327628	nep
+NEHALEM-MOUTH	ALSEA	Underwater mooring	3.8	45.6634186	-123.9292892	nep
+NEHALEM-PARADISECOVE	ALSEA	Underwater mooring	3.2	45.6901011	-123.8984069	nep
+Oakland Marina-001	ALSEA	Underwater mooring	3.4	44.40627004	-123.9925692	nep
+Oakland Marina-002	ALSEA	Underwater mooring	3.7	44.41315737	-123.9945017	nep
+Oakland Marina-003	ALSEA	Underwater mooring	3	44.41376161	-123.9964463	nep
+Taylor Marina-002	ALSEA	Underwater mooring	4.6	44.40676489	-123.9469063	nep
+ALSEA-ABOVE5RIVERS	ALSEA	Underwater mooring	1.5	44.3609694	-123.8285719	nep
+ALSEA-FALL CR	ALSEA	Underwater mooring	1.8	44.375655	-123.7307206	nep
+ALSEA-HEADOFTIDE	ALSEA	Underwater mooring	6.1	44.4024836	-123.8951375	nep
+ALSEA-JAWS	ALSEA	Underwater mooring	6.1	44.4219378	-124.0776739	nep
+ALSEA-LOWESTUARY	ALSEA	Underwater mooring	3.4	44.4372769	-124.0615078	nep
+ALSEA-MOUTH	ALSEA	Underwater mooring	6.4	44.4219378	-124.0776739	nep
+ALSEA-OAKLANDS	ALSEA	Underwater mooring	1.8	44.41317	-123.9941878	nep
+ALSEA-TAYLORS	ALSEA	Underwater mooring	8.5	44.4067714	-123.9451122	nep
+Head of Tide-001	ALSEA	Underwater mooring	6.1	44.40429287	-123.8928042	nep
+Head of Tide-002	ALSEA	Underwater mooring	4.9	44.40351769	-123.8940734	nep
+Head of Tide-003	ALSEA	Underwater mooring	3.4	44.4107652	-123.8939085	nep
+Five rivers-001	ALSEA	Underwater mooring	1.5	44.36096902	-123.828572	nep
+Upper Alsea-001	ALSEA	Underwater mooring	1.8	44.37369792	-123.7283866	nep
+S.FK NEHALEM	ALSEA	Underwater mooring	3.7	45.7318114	-123.8680878	nep
+Taylor Marina-001	ALSEA	Underwater mooring	8.2	44.40677977	-123.9451124	nep
+1	BOOMBARI	Underwater mooring	135.3	23.485583	-109.4046	nep
+BNDYP	BOOONC	Underwater mooring	228	48.7663	-123.0402	nep
+JF2C	BOOONC	Underwater mooring	180	48.3607	-124.2128	nep
+JFCN	BOOONC	Underwater mooring	231	48.5081	-124.74912	nep
+AS04	BOOONC	Underwater mooring	118	48.3005	-123.3914	nep
+MAC	BOOONC	Underwater mooring	61	48.401	-123.4089	nep
+AS04-1	BOOONC	Underwater mooring	123	48.30016667	-123.3912	nep
+AS04-2	BOOONC	Underwater mooring	119	48.30045	-123.39135	nep
+AS04-3	BOOONC	Underwater mooring	120	48.3003167	-123.3912833	nep
+AS04-4	BOOONC	Underwater mooring	121	48.300556	-123.390944	nep
+AS04-5	BOOONC	Underwater mooring	118	48.30088889	-123.3914444	nep
+AS04-6	BOOONC	Underwater mooring	121	48.30095	-123.3909167	nep
+AS04-7	BOOONC	Underwater mooring	119	48.3008	-123.3908	nep
+AS04-8	BOOONC	Underwater mooring	341	48.3009667	-123.3907333	nep
+AS04-9	BOOONC	Underwater mooring	119	48.30061667	-123.3911333	nep
+BCH-1	BOOONC	Underwater mooring	408	48.3332	-125.875583	nep
+BCH-2	BOOONC	Underwater mooring	415	48.3332	-125.875583	nep
+BNDYP-1	BOOONC	Underwater mooring	240	48.76593333	-123.0385167	nep
+BNDYP-10	BOOONC	Underwater mooring	233	48.76633333	-123.03925	nep
+BNDYP-2	BOOONC	Underwater mooring	230	48.7663	-123.04022	nep
+BNDYP-3	BOOONC	Underwater mooring	235	48.76653333	-123.0391333	nep
+BNDYP-4	BOOONC	Underwater mooring	229	48.766366	-123.0392166	nep
+BNDYP-5	BOOONC	Underwater mooring	230	48.7665	-123.039556	nep
+BNDYP-6	BOOONC	Underwater mooring	234	48.76622222	-123.0391944	nep
+BNDYP-7	BOOONC	Underwater mooring	231	48.76641667	-123.0387833	nep
+BNDYP-8	BOOONC	Underwater mooring	233	48.7666	-123.0379	nep
+BNDYP-9	BOOONC	Underwater mooring	237	48.7664167	-123.0390833	nep
+JF2C-1	BOOONC	Underwater mooring	181	48.36038333	-124.2133667	nep
+JF2C-2	BOOONC	Underwater mooring	183	48.36067	-124.21282	nep
+JF2C-3	BOOONC	Underwater mooring	191	48.35636667	-124.2157667	nep
+JF2C-4	BOOONC	Underwater mooring	192	48.3561833	-124.2160217	nep
+JF2C-5	BOOONC	Underwater mooring	187	48.356195	-124.216027	nep
+JF2C-6	BOOONC	Underwater mooring	190	48.35619497	-124.2160267	nep
+JF2C-7	BOOONC	Underwater mooring	190	48.3559745	-124.2157838	nep
+JF2C-8	BOOONC	Underwater mooring	187	48.35590331	-124.2158833	nep
+JFCN-1	BOOONC	Underwater mooring	250	48.50788333	-124.7504667	nep
+JFCN-2	BOOONC	Underwater mooring	245	48.50813	-123.74912	nep
+JFCN-3	BOOONC	Underwater mooring	235	48.50841667	-124.7507167	nep
+JFCN-4	BOOONC	Underwater mooring	228	48.508333	-124.7500833	nep
+JFCN-5	BOOONC	Underwater mooring	232	48.5083383	-124.7500933	nep
+MAC-1	BOOONC	Underwater mooring	65	48.40116667	-123.4089833	nep
+MAC-2	BOOONC	Underwater mooring	62	48.401	-123.4089	nep
+MAC-3	BOOONC	Underwater mooring	62	48.4010833	-123.4089167	nep
+MAC-4	BOOONC	Underwater mooring	62	48.401139	-123.409083	nep
+MAC-5	BOOONC	Underwater mooring	62	48.40122222	-123.4087778	nep
+MAC-6	BOOONC	Underwater mooring	63	48.4011	-123.4084833	nep
+MAC-7	BOOONC	Underwater mooring	62	48.4013	-123.4083	nep
+MAC-8	BOOONC	Underwater mooring	62	48.4012	-123.4091333	nep
+MAC-9	BOOONC	Underwater mooring	62	48.40111667	-123.4089667	nep
+BROOKS001	BRKS	Underwater mooring	34	50.12795	-127.92558	nep
+BROOKS002	BRKS	Underwater mooring	45	50.12608	-127.93725	nep
+BROOKS003	BRKS	Underwater mooring	57	50.12105	-127.94617	nep
+BROOKS004	BRKS	Underwater mooring	75	50.1153	-127.95462	nep
+BROOKS005	BRKS	Underwater mooring	75	50.10932	-127.96192	nep
+BROOKS006	BRKS	Underwater mooring	94	50.103	-127.96865	nep
+BROOKS007	BRKS	Underwater mooring	110	50.0969	-127.97582	nep
+BROOKS008	BRKS	Underwater mooring	137	50.0903	-127.982	nep
+BURRARD001	BURR	Underwater mooring	135.3	49.29263	-123.04453	nep
+BURRARD002	BURR	Underwater mooring	135.3	49.29985	-123.04252	nep
+BURRARD003	BURR	Underwater mooring	16.5	49.28985	-123.24013	nep
+BURRARD004	BURR	Underwater mooring	40.2	49.29395	-123.24125	nep
+BURRARD005	BURR	Underwater mooring	60.4	49.29804	-123.24237	nep
+BURRARD006	BURR	Underwater mooring	69.5	49.30222	-123.24289	nep
+BURRARD007	BURR	Underwater mooring	73.2	49.30626	-123.24452	nep
+BURRARD008	BURR	Underwater mooring	73.2	49.31044	-123.24629	nep
+BURRARD009	BURR	Underwater mooring	82.3	49.3144	-123.24807	nep
+BURRARD010	BURR	Underwater mooring	87.8	49.31865	-123.24919	nep
+BURRARD011	BURR	Underwater mooring	89.6	49.323	-123.24994	nep
+BURRARD012	BURR	Underwater mooring	76.8	49.3273	-123.25128	nep
+BURRARD013	BURR	Underwater mooring	49.4	49.33156	-123.25219	nep
+BURRARD014	BURR	Underwater mooring	31.1	49.33381	-123.2553	nep
+CAPILANO001	CAPL	Underwater mooring	135.3	49.3706	-123.1156	nep
+CAPILANO002	CAPL	Underwater mooring	135.3	49.3754	-123.1127	nep
+CAPILANO003	CAPL	Underwater mooring	135.3	49.373	-123.1184	nep
+CAPILANO004	CAPL	Underwater mooring	135.3	49.3631	-123.1132	nep
+CAPILANO005	CAPL	Underwater mooring	135.3	49.3669	-123.1078	nep
+CAPILANO006	CAPL	Underwater mooring	135.3	49.3815	-123.1251	nep
+CAPILANO007	CAPL	Underwater mooring	135.3	49.38	-123.1262	nep
+CAPILANO008	CAPL	Underwater mooring	135.3	49.3909	-123.1377	nep
+CASC_HD002	CASC	Underwater mooring	30.2	45.05197	-124.03629	nep
+CASC_HD003	CASC	Underwater mooring	38.4	45.05207	-124.04546	nep
+CASC_HD004	CASC	Underwater mooring	47.5	45.05205	-124.0566	nep
+CASC_HD005	CASC	Underwater mooring	54.9	45.0523	-124.06683	nep
+CASC_HD006	CASC	Underwater mooring	60.4	45.05235	-124.07865	nep
+CASC_HD007	CASC	Underwater mooring	64	45.05257	-124.08683	nep
+CASC_HD008	CASC	Underwater mooring	73.2	45.05257	-124.09688	nep
+CASC_HD009	CASC	Underwater mooring	78.6	45.0527	-124.10682	nep
+CASC_HD010	CASC	Underwater mooring	86	45.0527	-124.11685	nep
+CASC_HD011	CASC	Underwater mooring	91.4	45.05257	-124.12688	nep
+CASC_HD012	CASC	Underwater mooring	95.1	45.05288	-124.13702	nep
+CASC_HD013	CASC	Underwater mooring	100.6	45.05292	-124.14687	nep
+CASC_HD014	CASC	Underwater mooring	104.2	45.05313	-124.15713	nep
+CASC_HD015	CASC	Underwater mooring	107.9	45.053	-124.16712	nep
+CASC_HD016	CASC	Underwater mooring	113.4	45.05318	-124.17705	nep
+CASC_HD017	CASC	Underwater mooring	120.7	45.05342	-124.18717	nep
+CASC_HD018	CASC	Underwater mooring	126.2	45.05342	-124.19712	nep
+CASC_HD019	CASC	Underwater mooring	131.7	45.05353	-124.20723	nep
+CASC_HD020	CASC	Underwater mooring	137.2	45.0536	-124.21722	nep
+CASC_HD021	CASC	Underwater mooring	142.6	45.05367	-124.2274	nep
+CASC_HD022	CASC	Underwater mooring	148.1	45.05393	-124.2376	nep
+CASC_HD045	CASC	Underwater mooring	259.7	45.0531	-124.38551	nep
+CASC_HD046	CASC	Underwater mooring	270.7	45.05313	-124.39368	nep
+CASC_HD023	CASC	Underwater mooring	153.6	45.05397	-124.2475	nep
+CASC_HD024	CASC	Underwater mooring	157.3	45.05418	-124.2575	nep
+CASC_HD069	CASC	Underwater mooring	411.5	45.05391	-124.58157	nep
+CASC_HD025	CASC	Underwater mooring	160.9	45.05405	-124.26758	nep
+CASC_HD026	CASC	Underwater mooring	164.6	45.0544	-124.27777	nep
+CASC_HD027	CASC	Underwater mooring	168.2	45.0546	-124.2879	nep
+CASC_HD028	CASC	Underwater mooring	171.9	45.05462	-124.298	nep
+CASC_HD029	CASC	Underwater mooring	177.4	45.05453	-124.30818	nep
+CASC_HD030	CASC	Underwater mooring	184.7	45.05455	-124.32002	nep
+CASC_HD031	CASC	Underwater mooring	164.6	45.0527	-124.27136	nep
+CASC_HD032	CASC	Underwater mooring	167.9	45.05276	-124.27927	nep
+CASC_HD033	CASC	Underwater mooring	171	45.05276	-124.28753	nep
+CASC_HD034	CASC	Underwater mooring	174.1	45.05283	-124.29565	nep
+CASC_HD035	CASC	Underwater mooring	177.4	45.05279	-124.30381	nep
+CASC_HD036	CASC	Underwater mooring	182.1	45.05279	-124.312	nep
+CASC_HD037	CASC	Underwater mooring	186.5	45.05276	-124.32016	nep
+CASC_HD038	CASC	Underwater mooring	193.9	45.05284	-124.32832	nep
+CASC_HD039	CASC	Underwater mooring	201.2	45.05282	-124.33644	nep
+CASC_HD040	CASC	Underwater mooring	208.5	45.05276	-124.34466	nep
+CASC_HD042	CASC	Underwater mooring	226.8	45.05306	-124.3609	nep
+CASC_HD043	CASC	Underwater mooring	237.7	45.05313	-124.36919	nep
+CASC_HD044	CASC	Underwater mooring	250.5	45.05288	-124.37743	nep
+CASC_HD047	CASC	Underwater mooring	283.5	45.0529	-124.40179	nep
+CASC_HD048	CASC	Underwater mooring	294.4	45.05328	-124.4099	nep
+CASC_HD049	CASC	Underwater mooring	299.9	45.05326	-124.41812	nep
+CASC_HD050	CASC	Underwater mooring	310.9	45.05333	-124.42629	nep
+CASC_HD052	CASC	Underwater mooring	325.5	45.05335	-124.44257	nep
+CASC_HD053	CASC	Underwater mooring	329.2	45.05335	-124.4506	nep
+CASC_HD054	CASC	Underwater mooring	336.5	45.05332	-124.4589	nep
+CASC_HD055	CASC	Underwater mooring	342	45.05318	-124.46727	nep
+CASC_HD056	CASC	Underwater mooring	347.5	45.0532	-124.47558	nep
+CASC_HD057	CASC	Underwater mooring	353	45.05348	-124.48342	nep
+CASC_HD059	CASC	Underwater mooring	362.1	45.05358	-124.49987	nep
+CASC_HD060	CASC	Underwater mooring	365.8	45.05367	-124.50804	nep
+CASC_HD061	CASC	Underwater mooring	369.4	45.05357	-124.51608	nep
+CASC_HD062	CASC	Underwater mooring	371.2	45.05369	-124.52432	nep
+CASC_HD063	CASC	Underwater mooring	374.9	45.05363	-124.53249	nep
+CASC_HD064	CASC	Underwater mooring	378.6	45.05373	-124.54069	nep
+CASC_HD066	CASC	Underwater mooring	391.4	45.05372	-124.55688	nep
+CASC_HD067	CASC	Underwater mooring	396.8	45.05377	-124.56521	nep
+CASC_HD068	CASC	Underwater mooring	404.2	45.05389	-124.5732	nep
+CASC_HD070	CASC	Underwater mooring	420.6	45.05375	-124.5897	nep
+CASC_HD071	CASC	Underwater mooring	427.9	45.05398	-124.59789	nep
+CASC_HD041	CASC	Underwater mooring	217.6	45.05301	-124.35281	nep
+CASC_HD051	CASC	Underwater mooring	316.4	45.0532	-124.43442	nep
+CASC_HD058	CASC	Underwater mooring	358.4	45.05353	-124.49176	nep
+CASC_HD065	CASC	Underwater mooring	385.9	45.05376	-124.54869	nep
+BURIAL_HO1	CCSALMON	Underwater mooring	13.411	48.76977	-123.56252	nep
+BURIAL_HO2	CCSALMON	Underwater mooring	19.202	48.76995	-123.56323	nep
+BURIAL_HO3	CCSALMON	Underwater mooring	12.497	48.76878	-123.5641	nep
+MB_BUOY	CCSALMON	Underwater mooring	4.877	48.8212	-123.5913	nep
+NREEF_HO1	CCSALMON	Underwater mooring	8.839	48.91187	-123.62383	nep
+NREEF_HO2	CCSALMON	Underwater mooring	20.726	48.91335	-123.62723	nep
+NREEF_HO3	CCSALMON	Underwater mooring	22.86	48.91522	-123.62913	nep
+NREEF_HO4	CCSALMON	Underwater mooring	24.689	48.91608	-123.62818	nep
+NREEF_HO5	CCSALMON	Underwater mooring	21.641	48.91622	-123.62815	nep
+SAN_DOCK	CCSALMON	Underwater mooring	7.01	48.78645	-123.56185	nep
+SAN_N_01	CCSALMON	Underwater mooring	171.9072	48.84485	-123.57557	nep
+SAN_N_02	CCSALMON	Underwater mooring	162.7632	48.84467	-123.58548	nep
+SAN_S_01	CCSALMON	Underwater mooring	58.5216	48.74702	-123.55591	nep
+SAN_S_02	CCSALMON	Underwater mooring	102.4128	48.74691	-123.56457	nep
+SAT_01	CCSALMON	Underwater mooring	69.4944	48.6997	-123.47105	nep
+SAT_02	CCSALMON	Underwater mooring	76.8096	48.70547	-123.47437	nep
+SAT_03	CCSALMON	Underwater mooring	76.8096	48.7119	-123.47713	nep
+STU_01	CCSALMON	Underwater mooring	111.5568	48.9002	-123.59795	nep
+STU_02	CCSALMON	Underwater mooring	171.9072	48.89639	-123.60509	nep
+STU_03	CCSALMON	Underwater mooring	181.0512	48.89206	-123.6124	nep
+STU_04	CCSALMON	Underwater mooring	142.6464	48.8881	-123.62041	nep
+STU_05	CCSALMON	Underwater mooring	65.8368	48.8842	-123.62735	nep
+COLR-RKm22.5_15	COLR	Underwater mooring	0	46.20235	-123.85551	nep
+COLR-RKm225.3_01	COLR	Underwater mooring	28.3	45.60778	-122.0426	nep
+COLR-RKm22.5_01	COLR	Underwater mooring	3	46.19125	-123.85072	nep
+COLR-RKm22.5_02	COLR	Underwater mooring	7.9	46.19186	-123.85072	nep
+COLR-RKm22.5_03	COLR	Underwater mooring	20.4	46.19337	-123.85087	nep
+COLR-RKm22.5_04	COLR	Underwater mooring	30.5	46.19465	-123.85161	nep
+COLR-RKm22.5_05	COLR	Underwater mooring	14.9	46.19508	-123.85218	nep
+COLR-RKm22.5_06	COLR	Underwater mooring	1.2	46.1967	-123.85272	nep
+COLR-RKm22.5_07	COLR	Underwater mooring	135.3	46.19761	-123.85367	nep
+COLR-RKm22.5_08	COLR	Underwater mooring	135.3	46.19842	-123.85367	nep
+COLR-RKm22.5_09	COLR	Underwater mooring	135.3	46.19941	-123.85394	nep
+COLR-RKm22.5_41	COLR	Underwater mooring	6.4	46.22382	-123.86641	nep
+COLR-RKm22.5_10	COLR	Underwater mooring	135.3	46.20028	-123.85469	nep
+COLR-RKm22.5_11	COLR	Underwater mooring	135.3	46.2007	-123.85471	nep
+COLR-RKm22.5_12	COLR	Underwater mooring	135.3	46.20106	-123.85448	nep
+COLR-RKm22.5_13	COLR	Underwater mooring	0.9	46.20143	-123.85533	nep
+COLR-RKm22.5_33	COLR	Underwater mooring	5.8	46.21722	-123.86288	nep
+COLR-RKm22.5_59	COLR	Underwater mooring	21.3	46.23852	-123.87389	nep
+COLR-RKm22.5_14	COLR	Underwater mooring	135.3	46.20195	-123.85537	nep
+COLR-RKm223.7_02	COLR	Underwater mooring	24.7	45.60329	-122.06081	nep
+COLR-RKm22.5_16	COLR	Underwater mooring	0	46.20311	-123.8557	nep
+COLR-RKm22.5_17	COLR	Underwater mooring	0	46.20408	-123.85635	nep
+COLR-RKm22.5_18	COLR	Underwater mooring	0	46.20488	-123.85674	nep
+COLR-RKm22.5_19	COLR	Underwater mooring	0	46.20567	-123.85714	nep
+COLR-RKm22.5_20	COLR	Underwater mooring	0	46.20647	-123.85751	nep
+COLR-RKm22.5_21	COLR	Underwater mooring	0	46.20732	-123.85802	nep
+COLR-RKm22.5_22	COLR	Underwater mooring	0	46.20818	-123.85835	nep
+COLR-RKm22.5_23	COLR	Underwater mooring	0	46.209	-123.85879	nep
+COLR-RKm22.5_24	COLR	Underwater mooring	0	46.20977	-123.85924	nep
+COLR-RKm22.5_25	COLR	Underwater mooring	3	46.21065	-123.8597	nep
+COLR-RKm22.5_26	COLR	Underwater mooring	3	46.2115	-123.85988	nep
+COLR-RKm22.5_27	COLR	Underwater mooring	3.4	46.21225	-123.86035	nep
+COLR-RKm22.5_28	COLR	Underwater mooring	3.4	46.21317	-123.86076	nep
+COLR-RKm22.5_29	COLR	Underwater mooring	3.4	46.21412	-123.86131	nep
+COLR-RKm22.5_30	COLR	Underwater mooring	5.2	46.21472	-123.86177	nep
+COLR-RKm22.5_31	COLR	Underwater mooring	6.4	46.21561	-123.86177	nep
+COLR-RKm22.5_32	COLR	Underwater mooring	6.1	46.21663	-123.8625	nep
+COLR-RKm22.5_34	COLR	Underwater mooring	5.5	46.21803	-123.8635	nep
+COLR-RKm22.5_35	COLR	Underwater mooring	5.8	46.21897	-123.864	nep
+COLR-RKm22.5_36	COLR	Underwater mooring	8.2	46.21971	-123.86421	nep
+COLR-RKm22.5_37	COLR	Underwater mooring	8.8	46.22058	-123.86475	nep
+COLR-RKm22.5_38	COLR	Underwater mooring	7.9	46.22139	-123.86514	nep
+COLR-RKm22.5_39	COLR	Underwater mooring	6.7	46.22221	-123.86559	nep
+COLR-RKm22.5_40	COLR	Underwater mooring	6.7	46.223	-123.86598	nep
+COLR-RKm22.5_42	COLR	Underwater mooring	6.1	46.22467	-123.86679	nep
+COLR-RKm22.5_43	COLR	Underwater mooring	6.1	46.22545	-123.86731	nep
+COLR-RKm22.5_44	COLR	Underwater mooring	6.1	46.2263	-123.86766	nep
+COLR-RKm22.5_45	COLR	Underwater mooring	5.8	46.22717	-123.86812	nep
+COLR-RKm22.5_46	COLR	Underwater mooring	3.7	46.22793	-123.86848	nep
+COLR-RKm22.5_47	COLR	Underwater mooring	4.9	46.22887	-123.86918	nep
+COLR-RKm22.5_48	COLR	Underwater mooring	6.7	46.22963	-123.86938	nep
+COLR-RKm22.5_49	COLR	Underwater mooring	11.6	46.23039	-123.86983	nep
+COLR-RKm22.5_50	COLR	Underwater mooring	10.7	46.23082	-123.87008	nep
+COLR-RKm22.5_51	COLR	Underwater mooring	12.5	46.23173	-123.87057	nep
+COLR-RKm22.5_52	COLR	Underwater mooring	15.5	46.23253	-123.87093	nep
+COLR-RKm22.5_53	COLR	Underwater mooring	17.1	46.23314	-123.87122	nep
+COLR-RKm22.5_54	COLR	Underwater mooring	18.9	46.23394	-123.8715	nep
+COLR-RKm22.5_55	COLR	Underwater mooring	22.3	46.23485	-123.87198	nep
+COLR-RKm22.5_56	COLR	Underwater mooring	22.9	46.23572	-123.87248	nep
+COLR-RKm22.5_57	COLR	Underwater mooring	24.4	46.23674	-123.87303	nep
+COLR-RKm22.5_58	COLR	Underwater mooring	20.4	46.23756	-123.87325	nep
+COLR-RKm22.5_60	COLR	Underwater mooring	18.6	46.23954	-123.87424	nep
+COLR-RKm22.5_61	COLR	Underwater mooring	9.1	46.24051	-123.87495	nep
+COLR-RKm222.1_01	COLR	Underwater mooring	14	45.59295	-122.07965	nep
+COLR-RKm222.1_02	COLR	Underwater mooring	13	45.59673	-122.07875	nep
+COLR-RKm223.7_01	COLR	Underwater mooring	15.5	45.60124	-122.05756	nep
+COLR-RKm225.3_02	COLR	Underwater mooring	22.9	45.61043	-122.04369	nep
+COLR-RKm676_01	COLR	Underwater mooring	16.6	46.68279	-117.63104	nep
+COLR-RKm676_02	COLR	Underwater mooring	11.7	46.68377	-117.62903	nep
+COLR-RKm681_01	COLR	Underwater mooring	13.2	46.67708	-117.56815	nep
+COLR-RKm681_02	COLR	Underwater mooring	15	46.67856	-117.56833	nep
+COLR-RKm86.6_01	COLR	Underwater mooring	7.9	46.18307	-123.17229	nep
+COLR-RKm86.6_02	COLR	Underwater mooring	11.2	46.18485	-123.17393	nep
+COLR-RKm86.6_03	COLR	Underwater mooring	17.6	46.18803	-123.17374	nep
+COLR-RKm87.2_01	COLR	Underwater mooring	11.3	46.18721	-123.16747	nep
+COLR-RKm87.5_01	COLR	Underwater mooring	11.3	46.188	-123.16145	nep
+COLR-RKm87.5_02	COLR	Underwater mooring	18.7	46.19061	-123.16289	nep
+COLR-RKm339.6_01	COLR	Underwater mooring	11	45.68748	-120.78551	nep
+COLR-RKm339.6_02	COLR	Underwater mooring	20.3	45.68924	-120.78617	nep
+COLR-RKm341.2_01	COLR	Underwater mooring	11.5	45.68966	-120.77738	nep
+COLR-RKm341.2_02	COLR	Underwater mooring	15.2	45.69184	-120.77895	nep
+COLR-RKm350.8_01	COLR	Underwater mooring	31.1	45.73019	-120.65994	nep
+COLR-RKm350.8_03	COLR	Underwater mooring	36.6	45.73362	-120.66492	nep
+COLR-RKm350.8_04	COLR	Underwater mooring	34.7	45.73549	-120.66737	nep
+COLR-RKm7.7_01	COLR	Underwater mooring	8.2	46.2405	-124.00087	nep
+COLR-RKm7.7_02	COLR	Underwater mooring	12.8	46.2441	-124.00328	nep
+COLR-RKm7.7_03	COLR	Underwater mooring	19.2	46.24807	-124.00502	nep
+COLR-RKm7.7_04	COLR	Underwater mooring	22.9	46.25126	-124.00638	nep
+COLR-RKm7.7_05	COLR	Underwater mooring	23.8	46.25433	-124.00805	nep
+COLR-RKm7.7_06	COLR	Underwater mooring	29.3	46.25797	-124.0095	nep
+COLR-RKm7.7_07	COLR	Underwater mooring	13.2	46.2617	-124.01084	nep
+COLR-RKm7.7_08	COLR	Underwater mooring	9.5	46.26888	-124.00354	nep
+COLR-RKm7.7_09	COLR	Underwater mooring	21.9	46.26118	-124.01115	nep
+COLR-RKm8.8_01	COLR	Underwater mooring	7.3	46.23183	-123.99114	nep
+COLR-RKm8.8_02	COLR	Underwater mooring	14.6	46.23503	-123.98869	nep
+COLR-RKm8.8_03	COLR	Underwater mooring	12.4	46.23915	-123.98744	nep
+COLR-RKm8.8_04	COLR	Underwater mooring	8.6	46.24291	-123.98755	nep
+COLR-RKm8.8_05	COLR	Underwater mooring	9.5	46.24751	-123.98748	nep
+COLR-RKm8.8_06	COLR	Underwater mooring	20.1	46.25122	-123.98785	nep
+COLR-RKm8.8_07	COLR	Underwater mooring	17.9	46.25505	-123.98895	nep
+COLR-RKm8.8_08	COLR	Underwater mooring	7.9	46.25837	-123.98997	nep
+COLR-RKm8.8_09	COLR	Underwater mooring	7.5	46.25827	-123.98925	nep
+COLR-RKm497.3_01	COLR	Underwater mooring	15	45.99549	-118.98534	nep
+COLR-RKm497.3_02	COLR	Underwater mooring	19.4	45.99629	-118.98914	nep
+COLR-RKm497.3_03	COLR	Underwater mooring	11.7	45.99722	-118.99301	nep
+COLR-RKm497.3_04	COLR	Underwater mooring	15	45.9983	-118.99724	nep
+COLR-RKm503.7_01	COLR	Underwater mooring	16.3	46.04068	-118.94288	nep
+COLR-RKm503.7_02	COLR	Underwater mooring	14.1	46.04058	-118.94703	nep
+COLR-RKm503.7_03	COLR	Underwater mooring	13.9	46.04062	-118.94982	nep
+COLR-RKm503.7_04	COLR	Underwater mooring	10.2	46.04048	-118.95338	nep
+COLR-RKm350.8_02	COLR	Underwater mooring	38.4	45.7319	-120.66227	nep
+COQUITLAM001	COQT	Underwater mooring	5	49.35468	-122.77708	nep
+COQUITLAM002	COQT	Underwater mooring	3	49.35522	-122.77975	nep
+COQUITLAM003	COQT	Underwater mooring	15	49.36893	-122.78915	nep
+COQUITLAM004	COQT	Underwater mooring	27	49.3678	-122.79265	nep
+COQUITLAM005	COQT	Underwater mooring	42	49.3767	-122.80287	nep
+COQUITLAM006	COQT	Underwater mooring	43	49.40462	-122.78735	nep
+COQUITLAM007	COQT	Underwater mooring	135	49.40287	-122.78325	nep
+COQUITLAM008	COQT	Underwater mooring	13	49.4407	-122.77237	nep
+COQUITLAM009	COQT	Underwater mooring	87	49.4278	-122.76525	nep
+COQUITLAM010	COQT	Underwater mooring	79	49.42865	-122.771	nep
+COQUITLAM011	COQT	Underwater mooring	19	49.3641	-122.85433	nep
+COWICHAN001	COWR	Underwater mooring	0.9	48.77226	-123.68502	nep
+COWICHAN002	COWR	Underwater mooring	0.9	48.77199	-123.68654	nep
+CAP_ELIZ001	CPELIZ	Underwater mooring	4	47.39595	-124.3339	nep
+CAP_ELIZ002	CPELIZ	Underwater mooring	10	47.39428	-124.34475	nep
+CAP_ELIZ003	CPELIZ	Underwater mooring	14	47.39313	-124.35584	nep
+CAP_ELIZ004	CPELIZ	Underwater mooring	17	47.3903	-124.36655	nep
+CAP_ELIZ005	CPELIZ	Underwater mooring	19	47.3869	-124.37678	nep
+CAP_ELIZ006	CPELIZ	Underwater mooring	19	47.38388	-124.38752	nep
+CAP_ELIZ007	CPELIZ	Underwater mooring	19	47.38176	-124.39863	nep
+CAP_ELIZ008	CPELIZ	Underwater mooring	21	47.37771	-124.40855	nep
+CAP_ELIZ009	CPELIZ	Underwater mooring	24	47.37627	-124.41971	nep
+CAP_ELIZ010	CPELIZ	Underwater mooring	29	47.37539	-124.43096	nep
+CAP_ELIZ011	CPELIZ	Underwater mooring	32	47.37405	-124.44209	nep
+CAP_ELIZ012	CPELIZ	Underwater mooring	35	47.37234	-124.4532	nep
+SWELTZER001	CULT	Underwater mooring	0.5	49.07766	-121.97813	nep
+ENGLISHMAN001	ENGR	Underwater mooring	32	49.33667	-124.29803	nep
+ENGLISHMAN002	ENGR	Underwater mooring	32	49.33464	-124.30659	nep
+ENGLISHMAN003	ENGR	Underwater mooring	135.3	49.31011	-124.2836	nep
+FRASER163	FRASER	Underwater mooring	135.3	49.23553	-121.96431	nep
+SOUTHARM-RKm21.2_02	FRASER	Underwater mooring	4.5	49.16738	-122.93447	nep
+DERBY-RKm51.3_03	FRASER	Underwater mooring	15.5	49.20442	-122.5948	nep
+DERBY-RKm51.3_04	FRASER	Underwater mooring	11.9	49.20514	-122.59408	nep
+MISSION-RKm79.7_01	FRASER	Underwater mooring	4	49.13608	-122.27463	nep
+MISSION-RKm79.7_02	FRASER	Underwater mooring	4	49.14237	-122.27018	nep
+NORTHARM-RKm21.6_01	FRASER	Underwater mooring	4.8	49.19268	-122.95635	nep
+PITT-RKm39_01	FRASER	Underwater mooring	4	49.21235	-122.74247	nep
+NORTHARM-RKm17.3_01	FRASER	Underwater mooring	3	49.19002	-123.00149	nep
+NORTHARM-RKm17.3_02	FRASER	Underwater mooring	1.5	49.19116	-122.99898	nep
+NORTHARM-RKm20.8_01	FRASER	Underwater mooring	2.5	49.19605	-122.94683	nep
+NORTHARM-RKm20.8_02	FRASER	Underwater mooring	1.5	49.18814	-122.96454	nep
+SOUTHARM-RKm21.2_01	FRASER	Underwater mooring	3.5	49.16523	-122.93015	nep
+SOUTHARM-RKm21.2_03	FRASER	Underwater mooring	1.5	49.17523	-122.95373	nep
+PITT-RKm39_02	FRASER	Underwater mooring	6	49.21748	-122.74678	nep
+PORT MANN-RKm31.7_01	FRASER	Underwater mooring	15	49.21783	-122.83572	nep
+SOUTHARM-RKm21.2_04	FRASER	Underwater mooring	4	49.17644	-122.95535	nep
+VEDDER001	FRASER	Underwater mooring	3.4	49.14286	-122.16423	nep
+VEDDER002	FRASER	Underwater mooring	4.6	49.13172	-122.09554	nep
+DERBY-RKm51.3_01	FRASER	Underwater mooring	1.5	49.20158	-122.596	nep
+NORTHARM-RKm17.8_01	FRASER	Underwater mooring	3.7	49.18663	-122.99635	nep
+FRASER164	FRASER	Underwater mooring	135.3	49.29075	-121.881	nep
+FRASER165	FRASER	Underwater mooring	135.3	49.3155	-121.80394	nep
+FRASER166	FRASER	Underwater mooring	135.3	51.18544	-122.12569	nep
+FRASER167	FRASER	Underwater mooring	135.3	51.62772	-124.14219	nep
+FRASER168	FRASER	Underwater mooring	135.3	52.61369	-121.55792	nep
+FRASER169	FRASER	Underwater mooring	135.3	50.82889	-119.6955	nep
+FRASER170	FRASER	Underwater mooring	135.3	50.88597	-119.55531	nep
+FRASER171	FRASER	Underwater mooring	135.3	50.89108	-119.53592	nep
+FRASER172	FRASER	Underwater mooring	135.3	50.89736	-119.54708	nep
+FRASER173	FRASER	Underwater mooring	135.3	50.83703	-119.00133	nep
+FRASER174	FRASER	Underwater mooring	135.3	50.79381	-118.99961	nep
+FRASER175	FRASER	Underwater mooring	135.3	50.77028	-120.81306	nep
+FRASER176	FRASER	Underwater mooring	135.3	50.35892	-121.39719	nep
+FRASER177	FRASER	Underwater mooring	135.3	50.68403	-120.36144	nep
+FRASER178	FRASER	Underwater mooring	135.3	50.86864	-119.59897	nep
+PORT MANN-RKm31.7_02	FRASER	Underwater mooring	4	49.22137	-122.83256	nep
+SOUTHARM-RKm20.5_05	FRASER	Underwater mooring	7.3	49.17241	-122.96179	nep
+SOUTHARM-RKm9.3_01	FRASER	Underwater mooring	11.9	49.1217	-123.07061	nep
+SOUTHARM-RKm9.3_02	FRASER	Underwater mooring	14.6	49.12257	-123.07166	nep
+SOUTHARM-RKm9.3_03	FRASER	Underwater mooring	14.6	49.12349	-123.07258	nep
+SOUTHARM-RKm9.3_04	FRASER	Underwater mooring	14.6	49.12456	-123.07297	nep
+SOUTHARM-RKm9.3_05	FRASER	Underwater mooring	9.1	49.12545	-123.07381	nep
+WHONNOCK-RKm60_01	FRASER	Underwater mooring	3	49.16613	-122.48868	nep
+WHONNOCK-RKm60_02	FRASER	Underwater mooring	5	49.17022	-122.5046	nep
+DERBY-RKm51.3_02	FRASER	Underwater mooring	1.5	49.20415	-122.59087	nep
+MISSION-RKm76.8_01	FRASER	Underwater mooring	3.7	49.12766	-122.30298	nep
+MISSION-RKm76.8_02	FRASER	Underwater mooring	4.6	49.12325	-122.3004	nep
+NORTHARM-RKm17.8_02	FRASER	Underwater mooring	5.5	49.18792	-122.995	nep
+NORTHARM-RKm22.3_01	FRASER	Underwater mooring	3.7	49.19565	-122.94682	nep
+NORTHARM-RKm22.3_02	FRASER	Underwater mooring	1.8	49.19653	-122.94757	nep
+SOUTHARM-RKm20.5_01	FRASER	Underwater mooring	1.8	49.15918	-122.94018	nep
+SOUTHARM-RKm20.5_02	FRASER	Underwater mooring	14.6	49.16113	-122.9409	nep
+SOUTHARM-RKm20.5_03	FRASER	Underwater mooring	1.8	49.16315	-122.94167	nep
+SOUTHARM-RKm20.5_04	FRASER	Underwater mooring	9.1	49.17189	-122.96098	nep
+SOUTHARM-RKm8.7_01	FRASER	Underwater mooring	1.3	49.11707	-123.07924	nep
+SOUTHARM-RKm8.7_02	FRASER	Underwater mooring	1.1	49.1227	-123.08122	nep
+MISSION-RKm77.1_02	FRASER	Underwater mooring	7.626	49.12902	-122.29969	nep
+RKm17.3_01	FRASER	Underwater mooring	3	49.19002	-123.00149	nep
+RKm17.3_02	FRASER	Underwater mooring	1.5	49.19116	-122.99898	nep
+RKm20.8_01	FRASER	Underwater mooring	2.5	49.19605	-122.94683	nep
+RKm20.8_02	FRASER	Underwater mooring	1.5	49.18814	-122.96454	nep
+RKm21.2_01	FRASER	Underwater mooring	3.5	49.16523	-122.93015	nep
+RKm21.2_02	FRASER	Underwater mooring	4.5	49.16738	-122.93447	nep
+RKm21.2_03	FRASER	Underwater mooring	1.5	49.17523	-122.95373	nep
+RKm21.2_04	FRASER	Underwater mooring	4	49.17644	-122.95535	nep
+RKm51.3_01	FRASER	Underwater mooring	3.6	49.20163	-122.596	nep
+RKm51.3_02	FRASER	Underwater mooring	1.5	49.20354	-122.5901	nep
+RKm76.8_01	FRASER	Underwater mooring	5	49.12325	-122.3004	nep
+RKm76.8_02	FRASER	Underwater mooring	1.5	49.12766	-122.30298	nep
+RKm79.7_01	FRASER	Underwater mooring	0.305	49.139567	-122.268433	nep
+RKm8.7_01	FRASER	Underwater mooring	3.048	49.11718	-123.0792	nep
+RKm8.7_02	FRASER	Underwater mooring	2.5	49.12281	-123.08101	nep
+Alex Fraser Bridge	FWS	Underwater mooring	135.3	49.1632	-122.9417	nep
+Coquihalla/Hope 1	FWS	Underwater mooring	135.3	49.3798	-121.4797	nep
+Coquihalla/Hope 2	FWS	Underwater mooring	135.3	49.3996	-121.433	nep
+Debris trap downstream	FWS	Underwater mooring	135.3	49.3247	-121.6378	nep
+Harrison	FWS	Underwater mooring	135.3	49.2343	-121.9581	nep
+Harrison 2	FWS	Underwater mooring	135.3	49.2619	-121.9173	nep
+Harrison Upstream	FWS	Underwater mooring	135.3	49.2264	-121.9009	nep
+Herrling 1	FWS	Underwater mooring	135.3	49.2155	-121.7055	nep
+Herrling 2	FWS	Underwater mooring	135.3	49.2523	-121.6824	nep
+Hunter Creek	FWS	Underwater mooring	135.3	49.3612	-121.5684	nep
+Hunter mouth	FWS	Underwater mooring	135.3	49.3599	-121.5721	nep
+Hwy 11	FWS	Underwater mooring	135.3	49.1248	-122.3098	nep
+Hwy 11(2)	FWS	Underwater mooring	135.3	49.1248	-122.3108	nep
+Jespersons 1	FWS	Underwater mooring	135.3	49.2144	-121.8788	nep
+Jespersons 2	FWS	Underwater mooring	135.3	49.2097	-121.8439	nep
+Lower canyon	FWS	Underwater mooring	135.3	49.4488	-121.4148	nep
+Pitt 1	FWS	Underwater mooring	135.3	49.2471	-122.7289	nep
+Ruby 1	FWS	Underwater mooring	135.3	49.3553	-121.6031	nep
+Ruby 2	FWS	Underwater mooring	135.3	49.3592	-121.5953	nep
+Ruby 3	FWS	Underwater mooring	135.3	49.3563	-121.5847	nep
+Seabird 1	FWS	Underwater mooring	135.3	49.2933	-121.6783	nep
+Seabird 2	FWS	Underwater mooring	135.3	49.3004	-121.6795	nep
+Stave 1	FWS	Underwater mooring	135.3	49.1734	-122.443	nep
+Stave 2	FWS	Underwater mooring	135.3	49.1652	-122.4252	nep
+Vedder	FWS	Underwater mooring	135.3	49.139	-122.1881	nep
+Bar 289	FWS	Underwater mooring	135.3	49.41178	-121.41904	nep
+Bristol Island	FWS	Underwater mooring	135.3	49.37975	-121.47965	nep
+Canoe Pass	FWS	Underwater mooring	135.3	49.08084	-123.130007	nep
+Coquihalla Side Channel	FWS	Underwater mooring	135.3	49.395774	-121.4355	nep
+Floods Hope Bar	FWS	Underwater mooring	135.3	49.36769	-121.52214	nep
+Hamilton Bar	FWS	Underwater mooring	135.3	49.23094	-121.63456	nep
+Harrison Lake	FWS	Underwater mooring	135.3	49.30702	-121.80919	nep
+Hunter Creek alternate	FWS	Underwater mooring	135.3	49.361327	-121.568219	nep
+Hunter Creek Downstream	FWS	Underwater mooring	135.3	49.35625	-121.58468	nep
+Lion Island	FWS	Underwater mooring	135.3	49.15741	-123.00086	nep
+Lower canyon alternate	FWS	Underwater mooring	135.3	49.448864	-121.414737	nep
+MacMillan Isle Downstream	FWS	Underwater mooring	135.3	49.18865	-122.58859	nep
+Massey Tunnel	FWS	Underwater mooring	135.3	49.12275	-123.08118	nep
+Massey Tunnel alternate	FWS	Underwater mooring	135.3	49.12275	-123.08118	nep
+Minto Side channel	FWS	Underwater mooring	135.3	49.20436	-121.94774	nep
+Mountain Bar	FWS	Underwater mooring	135.3	49.21548	-121.95694	nep
+North Arm	FWS	Underwater mooring	135.3	49.19706	-122.93998	nep
+Pitt 2	FWS	Underwater mooring	135.3	49.35214	-122.61488	nep
+Seabird Downstream	FWS	Underwater mooring	135.3	49.25549	-121.96771	nep
+Stave 1 alternate	FWS	Underwater mooring	135.3	49.17348	-122.45481	nep
+Vedder alternate	FWS	Underwater mooring	135.3	49.13902	-122.18813	nep
+Coquihalla Island Upstream	FWS	Underwater mooring	135.3	49.39973	-121.42599	nep
+Douglas Island South	FWS	Underwater mooring	135.3	49.214967	-122.77087	nep
+FH Barber	FWS	Underwater mooring	135.3	49.22977	-121.94494	nep
+Green Wood Island	FWS	Underwater mooring	135.3	49.37396	-121.4483	nep
+Harrison Hot Springs	FWS	Underwater mooring	135.3	49.30203	-121.81588	nep
+Harrison Mills	FWS	Underwater mooring	135.3	49.2475	-121.94379	nep
+Harrison River #1	FWS	Underwater mooring	135.3	49.279483	-121.91092	nep
+Harrison River #2	FWS	Underwater mooring	135.3	49.269567	-121.90782	nep
+Harrison River #3	FWS	Underwater mooring	135.3	49.29445	-121.86242	nep
+Herling DS	FWS	Underwater mooring	135.3	49.207117	-121.739689	nep
+Herling US	FWS	Underwater mooring	135.3	49.20555	-121.777417	nep
+Jesperson DS	FWS	Underwater mooring	135.3	49.21858	-121.88139	nep
+Jesperson US	FWS	Underwater mooring	135.3	49.214883	-121.82111	nep
+Mid Pitt River	FWS	Underwater mooring	135.3	49.292433	-122.65833	nep
+Pitt - Fraser Confluence	FWS	Underwater mooring	135.3	49.257983	-122.71802	nep
+Seabird Island	FWS	Underwater mooring	135.3	49.221433	-121.70754	nep
+Stave 1b	FWS	Underwater mooring	135.3	49.17355	-122.45337	nep
+Sumas - Fraser Confluence	FWS	Underwater mooring	135.3	49.1959	-121.97485	nep
+Upper Pitt River	FWS	Underwater mooring	135.3	49.351767	-122.61455	nep
+GRAVES_H001	GRAVES	Underwater mooring	16	58.40891	-137.14728	nep
+GRAVES_H002	GRAVES	Underwater mooring	31	58.40352	-137.15704	nep
+GRAVES_H003	GRAVES	Underwater mooring	82	58.39844	-137.16795	nep
+GRAVES_H004	GRAVES	Underwater mooring	110	58.39365	-137.17938	nep
+GRAVES_H005	GRAVES	Underwater mooring	135	58.38872	-137.19046	nep
+GRAVES_H006	GRAVES	Underwater mooring	154	58.38337	-137.20093	nep
+GRAVES_H007	GRAVES	Underwater mooring	168	58.37799	-137.21106	nep
+GRAVES_H008	GRAVES	Underwater mooring	173	58.3728	-137.22182	nep
+GRAVES_H009	GRAVES	Underwater mooring	167	58.36762	-137.23294	nep
+GRAVES_H010	GRAVES	Underwater mooring	152	58.36302	-137.24515	nep
+GRAVES_H011	GRAVES	Underwater mooring	172	58.35879	-137.25769	nep
+GRAVES_H012	GRAVES	Underwater mooring	183	58.35395	-137.26872	nep
+GRAVES_H013	GRAVES	Underwater mooring	188	58.34781	-137.27986	nep
+GRAVES_H014	GRAVES	Underwater mooring	122.5	58.20818	-136.85947	nep
+GRAVES_H015	GRAVES	Underwater mooring	146.3	58.20271	-136.86929	nep
+GRAVES_H016	GRAVES	Underwater mooring	157.3	58.19721	-136.87898	nep
+GRAVES_H017	GRAVES	Underwater mooring	168.2	58.1913	-136.88785	nep
+GRAVES_H018	GRAVES	Underwater mooring	179.2	58.18505	-136.89624	nep
+GRAVES_H019	GRAVES	Underwater mooring	188.4	58.17916	-136.90492	nep
+GRAVES_H020	GRAVES	Underwater mooring	197.5	58.17328	-136.9124	nep
+GRAVES_H021	GRAVES	Underwater mooring	203	58.16856	-136.91518	nep
+GRAVES_H022	GRAVES	Underwater mooring	210.3	58.16158	-136.91978	nep
+GRAVES_H023	GRAVES	Underwater mooring	210.3	58.15865	-136.92458	nep
+Port Gravina001	GRAVN	Underwater mooring	17	60.6513	-146.27072	nep
+Port Gravina012	GRAVN	Underwater mooring	17	60.68885	-146.39118	nep
+Port Gravina015	GRAVN	Underwater mooring	15.9	60.6426	-146.28735	nep
+Port Gravina016	GRAVN	Underwater mooring	11.6	60.68885	-146.32343	nep
+Port Gravina017	GRAVN	Underwater mooring	14.6	60.6923	-146.32127	nep
+Port Gravina018	GRAVN	Underwater mooring	18.9	60.6637	-146.2525	nep
+Port Gravina019	GRAVN	Underwater mooring	13.4	60.67207	-146.23412	nep
+Port Gravina020	GRAVN	Underwater mooring	18.3	60.6667	-146.25855	nep
+Port Gravina021	GRAVN	Underwater mooring	13.7	60.6686	-146.2485	nep
+Port Gravina022	GRAVN	Underwater mooring	18.3	60.67312	-146.22983	nep
+Port Gravina010	GRAVN	Underwater mooring	58.5	60.68245	-146.36933	nep
+Port Gravina011	GRAVN	Underwater mooring	42.7	60.68627	-146.38077	nep
+Port Gravina013	GRAVN	Underwater mooring	7	60.69057	-146.39893	nep
+Port Gravina014	GRAVN	Underwater mooring	18.3	60.67235	-146.23873	nep
+Port Gravina002	GRAVN	Underwater mooring	47.3	60.65167	-146.27803	nep
+Port Gravina023	GRAVN	Underwater mooring	15.2	60.62416	-146.21777	nep
+Port Gravina003	GRAVN	Underwater mooring	68.6	60.65563	-146.28922	nep
+Port Gravina004	GRAVN	Underwater mooring	118.9	60.65947	-146.30067	nep
+Port Gravina005	GRAVN	Underwater mooring	130.5	60.6633	-146.3121	nep
+Port Gravina006	GRAVN	Underwater mooring	127.7	60.66713	-146.32355	nep
+Port Gravina007	GRAVN	Underwater mooring	124.7	60.67095	-146.335	nep
+Port Gravina008	GRAVN	Underwater mooring	89.9	60.67478	-146.346	nep
+Port Gravina009	GRAVN	Underwater mooring	71	60.67862	-146.35788	nep
+HS_IN001	HOWE	Underwater mooring	190	49.59388	-123.22941	nep
+HS_IN002	HOWE	Underwater mooring	283	49.59565	-123.23552	nep
+HS_IN004	HOWE	Underwater mooring	280	49.59982	-123.25163	nep
+HS_IN003	HOWE	Underwater mooring	282	49.59722	-123.24008	nep
+HS_OUT001	HOWE	Underwater mooring	115	49.4714	-123.25158	nep
+HS_OUT002	HOWE	Underwater mooring	220	49.46955	-123.26128	nep
+HS_OUT003	HOWE	Underwater mooring	249	49.4688	-123.27065	nep
+HS_OUT004	HOWE	Underwater mooring	249	49.46747	-123.2803	nep
+HS_OUT005	HOWE	Underwater mooring	240	49.46727	-123.29053	nep
+HS_OUT006	HOWE	Underwater mooring	240	49.46632	-123.3007	nep
+HS_OUT007	HOWE	Underwater mooring	200	49.46605	-123.31087	nep
+HS_OUT008	HOWE	Underwater mooring	151	49.47352	-123.46145	nep
+HS_OUT009	HOWE	Underwater mooring	173	49.4786	-123.46608	nep
+HS_OUT010	HOWE	Underwater mooring	177	49.48202	-123.4684	nep
+HS_OUT011	HOWE	Underwater mooring	124.4	49.48209	-123.47069	nep
+HLW-END	HWI	Underwater mooring	135.3	43.03	-66.36	nep
+KNH-END	HWI	Underwater mooring	135.3	43.03	-66.36	nep
+WKE-END	HWI	Underwater mooring	135.3	43.03	-66.36	nep
+WKW-END	HWI	Underwater mooring	135.3	43.03	-66.36	nep
+HLW-START	HWI	Underwater mooring	135.3	43.03	-66.36	nep
+KNH-START	HWI	Underwater mooring	135.3	43.03	-66.36	nep
+WKE-START	HWI	Underwater mooring	135.3	43.03	-66.36	nep
+WKW-START	HWI	Underwater mooring	135.3	43.03	-66.36	nep
+WAIKIKI WEST DEEP	HWI	Underwater mooring	183	21.27442	-157.89825	nep
+WAIKIKI WEST SHALLOW	HWI	Underwater mooring	37	21.28347	-157.8932	nep
+WAIKIKI EAST DEEP	HWI	Underwater mooring	183	21.2716	-157.86293	nep
+WAIKIKI WEST MIDDLE	HWI	Underwater mooring	73	21.28035	-157.89583	nep
+WAIKIKI EAST MIDDLE	HWI	Underwater mooring	73	21.27402	-157.85913	nep
+FFS-FFS SE MESO	HWI	Underwater mooring	135.3	23.61809	-166.13956	nep
+FFS-FFS SW MESO	HWI	Underwater mooring	135.3	23.63191	-166.20595	nep
+FFS-RAPTURE MESO	HWI	Underwater mooring	135.3	23.63033	-166.18883	nep
+FFS-RAPTURE REEF	HWI	Underwater mooring	135.3	23.63509	-166.1857	nep
+MAUI-KAANAPALI DEEP	HWI	Underwater mooring	135.3	20.92041	-156.74126	nep
+MAUI-KAHULUI DEEP	HWI	Underwater mooring	135.3	20.94734	-156.455	nep
+MAUI-KALAMA DEEP	HWI	Underwater mooring	135.3	20.71473	-156.48593	nep
+MAUI-KALAMA SHALLOW	HWI	Underwater mooring	135.3	20.72546	-156.45827	nep
+MAUI-OLOWALU DEEP	HWI	Underwater mooring	135.3	20.76218	-156.62425	nep
+MAUI-OLOWALU SHALLOW	HWI	Underwater mooring	135.3	20.80102	-156.61725	nep
+MAUI-PALAUEA DEEP	HWI	Underwater mooring	135.3	20.66659	-156.46616	nep
+MAUI-PALAUEA SHALLOW	HWI	Underwater mooring	135.3	20.66983	-156.44591	nep
+MAUI-WAIEHU SHALLOW	HWI	Underwater mooring	135.3	20.90974	-156.47993	nep
+OAHU-COCONUT - HIMB SE	HWI	Underwater mooring	135.3	21.43453	-157.78382	nep
+OAHU-GR5	HWI	Underwater mooring	135.3	21.49908	-157.82785	nep
+OAHU-KANEOHE MIDBAY	HWI	Underwater mooring	135.3	21.46295	-157.81978	nep
+OAHU-KIPAPA DEEP	HWI	Underwater mooring	135.3	21.50922	-157.76558	nep
+OAHU-KIPAPA MEDIUM	HWI	Underwater mooring	135.3	21.49728	-157.77423	nep
+OAHU-KIPAPA SHALLOW	HWI	Underwater mooring	135.3	21.49008	-157.7788	nep
+OAHU-LILIPUNA	HWI	Underwater mooring	135.3	21.43198	-157.79348	nep
+OAHU-MOKU MANU	HWI	Underwater mooring	135.3	21.50158	-157.79359	nep
+OAHU-NORTH SHORE SHARK ADVENTURES BUOY	HWI	Underwater mooring	135.3	21.62013	-158.15256	nep
+OAHU-REEF 44	HWI	Underwater mooring	135.3	21.4767	-157.8299	nep
+OAHU-SUNSET BEACH	HWI	Underwater mooring	135.3	21.6771	-158.04376	nep
+OAHU-ULUA BARGE	HWI	Underwater mooring	135.3	21.52571	-157.81158	nep
+OAHU-WAIKIKI EAST DEEP	HWI	Underwater mooring	135.3	21.2714	-157.35452	nep
+OAHU-WAIKIKI EAST MID	HWI	Underwater mooring	135.3	21.27365	-157.35456	nep
+OAHU-WAIKIKI EAST SHALLOW	HWI	Underwater mooring	135.3	21.27628	-157.85495	nep
+OAHU-WAIKIKI WEST DEEP	HWI	Underwater mooring	135.3	21.27448	-157.89993	nep
+OAHU-WAIKIKI WEST MID	HWI	Underwater mooring	135.3	21.28025	-157.89535	nep
+OAHU-WAIKIKI WEST SHALLOW	HWI	Underwater mooring	135.3	21.2833	-157.89308	nep
+PHR-MESO MID CHANNEL	HWI	Underwater mooring	135.3	27.78388	-175.85747	nep
+Kahuui Mid	HWI	Underwater mooring	135.3	20.92818	-156.45049	nep
+Main Channel - West Side	HWI	Underwater mooring	135.3	27.79091667	-175.863	nep
+Meso Mid Ledge	HWI	Underwater mooring	135.3	27.76528	-175.89598	nep
+Outer North K Bay	HWI	Underwater mooring	135.3	21.50165	-157.79363	nep
+Pailolo	HWI	Underwater mooring	135.3	21.126429	-156.703885	nep
+Palauea Deep	HWI	Underwater mooring	135.3	20.66627	-156.46614	nep
+SE Channel	HWI	Underwater mooring	135.3	27.78701667	-175.8362333	nep
+Turtle Cave	HWI	Underwater mooring	135.3	21.473889	-157.778611	nep
+Waikiki West Mid	HWI	Underwater mooring	135.3	21.28	-157.89531	nep
+IND_ARM001	INDARM	Underwater mooring	18.3	49.29152	-122.95393	nep
+IND_ARM002	INDARM	Underwater mooring	42.1	49.29737	-122.95556	nep
+NJDF011	JDF	Underwater mooring	165	48.3222	-123.9934	nep
+NJDF012	JDF	Underwater mooring	170	48.3168	-124.0002	nep
+NJDF013	JDF	Underwater mooring	177	48.3115	-124.0069	nep
+NJDF014	JDF	Underwater mooring	184	48.3059	-124.0133	nep
+NJDF015	JDF	Underwater mooring	184	48.3006	-124.0202	nep
+NJDF016	JDF	Underwater mooring	190	48.2952	-124.0269	nep
+NJDF017	JDF	Underwater mooring	190	48.2897	-124.0337	nep
+NJDF018	JDF	Underwater mooring	185	48.2844	-124.0405	nep
+NJDF019	JDF	Underwater mooring	182	48.2789	-124.0469	nep
+NJDF020	JDF	Underwater mooring	180	48.2735	-124.0536	nep
+NJDF021	JDF	Underwater mooring	180	48.2681	-124.0603	nep
+NJDF022	JDF	Underwater mooring	170	48.2626	-124.0669	nep
+NJDF023	JDF	Underwater mooring	170	48.2572	-124.0737	nep
+NJDF024	JDF	Underwater mooring	150	48.2463	-124.0871	nep
+NJDF025	JDF	Underwater mooring	133	48.2518	-124.0802	nep
+NJDF026	JDF	Underwater mooring	150	48.241	-124.0938	nep
+NJDF027	JDF	Underwater mooring	147	48.2355	-124.1005	nep
+NJDF028	JDF	Underwater mooring	130	48.2302	-124.1072	nep
+NJDF029	JDF	Underwater mooring	70	48.2246	-124.1141	nep
+JDF031	JDF	Underwater mooring	54.9	48.22032	-124.10104	nep
+JDF005	JDF	Underwater mooring	120	48.3559	-123.95138	nep
+JDF008	JDF	Underwater mooring	140	48.33848	-123.97333	nep
+JDF009	JDF	Underwater mooring	152	48.33168	-123.97857	nep
+JDF010	JDF	Underwater mooring	165	48.32558	-123.98545	nep
+JDF012	JDF	Underwater mooring	174	48.313	-123.9994	nep
+JDF017	JDF	Underwater mooring	189	48.27874	-124.03619	nep
+JDF020	JDF	Underwater mooring	182	48.26402	-124.06326	nep
+JDF021	JDF	Underwater mooring	176	48.25927	-124.07282	nep
+JDF027	JDF	Underwater mooring	71	48.22396	-124.11169	nep
+JDF028	JDF	Underwater mooring	151.8	48.23439	-124.0826	nep
+JDF-ST01	JDF	Underwater mooring	140	48.33667	-123.96877	nep
+JDF-ST02	JDF	Underwater mooring	140	48.33487	-123.97104	nep
+JDF016	JDF	Underwater mooring	190	48.28286	-124.02527	nep
+JDF018	JDF	Underwater mooring	182	48.27439	-124.04577	nep
+NJDF001	JDF	Underwater mooring	15	48.3764	-123.9261	nep
+NJDF002	JDF	Underwater mooring	80	48.3711	-123.933	nep
+NJDF003	JDF	Underwater mooring	105	48.3656	-123.9397	nep
+NJDF004	JDF	Underwater mooring	115	48.3602	-123.9463	nep
+NJDF005	JDF	Underwater mooring	120	48.3548	-123.9529	nep
+NJDF006	JDF	Underwater mooring	130	48.3493	-123.9597	nep
+NJDF007	JDF	Underwater mooring	135	48.344	-123.9664	nep
+NJDF008	JDF	Underwater mooring	140	48.3385	-123.9731	nep
+NJDF009	JDF	Underwater mooring	145	48.3332	-123.9798	nep
+NJDF010	JDF	Underwater mooring	160	48.3277	-123.9866	nep
+JDF001	JDF	Underwater mooring	43	48.37382	-123.92098	nep
+JDF002	JDF	Underwater mooring	63	48.3721	-123.92668	nep
+JDF003	JDF	Underwater mooring	107	48.36703	-123.93523	nep
+JDF004	JDF	Underwater mooring	110	48.36168	-123.94363	nep
+Baff01-01	ABO	Underwater mooring	700	71.9783	-71.4421	OTN-Global
+Baff01-02	ABO	Underwater mooring	900	72.0093	-71.3446	OTN-Global
+Baff01-03	ABO	Underwater mooring	1100	72.0422	-71.2405	OTN-Global
+Baff03-01	ABO	Underwater mooring	702	70.6832	-66.8139	OTN-Global
+Baff03-02	ABO	Underwater mooring	900	70.687	-66.7662	OTN-Global
+Baff03-03	ABO	Underwater mooring	1100	70.6934	-66.6869	OTN-Global
+Baff04-01	ABO	Underwater mooring	1100	68.9778	-64.0851	OTN-Global
+Baff04-02	ABO	Underwater mooring	900	68.9788	-64.1834	OTN-Global
+Baff04-03	ABO	Underwater mooring	700	68.9788	-64.2561	OTN-Global
+Baff06-01	ABO	Underwater mooring	589	67.6442	-62.4104	OTN-Global
+Baff06-02	ABO	Underwater mooring	1000	67.6863	-62.3711	OTN-Global
+Baff06-03	ABO	Underwater mooring	1034	67.7546	-62.3085	OTN-Global
+Baff07-01	ABO	Underwater mooring	997	66.8398	-59.4322	OTN-Global
+Baff07-02	ABO	Underwater mooring	859	66.7164	-59.6917	OTN-Global
+Baff07-03	ABO	Underwater mooring	651	66.5973	-59.9616	OTN-Global
+Nar01-01	ABO	Underwater mooring	1116	68.1608	-59.7771	OTN-Global
+Nar01-02	ABO	Underwater mooring	1024	68.1631	-59.7416	OTN-Global
+Nar01-03	ABO	Underwater mooring	972	68.1646	-59.7192	OTN-Global
+Nar01-04	ABO	Underwater mooring	702	68.1697	-59.6212	OTN-Global
+Nar02-01	ABO	Underwater mooring	1085	67.8498	-59.3662	OTN-Global
+Nar02-02	ABO	Underwater mooring	934	67.8575	-59.3253	OTN-Global
+Nar02-03	ABO	Underwater mooring	815	67.8647	-59.2984	OTN-Global
+Nar02-04	ABO	Underwater mooring	647	67.8774	-59.2457	OTN-Global
+Nar03-01	ABO	Underwater mooring	1104	67.6398	-58.9723	OTN-Global
+Nar03-02	ABO	Underwater mooring	1019	67.6475	-58.9476	OTN-Global
+Nar03-03	ABO	Underwater mooring	875	67.6559	-58.9188	OTN-Global
+Nar03-04	ABO	Underwater mooring	709	67.6657	-58.8859	OTN-Global
+Nar04-01	ABO	Underwater mooring	1100	67.4064	-58.4661	OTN-Global
+Nar04-02	ABO	Underwater mooring	1002	67.4363	-58.3335	OTN-Global
+Nar04-03	ABO	Underwater mooring	905	67.4538	-58.2862	OTN-Global
+Nar04-04	ABO	Underwater mooring	701	67.4741	-58.2206	OTN-Global
+Nar05-01	ABO	Underwater mooring	952	67.25	-60.5	OTN-Global
+Nar05-02	ABO	Underwater mooring	990	67.2495	-60.3825	OTN-Global
+Nar05-03	ABO	Underwater mooring	1024	67.2504	-60.2548	OTN-Global
+ACB001	ACB	Underwater mooring	9.5	68.9393	-108.5106	OTN-Global
+ACB003	ACB	Underwater mooring	1.5	69.1753	-107.1322	OTN-Global
+ACB004	ACB	Underwater mooring	8	69.1513	-107.0895	OTN-Global
+ACB005	ACB	Underwater mooring	8	69.1444	-107.0526	OTN-Global
+ACB006	ACB	Underwater mooring	11	69.4628	-106.6969	OTN-Global
+ACB007	ACB	Underwater mooring	14	69.3983	-106.3289	OTN-Global
+ACB008	ACB	Underwater mooring	9.6	69.4052	-106.3515	OTN-Global
+ACB009	ACB	Underwater mooring	10	69.4009	-105.1558	OTN-Global
+ACB010	ACB	Underwater mooring	3.8	69.4053	-106.3001	OTN-Global
+ACB011	ACB	Underwater mooring	6	69.2519	-105.8271	OTN-Global
+ACB012	ACB	Underwater mooring	40	69.1138	-105.0355	OTN-Global
+ACB013	ACB	Underwater mooring	8.3	69.0228	-107.2993	OTN-Global
+ACB014	ACB	Underwater mooring	23.5	69.0222	-107.2742	OTN-Global
+ACB015	ACB	Underwater mooring	8.5	69.3721	-106.7769	OTN-Global
+ACB016	ACB	Underwater mooring	20	69.37	-106.7425	OTN-Global
+ACB017	ACB	Underwater mooring	8.8	69.4651	-106.4652	OTN-Global
+ACB018	ACB	Underwater mooring	9	69.4593	-106.4805	OTN-Global
+ACB019	ACB	Underwater mooring	7.2	69.3462	-106.3219	OTN-Global
+ACB020	ACB	Underwater mooring	9.2	69.3473	-106.3525	OTN-Global
+ACB021	ACB	Underwater mooring	22	69.1464	-105.9717	OTN-Global
+ACB022	ACB	Underwater mooring	20	69.1407	-105.9854	OTN-Global
+ACB023	ACB	Underwater mooring	25	69.088	-105.299	OTN-Global
+ACB024	ACB	Underwater mooring	48	69.0832	-105.3231	OTN-Global
+ACB025	ACB	Underwater mooring	12.4	69.2508	-106.8852	OTN-Global
+ACB026	ACB	Underwater mooring	21.5	69.2501	-106.8553	OTN-Global
+ACB027	ACB	Underwater mooring	41	69.249	-106.823	OTN-Global
+ACB028	ACB	Underwater mooring	60.3	69.2481	-106.7959	OTN-Global
+ACB029	ACB	Underwater mooring	63	69.2474	-106.7686	OTN-Global
+ACB030	ACB	Underwater mooring	64	69.246	-106.7423	OTN-Global
+ACB031	ACB	Underwater mooring	59.6	69.2453	-106.7134	OTN-Global
+ACB032	ACB	Underwater mooring	49.4	69.2442	-106.683	OTN-Global
+ACB033	ACB	Underwater mooring	59.6	69.2432	-106.6549	OTN-Global
+ACB034	ACB	Underwater mooring	63.2	69.2425	-106.6283	OTN-Global
+ACB035	ACB	Underwater mooring	48	69.2414	-106.5986	OTN-Global
+ACB036	ACB	Underwater mooring	40.5	69.2405	-106.5658	OTN-Global
+ACB037	ACB	Underwater mooring	45	69.2393	-106.5379	OTN-Global
+ACB038	ACB	Underwater mooring	47	69.2385	-106.5105	OTN-Global
+ACB039	ACB	Underwater mooring	37.4	69.2372	-106.4779	OTN-Global
+ACB040	ACB	Underwater mooring	36	69.2363	-106.4444	OTN-Global
+ACB041	ACB	Underwater mooring	15.3	69.2355	-106.4142	OTN-Global
+ACB042	ACB	Underwater mooring	8	69.1544	-107.078	OTN-Global
+ACB043	ACB	Underwater mooring	7.4	69.4142	-106.1748	OTN-Global
+ACB070	ACB	Underwater mooring	5.6	69.4631	-105.5118	OTN-Global
+ACB069	ACB	Underwater mooring	10.3	69.4595	-104.6015	OTN-Global
+ACB044	ACB	Underwater mooring	45.3	69.2374	-106.4863	OTN-Global
+ACB045	ACB	Underwater mooring	45	69.2388	-106.5279	OTN-Global
+ACB046	ACB	Underwater mooring	42.2	69.2405	-106.5697	OTN-Global
+ACB047	ACB	Underwater mooring	56	69.2416	-106.6118	OTN-Global
+ACB048	ACB	Underwater mooring	59.9	69.2431	-106.6546	OTN-Global
+ACB049	ACB	Underwater mooring	53.1	69.2447	-106.6962	OTN-Global
+ACB050	ACB	Underwater mooring	62.7	69.2457	-106.7366	OTN-Global
+ACB051	ACB	Underwater mooring	64.1	69.2476	-106.7793	OTN-Global
+ACB052	ACB	Underwater mooring	44.3	69.2489	-106.8199	OTN-Global
+ACB053	ACB	Underwater mooring	8.5	69.4864	-104.3379	OTN-Global
+ACB054	ACB	Underwater mooring	7	69.554	-104.1778	OTN-Global
+ACB055	ACB	Underwater mooring	6	69.7241	-104.4968	OTN-Global
+ACB056	ACB	Underwater mooring	9	69.8725	-104.8563	OTN-Global
+ACB057	ACB	Underwater mooring	6.5	69.7699	-104.3603	OTN-Global
+ACB058	ACB	Underwater mooring	9.3	69.4412	-106.6698	OTN-Global
+ACB059	ACB	Underwater mooring	13	69.4387	-106.6944	OTN-Global
+ACB060	ACB	Underwater mooring	8	69.1504	-107.0775	OTN-Global
+ACB061	ACB	Underwater mooring	135.3	69.3743	-105.0409	OTN-Global
+ACB062	ACB	Underwater mooring	3.8	69.4029	-106.2958	OTN-Global
+ACB063	ACB	Underwater mooring	4	69.4172	-106.1406	OTN-Global
+ACB064	ACB	Underwater mooring	6	69.3657	-106.0173	OTN-Global
+ACB065	ACB	Underwater mooring	5.5	69.392	-105.7693	OTN-Global
+ACB066	ACB	Underwater mooring	7.3	69.3287	-104.8042	OTN-Global
+ACB067	ACB	Underwater mooring	22.1	69.3973	-104.5619	OTN-Global
+ACB068	ACB	Underwater mooring	20.6	69.4049	-104.5739	OTN-Global
+ACB071	ACB	Underwater mooring	5	69.4727	-105.8375	OTN-Global
+ACB072	ACB	Underwater mooring	16.4	69.4335	-105.1671	OTN-Global
+ACB073	ACB	Underwater mooring	21.2	69.4262	-105.1615	OTN-Global
+ACB074	ACB	Underwater mooring	50	69.4181	-105.1573	OTN-Global
+ACB075	ACB	Underwater mooring	32	69.4098	-105.1471	OTN-Global
+ACB076	ACB	Underwater mooring	4	69.5283	-106.9399	OTN-Global
+ACB-ST01	ACB	Underwater mooring	135.3	69.5309	-106.9513167	OTN-Global
+ACB-ST02	ACB	Underwater mooring	135.3	69.24453	-106.68295	OTN-Global
+ACB-ST03	ACB	Underwater mooring	135.3	69.40258	-106.34234	OTN-Global
+ACS-SB1	ACS	Underwater mooring	1500	65.6311	-65.9246	OTN-Global
+ACS-SD3	ACS	Underwater mooring	1500	65.3568	-65.7087	OTN-Global
+Satellite-2011-Ring Seal	ACS	Underwater mooring	135.3	65.968	-66.35	OTN-Global
+ACS-SD2	ACS	Underwater mooring	1500	65.3492	-65.7479	OTN-Global
+ACS010	ACS	Underwater mooring	227	65.96793	-66.35099	OTN-Global
+ACS-SE2	ACS	Underwater mooring	960	65.2377	-65.5144	OTN-Global
+ACS-SD1	ACS	Underwater mooring	1500	65.3415	-65.7868	OTN-Global
+ACS-WG3	ACS	Underwater mooring	249	65.9867	-66.4388	OTN-Global
+ACS001	ACS	Underwater mooring	177.4	66.01957	-66.61344	OTN-Global
+ACS-WA4R1	ACS	Underwater mooring	275	66.1768	-66.7763	OTN-Global
+ACS011	ACS	Underwater mooring	271	65.96146	-66.3215	OTN-Global
+ACS-SA1	ACS	Underwater mooring	1500	65.8266	-66.1373	OTN-Global
+ACS-WG4	ACS	Underwater mooring	431	65.9764	-66.4685	OTN-Global
+ACS-ST01	ACS	Underwater mooring	234	65.96471167	-66.33651833	OTN-Global
+ACS-ST02	ACS	Underwater mooring	265	65.96625667	-66.344395	OTN-Global
+ACS002	ACS	Underwater mooring	117	66.01829	-66.58431	OTN-Global
+ACS003	ACS	Underwater mooring	82	66.01186	-66.55526	OTN-Global
+ACS004	ACS	Underwater mooring	173	66.00568	-66.52592	OTN-Global
+ACS005	ACS	Underwater mooring	115	65.99931	-66.49643	OTN-Global
+ACS006	ACS	Underwater mooring	375	65.99328	-66.46783	OTN-Global
+ACS007	ACS	Underwater mooring	241	65.98663	-66.43857	OTN-Global
+ACS008	ACS	Underwater mooring	208	65.98055	-66.40946	OTN-Global
+ACS009	ACS	Underwater mooring	183	65.97414	-66.38048	OTN-Global
+ACS-ST-PanR01	ACS	Underwater mooring	109	66.1478	-65.7804	OTN-Global
+ACS-ST-PanR02	ACS	Underwater mooring	116	66.1482	-65.7793	OTN-Global
+ACS-ST-PanR03	ACS	Underwater mooring	129	66.1487	-65.7779	OTN-Global
+ACS-ST-PanR04	ACS	Underwater mooring	135	66.1492	-65.7769	OTN-Global
+ACS-ST-PanR05	ACS	Underwater mooring	110	66.146	-65.7846	OTN-Global
+ACS-ST-PanR06	ACS	Underwater mooring	103	66.1468	-65.7827	OTN-Global
+ACS-ST-SE3R01	ACS	Underwater mooring	1042	65.2357	-65.5641	OTN-Global
+ACS-ST-SE3R02	ACS	Underwater mooring	1040	65.2354	-65.5626	OTN-Global
+ACS-ST-SE3R03	ACS	Underwater mooring	1026	65.2348	-65.5627	OTN-Global
+ACS-ST-SE3R04	ACS	Underwater mooring	1021	65.2343	-65.561	OTN-Global
+ACS-ST-SE3R05	ACS	Underwater mooring	1034	65.232	-65.5577	OTN-Global
+ACS-ST-WA4R01	ACS	Underwater mooring	405	66.1813	-66.7902	OTN-Global
+ACS-ST-WA4R02	ACS	Underwater mooring	438	66.1809	-66.7891	OTN-Global
+ACS-ST-WA4R03	ACS	Underwater mooring	443	66.1805	-66.7878	OTN-Global
+ACS-ST-WA4R04	ACS	Underwater mooring	451	66.18	-66.7867	OTN-Global
+ACS-ST-WA4R05	ACS	Underwater mooring	439	66.1795	-66.7856	OTN-Global
+ACS-PanR2	ACS	Underwater mooring	111	66.1473	-65.7817	OTN-Global
+ACS-WG2	ACS	Underwater mooring	372	65.9932	-66.4679	OTN-Global
+ACS-SE3R1	ACS	Underwater mooring	950	65.2445	-65.4755	OTN-Global
+ACS-SC2	ACS	Underwater mooring	1500	65.4712	-65.9307	OTN-Global
+ACS-WA4R2	ACS	Underwater mooring	482	66.1776	-66.781	OTN-Global
+ACS-PanR3	ACS	Underwater mooring	151	66.151	-65.7719	OTN-Global
+ACS-WB4	ACS	Underwater mooring	486	66.1461	-66.6736	OTN-Global
+ACS-WB3	ACS	Underwater mooring	434	66.1534	-66.6606	OTN-Global
+ACS-SA3	ACS	Underwater mooring	914	65.8145	-66.2198	OTN-Global
+ACS-SC3	ACS	Underwater mooring	1500	65.4646	-65.971	OTN-Global
+ACS-SE1	ACS	Underwater mooring	1020	65.23	-65.5544	OTN-Global
+ACS-SE3R2	ACS	Underwater mooring	1063	65.2363	-65.5673	OTN-Global
+ACS-WG1	ACS	Underwater mooring	149	65.9993	-66.4964	OTN-Global
+ACS-SE3R4	ACS	Underwater mooring	1500	65.23	-65.5548	OTN-Global
+ACS-WB1	ACS	Underwater mooring	361	66.1679	-66.6359	OTN-Global
+ACS-PanR1	ACS	Underwater mooring	110	66.1458	-65.7844	OTN-Global
+ACS-WC1	ACS	Underwater mooring	356	66.1099	-66.4471	OTN-Global
+ACS-SE3R3	ACS	Underwater mooring	1063	65.2377	-65.5673	OTN-Global
+ACS-SMouth1	ACS	Underwater mooring	475	64.7679	-63.9975	OTN-Global
+ACS-WA3	ACS	Underwater mooring	333	66.1847	-66.7639	OTN-Global
+ACS-SC1	ACS	Underwater mooring	1500	65.4777	-65.8898	OTN-Global
+ACS-WB2	ACS	Underwater mooring	408	66.1608	-66.6474	OTN-Global
+ACS-WC3	ACS	Underwater mooring	411	66.0957	-66.473	OTN-Global
+ACS-WA1	ACS	Underwater mooring	355	66.1986	-66.7409	OTN-Global
+ACS-SA2	ACS	Underwater mooring	1500	65.8203	-66.1785	OTN-Global
+ACS-WC4	ACS	Underwater mooring	447	66.0883	-66.4864	OTN-Global
+ACS-PanR4	ACS	Underwater mooring	150	66.1523	-65.7686	OTN-Global
+ACS-WA2	ACS	Underwater mooring	431	66.1919	-66.7528	OTN-Global
+ACS-WA4R3	ACS	Underwater mooring	395	66.1826	-66.7935	OTN-Global
+ACS-WC2	ACS	Underwater mooring	440	66.1023	-66.4601	OTN-Global
+ACS-WG5	ACS	Underwater mooring	459	65.9833	-66.499	OTN-Global
+ACS012	ACS	Underwater mooring	291	65.95504	-66.29242	OTN-Global
+ACS013	ACS	Underwater mooring	250.5	65.94915	-66.26367	OTN-Global
+ACS014	ACS	Underwater mooring	234	65.94264	-66.23439	OTN-Global
+ACS015	ACS	Underwater mooring	249	65.9364	-66.2053	OTN-Global
+ACS016	ACS	Underwater mooring	88	66.00813667	-66.61431167	OTN-Global
+ACS017	ACS	Underwater mooring	100	66.00174	-66.58447167	OTN-Global
+ACS018	ACS	Underwater mooring	234	65.99546333	-66.555845	OTN-Global
+ACS019	ACS	Underwater mooring	187	65.98920167	-66.52712667	OTN-Global
+ACS020	ACS	Underwater mooring	441	65.983285	-66.49861833	OTN-Global
+ACS021	ACS	Underwater mooring	455.4	65.97641667	-66.46866333	OTN-Global
+ACS022	ACS	Underwater mooring	215.8	65.97026833	-66.43971167	OTN-Global
+ACS023	ACS	Underwater mooring	91	65.96381	-66.41011667	OTN-Global
+ACS024	ACS	Underwater mooring	168	65.95748	-66.38125333	OTN-Global
+ACS025	ACS	Underwater mooring	316	65.95117167	-66.35183	OTN-Global
+ACS026	ACS	Underwater mooring	238	65.944905	-66.32289667	OTN-Global
+ACS027	ACS	Underwater mooring	234	65.93841667	-66.29419167	OTN-Global
+ACS028	ACS	Underwater mooring	234	65.93223667	-66.26475167	OTN-Global
+ACS029	ACS	Underwater mooring	324	65.92580833	-66.23587667	OTN-Global
+ACS2014-Gate 1	ACS	Underwater mooring	387	65.9933	-66.4928	OTN-Global
+ACS2014-Gate 2	ACS	Underwater mooring	463	65.9726	-66.4777	OTN-Global
+ACS2014-MM01	ACS	Underwater mooring	202	65.3106	-65.1154	OTN-Global
+ACS2014-MM02	ACS	Underwater mooring	960	65.2454	-65.4748	OTN-Global
+ACS2014-MM03	ACS	Underwater mooring	184	66.3119	-67.0508	OTN-Global
+ACS2014-N1	ACS	Underwater mooring	630	66.2001	-66.8892	OTN-Global
+ACS2014-N2	ACS	Underwater mooring	456	66.2144	-66.8483	OTN-Global
+ACS2014-N5	ACS	Underwater mooring	415	66.0556	-66.4699	OTN-Global
+ACS2014-N6	ACS	Underwater mooring	350	66.072	-66.4183	OTN-Global
+ACS2014-S01	ACS	Underwater mooring	903	65.8147	-66.2201	OTN-Global
+ACS2014-S02	ACS	Underwater mooring	1065	65.8263	-66.1385	OTN-Global
+ACS2014-S05	ACS	Underwater mooring	1200	65.4754	-65.891	OTN-Global
+ACS2014-S06	ACS	Underwater mooring	1145	65.4647	-65.9711	OTN-Global
+ACS2014-S09	ACS	Underwater mooring	1063	65.2369	-65.5673	OTN-Global
+ACS2014-S10	ACS	Underwater mooring	960	65.2454	-65.4748	OTN-Global
+ACS2015-GATE01	ACS	Underwater mooring	364	65.9928	-66.493	OTN-Global
+ACS2015-GATE02	ACS	Underwater mooring	567	65.9765	-66.4777	OTN-Global
+ACS2015-N04	ACS	Underwater mooring	610	66.1503	-66.6943	OTN-Global
+ACS2015-N05	ACS	Underwater mooring	385	66.056	-66.47	OTN-Global
+ACS2015-N06	ACS	Underwater mooring	330	66.0718	-66.4173	OTN-Global
+ACS2015-S01	ACS	Underwater mooring	882	65.815	-66.2203	OTN-Global
+ACS2015-S02	ACS	Underwater mooring	1034	65.826	-66.1378	OTN-Global
+ACS2015-S03	ACS	Underwater mooring	1025	65.6238	-66.0022	OTN-Global
+ACS2015-S04	ACS	Underwater mooring	1129	65.631	-65.92	OTN-Global
+ACS2015-S05	ACS	Underwater mooring	1198	65.475	-65.8912	OTN-Global
+ACS2015-S06	ACS	Underwater mooring	1103	65.4648	-65.9708	OTN-Global
+ACS2015-S07	ACS	Underwater mooring	1091	65.359	-65.7885	OTN-Global
+ACS2015-S08	ACS	Underwater mooring	1070	65.375	-65.7093	OTN-Global
+ACS2015-S09	ACS	Underwater mooring	1061	65.237	-65.5678	OTN-Global
+ACS2015-S10	ACS	Underwater mooring	959	65.245	-65.4752	OTN-Global
+180test-R03	ALS	Underwater mooring	2.6	74.74013	-95.04867	OTN-Global
+MAX003	ALS	Underwater mooring	135.3	74.47859	-88.41609	OTN-Global
+RB17	ALS	Underwater mooring	19	74.68	-94.8412	OTN-Global
+RB11	ALS	Underwater mooring	32	74.6828	-94.8618	OTN-Global
+RBBP2	ALS	Underwater mooring	29	74.6848	-94.8593	OTN-Global
+RB23-2014	ALS	Underwater mooring	135.3	74.6772	-94.8229	OTN-Global
+RBBP3-2014	ALS	Underwater mooring	135.3	74.6248	-94.9142	OTN-Global
+RBD3	ALS	Underwater mooring	60	74.6537	-94.89	OTN-Global
+RBVPS14	ALS	Underwater mooring	25	74.6842	-94.8516	OTN-Global
+RBBP3	ALS	Underwater mooring	29	74.6479	-94.833	OTN-Global
+MAX011	ALS	Underwater mooring	135.3	74.45122	-88.41606	OTN-Global
+MAX006	ALS	Underwater mooring	135.3	74.46829	-88.41623	OTN-Global
+RBVPS12	ALS	Underwater mooring	28	74.6841	-94.8619	OTN-Global
+180test-R04	ALS	Underwater mooring	2.9	74.74099	-95.04947	OTN-Global
+MAX005	ALS	Underwater mooring	135.3	74.47173	-88.41609	OTN-Global
+MAX0014	ALS	Underwater mooring	135.3	74.42041	-88.41601	OTN-Global
+MAX0019	ALS	Underwater mooring	135.3	74.35214	-88.41613	OTN-Global
+MAX010	ALS	Underwater mooring	135.3	74.45462	-88.41618	OTN-Global
+MAX0018	ALS	Underwater mooring	135.3	74.36573	-88.41631	OTN-Global
+MAX002	ALS	Underwater mooring	135.3	74.48201	-88.416	OTN-Global
+MAX001	ALS	Underwater mooring	135.3	74.48528	-88.41647	OTN-Global
+MAX004	ALS	Underwater mooring	135.3	74.47514	-88.41605	OTN-Global
+MAX008	ALS	Underwater mooring	135.3	74.46146	-88.41602	OTN-Global
+MAX0017	ALS	Underwater mooring	135.3	74.37945	-88.41621	OTN-Global
+MAX007	ALS	Underwater mooring	135.3	74.46488	-88.41605	OTN-Global
+MAX0020	ALS	Underwater mooring	135.3	74.33847	-88.41628	OTN-Global
+MAX0013	ALS	Underwater mooring	135.3	74.43416	-88.41601	OTN-Global
+MAX0021	ALS	Underwater mooring	135.3	74.32473	-88.41605	OTN-Global
+MAX009	ALS	Underwater mooring	135.3	74.45812	-88.41614	OTN-Global
+MAX0015	ALS	Underwater mooring	135.3	74.40683	-88.41622	OTN-Global
+MAX0016	ALS	Underwater mooring	135.3	74.39312	-88.41604	OTN-Global
+RBVPS4	ALS	Underwater mooring	21	74.6868	-94.8671	OTN-Global
+MAX012	ALS	Underwater mooring	135.3	74.44778	-88.41607	OTN-Global
+McMaster-R08	ALS	Underwater mooring	8.8	74.74813	-95.06947	OTN-Global
+RB1	ALS	Underwater mooring	19	74.6911	-94.8621	OTN-Global
+RBVPS10	ALS	Underwater mooring	23	74.6841	-94.8721	OTN-Global
+RBCP1	ALS	Underwater mooring	46	74.6479	-94.833	OTN-Global
+RBR1	ALS	Underwater mooring	21	74.6903	-94.8621	OTN-Global
+RBVPS5	ALS	Underwater mooring	19	74.6869	-94.862	OTN-Global
+RB5	ALS	Underwater mooring	23	74.6883	-94.8518	OTN-Global
+RBD1	ALS	Underwater mooring	60	74.6559	-94.9084	OTN-Global
+RB13	ALS	Underwater mooring	23	74.6828	-94.8413	OTN-Global
+RBVPS16	ALS	Underwater mooring	29	74.6813	-94.8616	OTN-Global
+RB16	ALS	Underwater mooring	25	74.68	-94.8514	OTN-Global
+RBVPS7	ALS	Underwater mooring	23	74.6869	-94.8518	OTN-Global
+RBD16	ALS	Underwater mooring	60	74.6452	-94.8945	OTN-Global
+RBD2	ALS	Underwater mooring	60	74.6548	-94.8993	OTN-Global
+RBD7	ALS	Underwater mooring	60	74.6491	-94.8523	OTN-Global
+McMaster-R10	ALS	Underwater mooring	3.7	74.7498	-95.0628	OTN-Global
+RBVPS15	ALS	Underwater mooring	26	74.6828	-94.8566	OTN-Global
+RBVPS1	ALS	Underwater mooring	23	74.6897	-94.857	OTN-Global
+180test-R02	ALS	Underwater mooring	4.8	74.74009	-95.05177	OTN-Global
+69test-R09	ALS	Underwater mooring	2.5	74.74434	-95.0515	OTN-Global
+180test-R01	ALS	Underwater mooring	2.9	74.74107	-95.05182	OTN-Global
+69test-R01	ALS	Underwater mooring	2.9	74.74105	-95.05037	OTN-Global
+69test-R02	ALS	Underwater mooring	10.3	74.74291	-95.05498	OTN-Global
+69test-R03	ALS	Underwater mooring	2.9	74.74059	-95.05988	OTN-Global
+69test-R04	ALS	Underwater mooring	7.5	74.73755	-95.06186	OTN-Global
+69test-R05	ALS	Underwater mooring	8.8	74.73573	-95.05611	OTN-Global
+69test-R06	ALS	Underwater mooring	8.2	74.73939	-95.05593	OTN-Global
+69test-R08	ALS	Underwater mooring	8.7	74.7339	-95.05067	OTN-Global
+Octagon-R06	ALS	Underwater mooring	2.6	74.74225	-95.04908	OTN-Global
+Octagon-R07	ALS	Underwater mooring	2.5	74.74315	-95.04916	OTN-Global
+Octagon-R09	ALS	Underwater mooring	8.5	74.74271	-95.0541	OTN-Global
+Octagon-R10	ALS	Underwater mooring	6.3	74.74267	-95.05243	OTN-Global
+Octagon-R11	ALS	Underwater mooring	1.4	74.74072	-95.05114	OTN-Global
+Octagon-R12	ALS	Underwater mooring	1.7	74.74125	-95.04933	OTN-Global
+Octagon-R13	ALS	Underwater mooring	2.3	74.73988	-95.0505	OTN-Global
+Octagon-R14	ALS	Underwater mooring	1	74.74048	-95.04814	OTN-Global
+Pentagon-R01	ALS	Underwater mooring	9	74.7427	-95.06689	OTN-Global
+Pentagon-R03	ALS	Underwater mooring	4.5	74.73763	-95.05409	OTN-Global
+Pentagon-R05	ALS	Underwater mooring	6.7	74.74413	-95.05431	OTN-Global
+Pentagon-R06	ALS	Underwater mooring	9.1	74.74271	-95.0541	OTN-Global
+Pentagon-R08	ALS	Underwater mooring	2	74.74081	-95.05868	OTN-Global
+ALS-missing_data	ALS	Underwater mooring	135.3	74.74	-95.07	OTN-Global
+Pentagon-R09	ALS	Underwater mooring	2.9	74.7411	-95.05048	OTN-Global
+Pentagon-R10	ALS	Underwater mooring	2.9	74.73745	-95.05187	OTN-Global
+Pentagon-R11	ALS	Underwater mooring	7.5	74.73795	-95.06003	OTN-Global
+Pentagon-R12	ALS	Underwater mooring	8.8	74.73596	-95.0559	OTN-Global
+Rockface-R01	ALS	Underwater mooring	2.9	74.73757	-95.0522	OTN-Global
+RBVPS8	ALS	Underwater mooring	22	74.6855	-94.8671	OTN-Global
+Rockface-R03	ALS	Underwater mooring	4.4	74.73734	-95.05357	OTN-Global
+Rockface-R05	ALS	Underwater mooring	10.3	74.73643	-95.05361	OTN-Global
+Rockface-R07	ALS	Underwater mooring	2.7	74.73564	-95.05015	OTN-Global
+Rockface-R08	ALS	Underwater mooring	14	74.73549	-95.05397	OTN-Global
+Rockface-R10	ALS	Underwater mooring	3.1	74.73463	-95.05037	OTN-Global
+Rockface-R11	ALS	Underwater mooring	9.5	74.73469	-95.05372	OTN-Global
+Rockface-R13	ALS	Underwater mooring	8.1	74.73386	-95.05103	OTN-Global
+180test-ST01	ALS	Underwater mooring	135.3	74.74062	-95.05073	OTN-Global
+69test-ST01	ALS	Underwater mooring	135.3	74.73939	-95.05593	OTN-Global
+69test-ST02	ALS	Underwater mooring	135.3	74.74281	-95.05578	OTN-Global
+McMaster-ST01	ALS	Underwater mooring	135.3	74.74846	-95.06792	OTN-Global
+McMaster-ST02	ALS	Underwater mooring	135.3	74.74847	-95.07128	OTN-Global
+Octagon-ST01	ALS	Underwater mooring	135.3	74.74286	-95.05362	OTN-Global
+Octagon-ST02	ALS	Underwater mooring	135.3	74.7425	-95.05345	OTN-Global
+Octagon-ST03	ALS	Underwater mooring	135.3	74.74286	-95.05362	OTN-Global
+Octagon-ST04	ALS	Underwater mooring	135.3	74.7425	-95.05345	OTN-Global
+Octagon-ST05	ALS	Underwater mooring	135.3	74.74106	-95.04994	OTN-Global
+Pentagon-ST01	ALS	Underwater mooring	135.3	74.74081	-95.05868	OTN-Global
+RB9	ALS	Underwater mooring	15	74.6855	-94.8414	OTN-Global
+Pentagon-ST02	ALS	Underwater mooring	135.3	74.74281	-95.05578	OTN-Global
+Rockface-ST01	ALS	Underwater mooring	135.3	74.73687	-95.05189	OTN-Global
+Rockface-ST02	ALS	Underwater mooring	135.3	74.73575	-95.05139	OTN-Global
+McMaster-R09	ALS	Underwater mooring	135.3	74.74801	-95.07279	OTN-Global
+Octagon-R04	ALS	Underwater mooring	135.3	74.7417	-95.05522	OTN-Global
+RB10	ALS	Underwater mooring	26	74.6827	-94.8719	OTN-Global
+Octagon-R08	ALS	Underwater mooring	135.3	74.74377	-95.05207	OTN-Global
+Pentagon-R02	ALS	Underwater mooring	135.3	74.73913	-95.05956	OTN-Global
+Pentagon-R04	ALS	Underwater mooring	135.3	74.74083	-95.04848	OTN-Global
+Pentagon-R07	ALS	Underwater mooring	135.3	74.74267	-95.05243	OTN-Global
+Rockface-R02	ALS	Underwater mooring	135.3	74.73737	-95.05317	OTN-Global
+Rockface-R04	ALS	Underwater mooring	135.3	74.73654	-95.05036	OTN-Global
+Rockface-R06	ALS	Underwater mooring	135.3	74.73651	-95.05366	OTN-Global
+Rockface-R09	ALS	Underwater mooring	135.3	74.73543	-95.05419	OTN-Global
+Rockface-R12	ALS	Underwater mooring	135.3	74.73468	-95.05405	OTN-Global
+Rockface-R14	ALS	Underwater mooring	135.3	74.73378	-95.05379	OTN-Global
+Rockface-R15	ALS	Underwater mooring	135.3	74.73383	-95.05408	OTN-Global
+RBD17	ALS	Underwater mooring	60	74.6439	-94.885	OTN-Global
+RBVPS9	ALS	Underwater mooring	26	74.6855	-94.8568	OTN-Global
+RB21	ALS	Underwater mooring	20	74.6772	-94.8513	OTN-Global
+RB4	ALS	Underwater mooring	17	74.6883	-94.8619	OTN-Global
+RBD19	ALS	Underwater mooring	60	74.6417	-94.8664	OTN-Global
+RB22	ALS	Underwater mooring	23	74.6772	-94.841	OTN-Global
+RB7	ALS	Underwater mooring	25	74.6855	-94.8619	OTN-Global
+RBD5	ALS	Underwater mooring	60	74.6513	-94.8708	OTN-Global
+RBVPS6	ALS	Underwater mooring	25	74.6869	-94.8567	OTN-Global
+RBD10	ALS	Underwater mooring	60	74.6459	-94.8262	OTN-Global
+RBD12	ALS	Underwater mooring	60	74.6436	-94.8078	OTN-Global
+RBD15	ALS	Underwater mooring	60	74.6463	-94.9037	OTN-Global
+RB2	ALS	Underwater mooring	18	74.6911	-94.8519	OTN-Global
+RBD24	ALS	Underwater mooring	60	74.636	-94.8204	OTN-Global
+RBD6	ALS	Underwater mooring	60	74.6502	-94.8614	OTN-Global
+RBD14	ALS	Underwater mooring	60	74.6474	-94.9129	OTN-Global
+RBVPS13	ALS	Underwater mooring	29	74.6842	-94.8567	OTN-Global
+RBD23	ALS	Underwater mooring	60	74.6372	-94.83	OTN-Global
+RBD21	ALS	Underwater mooring	60	74.6395	-94.8482	OTN-Global
+RBD8	ALS	Underwater mooring	60	74.648	-94.8432	OTN-Global
+RBVPS11	ALS	Underwater mooring	27	74.6841	-94.867	OTN-Global
+RBD20	ALS	Underwater mooring	60	74.6406	-94.8574	OTN-Global
+RBD25	ALS	Underwater mooring	60	74.6349	-94.8112	OTN-Global
+RB6	ALS	Underwater mooring	20	74.6855	-94.8722	OTN-Global
+RBD22	ALS	Underwater mooring	60	74.6383	-94.8393	OTN-Global
+RB8	ALS	Underwater mooring	25	74.6855	-94.8517	OTN-Global
+RBD4	ALS	Underwater mooring	60	74.6525	-94.8805	OTN-Global
+RB12	ALS	Underwater mooring	18	74.6828	-94.8515	OTN-Global
+RB14	ALS	Underwater mooring	19	74.6799	-94.8719	OTN-Global
+RB23	ALS	Underwater mooring	26	74.6773	-94.8308	OTN-Global
+RBVPS2	ALS	Underwater mooring	21	74.6897	-94.8519	OTN-Global
+RB15	ALS	Underwater mooring	23	74.68	-94.8616	OTN-Global
+RBD18	ALS	Underwater mooring	60	74.6428	-94.8754	OTN-Global
+RBD13	ALS	Underwater mooring	60	74.6425	-94.7988	OTN-Global
+RBVPS3	ALS	Underwater mooring	24	74.6883	-94.8568	OTN-Global
+RBVPS17	ALS	Underwater mooring	25	74.6828	-94.8668	OTN-Global
+RB41	ALS	Underwater mooring	20	74.669	-94.8305	OTN-Global
+RB32	ALS	Underwater mooring	14	74.6717	-94.8612	OTN-Global
+RB29	ALS	Underwater mooring	20	74.6746	-94.8307	OTN-Global
+RB3	ALS	Underwater mooring	15	74.6882	-94.8722	OTN-Global
+RB27	ALS	Underwater mooring	14	74.6745	-94.8511	OTN-Global
+RB19	ALS	Underwater mooring	16	74.6772	-94.8716	OTN-Global
+RB26	ALS	Underwater mooring	15	74.6745	-94.8614	OTN-Global
+RB36	ALS	Underwater mooring	20	74.6718	-94.8204	OTN-Global
+69test-R10	ALS	Underwater mooring	2.2	74.74477	-95.05808	OTN-Global
+McMaster-R01	ALS	Underwater mooring	4.4	74.74993	-95.06607	OTN-Global
+McMaster-R02	ALS	Underwater mooring	5.5	74.74992	-95.06952	OTN-Global
+McMaster-R03	ALS	Underwater mooring	3	74.74983	-95.07313	OTN-Global
+McMaster-R04	ALS	Underwater mooring	8	74.74893	-95.06599	OTN-Global
+McMaster-R05	ALS	Underwater mooring	6	74.74901	-95.06943	OTN-Global
+McMaster-R06	ALS	Underwater mooring	7.5	74.74905	-95.07275	OTN-Global
+McMaster-R07	ALS	Underwater mooring	9.4	74.74812	-95.06664	OTN-Global
+Octagon-R01	ALS	Underwater mooring	11.6	74.74375	-95.05478	OTN-Global
+Octagon-R02	ALS	Underwater mooring	9.5	74.7432	-95.05775	OTN-Global
+Octagon-R03	ALS	Underwater mooring	10	74.74239	-95.0574	OTN-Global
+Octagon-R05	ALS	Underwater mooring	2.5	74.74159	-95.05186	OTN-Global
+RB34	ALS	Underwater mooring	13	74.6717	-94.8409	OTN-Global
+RB24	ALS	Underwater mooring	17	74.6773	-94.8206	OTN-Global
+RB40	ALS	Underwater mooring	14	74.6689	-94.8407	OTN-Global
+RB18	ALS	Underwater mooring	16	74.68	-94.8309	OTN-Global
+RB28	ALS	Underwater mooring	12	74.6745	-94.8409	OTN-Global
+RB33	ALS	Underwater mooring	15	74.6717	-94.851	OTN-Global
+RB38	ALS	Underwater mooring	20	74.6689	-94.861	OTN-Global
+RB30	ALS	Underwater mooring	20	74.6746	-94.8205	OTN-Global
+RB39	ALS	Underwater mooring	17	74.6689	-94.8509	OTN-Global
+RB35	ALS	Underwater mooring	16	74.6717	-94.8306	OTN-Global
+RB25	ALS	Underwater mooring	13	74.6744	-94.8715	OTN-Global
+RB20	ALS	Underwater mooring	13	74.6772	-94.8615	OTN-Global
+RB37	ALS	Underwater mooring	9	74.6689	-94.8711	OTN-Global
+RB31	ALS	Underwater mooring	12	74.6716	-94.8715	OTN-Global
+69test-R07	ALS	Underwater mooring	2.3	74.73748	-95.05186	OTN-Global
+RBD11	ALS	Underwater mooring	60	74.6448	-94.8168	OTN-Global
+RBR2	ALS	Underwater mooring	17	74.68179	-94.86156	OTN-Global
+RBR3	ALS	Underwater mooring	23	74.68223	-94.86169	OTN-Global
+RB42	ALS	Underwater mooring	21	74.669	-94.8202	OTN-Global
+ANL001 - Near shore	ANL	Underwater mooring	6.4	65.3399	-71.6765	OTN-Global
+ANL002 - Middle	ANL	Underwater mooring	5.3	65.3429	-71.66	OTN-Global
+ANL003 - Far shore	ANL	Underwater mooring	6.1	65.3403	-71.6422	OTN-Global
+ANL004	ANL	Underwater mooring	7.9	65.4413	-71.7036	OTN-Global
+ANL004 - DS Akatouga Falls	ANL	Underwater mooring	6.3	65.4923	-71.623	OTN-Global
+ANL005	ANL	Underwater mooring	8.1	65.7436	-71.3615	OTN-Global
+ANL005 - DS Twisted Sisters	ANL	Underwater mooring	5.1	65.8158	-71.2945	OTN-Global
+ANL006	ANL	Underwater mooring	5.3	65.8158	-71.2854	OTN-Global
+ANL006 NEW	ANL	Underwater mooring	8.2	65.9443	-71.2998	OTN-Global
+ANL006 - Overwinter Lake?	ANL	Underwater mooring	9.5	65.9001	-71.3032	OTN-Global
+ANL007	ANL	Underwater mooring	8.7	65.9402	-71.294	OTN-Global
+ANL007 NEW ALT	ANL	Underwater mooring	6.5	65.567	-71.5264	OTN-Global
+ANL007 - US confluence	ANL	Underwater mooring	7.3	65.9402	-71.2936	OTN-Global
+ANL008	ANL	Underwater mooring	7.4	65.9443	-71.2998	OTN-Global
+ANL008 - Confluence	ANL	Underwater mooring	6.9	65.9443	-71.2998	OTN-Global
+ANL008 NEW ALT	ANL	Underwater mooring	5.4	65.8159	-71.294	OTN-Global
+ANL009 NEW ALT	ANL	Underwater mooring	7.9	65.9402	-71.294	OTN-Global
+ANL010 NEW ALT	ANL	Underwater mooring	8.6	65.7455	-71.3645	OTN-Global
+Lake ANL001	ANL	Underwater mooring	5.5	66.5842	-71.4874	OTN-Global
+Lake ANL002	ANL	Underwater mooring	5.7	66.5853	-71.466	OTN-Global
+Lake ANL003	ANL	Underwater mooring	6.8	66.5678	-71.3037	OTN-Global
+Lake ANL004	ANL	Underwater mooring	7	66.5725	-71.3019	OTN-Global
+Lake ANL005	ANL	Underwater mooring	5.3	66.5462	-71.2749	OTN-Global
+Lake ANL006	ANL	Underwater mooring	7.5	66.5839	-71.298	OTN-Global
+Lake Range Tags	ANL	Underwater mooring	5.1	66.58328333	-71.45345	OTN-Global
+River Range Tag - 125 m	ANL	Underwater mooring	7.4	65.94119444	-71.29561111	OTN-Global
+River Range Tag - 250 m	ANL	Underwater mooring	6.7	65.94644444	-71.30133333	OTN-Global
+ANT-White Rock Spring	ANT	Underwater mooring	2.3	45.55452	-62.09005	OTN-Global
+MM6.5	ANT	Underwater mooring	1.5	45.64292	-61.92868	OTN-Global
+ANT-ST-RT100-150	ANT	Underwater mooring	2	45.64122	-61.92882	OTN-Global
+SW14 OP	ANT	Underwater mooring	1.5	45.71395	-61.90212	OTN-Global
+SW8	ANT	Underwater mooring	8	45.65838	-61.90608	OTN-Global
+MM6	ANT	Underwater mooring	1.5	45.64142	-61.92959	OTN-Global
+ANT-Ohio R	ANT	Underwater mooring	1.5	45.53031	-62.0756	OTN-Global
+ANT-Beaver Meadow	ANT	Underwater mooring	1	45.55634	-62.10234	OTN-Global
+FW1 WRR	ANT	Underwater mooring	1	45.62515	-61.97335	OTN-Global
+FW2 WRR	ANT	Underwater mooring	1	45.62261	-61.97826	OTN-Global
+FW3 WR	ANT	Underwater mooring	1	45.62101	-61.97632	OTN-Global
+FW4 WR	ANT	Underwater mooring	2	45.6227	-61.96435	OTN-Global
+FW6 SR	ANT	Underwater mooring	1	45.57962	-61.90527	OTN-Global
+SW4	ANT	Underwater mooring	2	45.63792	-61.91297	OTN-Global
+SW1	ANT	Underwater mooring	1.5	45.63324	-61.95128	OTN-Global
+SW13 DP	ANT	Underwater mooring	1.5	45.6334	-61.94022	OTN-Global
+SW2	ANT	Underwater mooring	3	45.62135	-61.91617	OTN-Global
+FW9 BM	ANT	Underwater mooring	1	45.55635	-62.10242	OTN-Global
+SW12	ANT	Underwater mooring	2	45.6415	-61.78822	OTN-Global
+FW5 SR	ANT	Underwater mooring	1	45.54453	-61.90537	OTN-Global
+MM7	ANT	Underwater mooring	1.5	45.64517	-61.92943	OTN-Global
+SW5	ANT	Underwater mooring	1.5	45.63647	-61.90573	OTN-Global
+ANT-ST-RT50-200	ANT	Underwater mooring	2	45.64077	-61.92883	OTN-Global
+ANT-ST-RT50-300	ANT	Underwater mooring	2	45.64585	-61.92932	OTN-Global
+SW9	ANT	Underwater mooring	3	45.67207	-61.8898	OTN-Global
+FW8 STJO	ANT	Underwater mooring	3	45.53942	-62.08163	OTN-Global
+SW10	ANT	Underwater mooring	3	45.69113	-61.88922	OTN-Global
+SW11	ANT	Underwater mooring	2	45.70117	-61.90073	OTN-Global
+SW3	ANT	Underwater mooring	1.5	45.63362	-61.92062	OTN-Global
+FW7 WRS	ANT	Underwater mooring	2	45.55447	-62.09018	OTN-Global
+ASF-Parks Landing	ASF	Underwater mooring	5	46.9322	-65.7979	OTN-Global
+ASF-Rest Upper	ASF	Underwater mooring	135.3	47.977	-66.9274	OTN-Global
+ASF-Huckleberry 2	ASF	Underwater mooring	135.3	47.0777	-64.9511	OTN-Global
+ASF-Dal Junction	ASF	Underwater mooring	9	48.0446	-66.5363	OTN-Global
+ASF-Pt a la Garde	ASF	Underwater mooring	9	48.0516	-66.54	OTN-Global
+ASF-Rest Lower	ASF	Underwater mooring	135.3	47.977	-66.9274	OTN-Global
+ASF-Red Bank	ASF	Underwater mooring	5	46.9409	-65.819	OTN-Global
+ASF-Estuary-2012	ASF	Underwater mooring	135.3	50.1701	-64.2013	OTN-Global
+ASF-Below Falls-2011	ASF	Underwater mooring	135.3	50.5367	-64.1045	OTN-Global
+ASF-Above Falls-2011	ASF	Underwater mooring	135.3	50.5382	-64.0892	OTN-Global
+ASF-Portage-2011	ASF	Underwater mooring	135.3	50.3542	-64.2328	OTN-Global
+ASF-Red Rock-2011	ASF	Underwater mooring	135.3	50.3315	-64.256	OTN-Global
+ASF-Guards Camp-2012	ASF	Underwater mooring	135.3	50.1846	-64.1601	OTN-Global
+ASF-Portage Is 5	ASF	Underwater mooring	135.3	47.1458	-65.04348	OTN-Global
+ASF-N. Portage 2	ASF	Underwater mooring	135.3	47.1479	-65.0486	OTN-Global
+ASF-Chaleur Bay 1	ASF	Underwater mooring	135.3	47.821	-65.192	OTN-Global
+ASF-Chaleur Bay 2	ASF	Underwater mooring	135.3	47.8279	-65.20037	OTN-Global
+ASF-Chaleur Bay 3	ASF	Underwater mooring	135.3	47.83525	-65.2091	OTN-Global
+ASF-Portage Is 6 MB	ASF	Underwater mooring	135.3	47.14747	-65.0392	OTN-Global
+ASF-Chaleur Bay 9	ASF	Underwater mooring	135.3	47.87087	-65.2501	OTN-Global
+ASF-Dal 2	ASF	Underwater mooring	20	48.0695	-66.3388	OTN-Global
+ASF-Chaleur Bay 5	ASF	Underwater mooring	135.3	47.84783	-65.22498	OTN-Global
+ASF-Gulf B	ASF	Underwater mooring	135.3	50.27444	-64.42056	OTN-Global
+ASF-Dal 1	ASF	Underwater mooring	10	48.0642	-66.3463	OTN-Global
+ASF-Gulf A	ASF	Underwater mooring	135.3	50.28139	-64.41222	OTN-Global
+ASF-ST Portage 2	ASF	Underwater mooring	135.3	47.1463	-65.0477	OTN-Global
+ASF-CHBAY-11	ASF	Underwater mooring	135.3	47.8724	-65.26112	OTN-Global
+ASF-CHBAY-9	ASF	Underwater mooring	135.3	47.87838	-65.25917	OTN-Global
+ASF-CHBAY-12	ASF	Underwater mooring	135.3	47.87932	-65.2675	OTN-Global
+ASF-CHBAY-13	ASF	Underwater mooring	135.3	47.88623	-65.2738	OTN-Global
+ASF-CHBAY-14	ASF	Underwater mooring	135.3	47.8932	-65.28017	OTN-Global
+ASF-N. Portage 1	ASF	Underwater mooring	135.3	47.1475	-65.0557	OTN-Global
+ASF-Below Falls Winter	ASF	Underwater mooring	135.3	50.53678	-64.10458	OTN-Global
+ASF-Estuary center	ASF	Underwater mooring	135.3	50.28419	-64.33675	OTN-Global
+ASF-Above Falls	ASF	Underwater mooring	135.3	50.53819	-64.08922	OTN-Global
+ASF-Bridge 1	ASF	Underwater mooring	135.3	50.29992	-64.31317	OTN-Global
+ASF-Guards Camp 2	ASF	Underwater mooring	135.3	50.31311	-64.26592	OTN-Global
+ASF-Guards Camp 1	ASF	Underwater mooring	135.3	50.31293	-64.26655	OTN-Global
+ASF-Inner Arc 1-2009	ASF	Underwater mooring	135.3	50.27778	-64.34639	OTN-Global
+ASF-Inner Arc 2-2009	ASF	Underwater mooring	135.3	50.27444	-64.34306	OTN-Global
+ASF-Inner Arc 3-2009	ASF	Underwater mooring	135.3	50.27278	-64.33597	OTN-Global
+ASF-WAB002	ASF	Underwater mooring	135.3	51.20767	-56.77163	OTN-Global
+ASF-ST400m	ASF	Underwater mooring	103.63	47.8522	-65.2422	OTN-Global
+ASF-Below Falls	ASF	Underwater mooring	135.3	50.53673	-64.10447	OTN-Global
+ASF-Point du Jour Camp	ASF	Underwater mooring	135.3	47.95811	-66.94432	OTN-Global
+ASF-WYERS POOL-Kedgewick	ASF	Underwater mooring	135.3	47.81336	-67.73846	OTN-Global
+ASF-Gulf O	ASF	Underwater mooring	135.3	50.24833	-64.27861	OTN-Global
+ASF-ST Neguac 2	ASF	Underwater mooring	135.3	47.2055	-65.0404	OTN-Global
+ASF-Portage	ASF	Underwater mooring	6.1	50.3538	-64.23178	OTN-Global
+ASF-ST200m	ASF	Underwater mooring	60.96	47.8506	-65.241	OTN-Global
+ASF-Dal 3	ASF	Underwater mooring	9	48.0744	-66.3315	OTN-Global
+ASF-Rest Bridge 1	ASF	Underwater mooring	6.1	48.0105	-66.6755	OTN-Global
+ASF-ST Hucklberry 2	ASF	Underwater mooring	135.3	47.0776	-64.9517	OTN-Global
+ASF-S. Portage 1	ASF	Underwater mooring	135.3	47.1414	-65.0532	OTN-Global
+ASF-Rest Bridge 3	ASF	Underwater mooring	3.7	48.0132	-66.6779	OTN-Global
+ASF-ST Huckleberry 1	ASF	Underwater mooring	135.3	47.0774	-64.9523	OTN-Global
+ASF-Chaleur Bay 4	ASF	Underwater mooring	135.3	47.83525	-65.20908	OTN-Global
+ASF-Chaleur Bay 6	ASF	Underwater mooring	135.3	47.85532	-65.23278	OTN-Global
+ASF-Chaleur Bay 7	ASF	Underwater mooring	135.3	47.86488	-65.24403	OTN-Global
+ASF-Chaleur Bay 8	ASF	Underwater mooring	135.3	47.8649	-65.244	OTN-Global
+CB2-2015	ASF	Underwater mooring	30.48	47.8236083	-65.2159533	OTN-Global
+ASF-Chaleur Bay 10	ASF	Underwater mooring	135.3	47.87753	-65.25943	OTN-Global
+ASF-Chaleur Bay 11	ASF	Underwater mooring	135.3	47.8855	-65.26765	OTN-Global
+ASF-Chaleur Bay 12	ASF	Underwater mooring	135.3	47.89292	-65.27652	OTN-Global
+ASF-Chaleur Bay 24	ASF	Underwater mooring	135.3	47.98503	-65.3845	OTN-Global
+ASF-Chaleur Bay 13	ASF	Underwater mooring	135.3	47.90697	-65.29155	OTN-Global
+ASF-Chaleur Bay 14	ASF	Underwater mooring	135.3	47.90697	-65.29158	OTN-Global
+ASF-Portage Is 3	ASF	Underwater mooring	135.3	47.14318	-65.0452	OTN-Global
+ASF-Portage Is 4	ASF	Underwater mooring	135.3	47.148	-65.0415	OTN-Global
+ASF-Lac castor	ASF	Underwater mooring	1.8	50.29147	-64.28939	OTN-Global
+ASF-S. Portage 11	ASF	Underwater mooring	135.3	47.1364	-65.0519	OTN-Global
+ASF-Rest Bridge 2	ASF	Underwater mooring	5.5	48.0117	-66.6766	OTN-Global
+ASF-N. Portage 3	ASF	Underwater mooring	135.3	47.148	-65.0415	OTN-Global
+ASF-Chaleur Bay 18	ASF	Underwater mooring	135.3	47.93515	-65.32567	OTN-Global
+ASF-NEAR QUARRYVILLE HoT SW	ASF	Underwater mooring	135.3	46.8373	-65.74683	OTN-Global
+ASF-NEAR DOYLES BROOK	ASF	Underwater mooring	135.3	46.8541	-65.69723	OTN-Global
+ASF-NEAR REDBANK HoT NW	ASF	Underwater mooring	135.3	46.93787	-65.81687	OTN-Global
+ASF-Northwest Miramichi 2	ASF	Underwater mooring	135.3	46.96002	-65.62078	OTN-Global
+ASF-Northwest Miramichi 1	ASF	Underwater mooring	135.3	46.95853	-65.7288	OTN-Global
+ASF-Northwest Miramichi 3	ASF	Underwater mooring	135.3	46.9645	-65.70405	OTN-Global
+ASF-Miramichi Hayesville	ASF	Underwater mooring	135.3	46.50997	-66.5107	OTN-Global
+ASF-Mill1	ASF	Underwater mooring	135.3	46.88077	-65.65925	OTN-Global
+ASF-CHBAY-6	ASF	Underwater mooring	135.3	47.85678	-65.23405	OTN-Global
+ASF-Mill2	ASF	Underwater mooring	135.3	46.87845	-65.66248	OTN-Global
+ASF-Millerton 2 2006	ASF	Underwater mooring	135.3	46.88253	-65.712	OTN-Global
+ASF-Millerton 1	ASF	Underwater mooring	135.3	46.88305	-65.6578	OTN-Global
+ASF-Millerton 2	ASF	Underwater mooring	135.3	46.88327	-65.65738	OTN-Global
+ASF-Millerton 1 2008	ASF	Underwater mooring	135.3	46.88238	-65.657	OTN-Global
+ASF-Millerton 1 2009	ASF	Underwater mooring	135.3	46.88232	-65.65688	OTN-Global
+ASF-Millerton Trapnet	ASF	Underwater mooring	135.3	46.88253	-65.65712	OTN-Global
+ASF-MILLSTREAM 3/Hackets Beach	ASF	Underwater mooring	135.3	46.95753	-65.6758	OTN-Global
+ASF-Portage Island 2	ASF	Underwater mooring	135.3	47.14008	-65.04345	OTN-Global
+ASF-Millerton	ASF	Underwater mooring	135.3	46.87485	-65.6588	OTN-Global
+ASF-Portage Is 6	ASF	Underwater mooring	135.3	47.14135	-65.03925	OTN-Global
+ASF-Estuary	ASF	Underwater mooring	135.3	50.28328	-64.33647	OTN-Global
+ASF-East Line E	ASF	Underwater mooring	5.2	50.2575	-64.2264	OTN-Global
+ASF-Bridge 2	ASF	Underwater mooring	135.3	50.30036	-64.30036	OTN-Global
+ASF-Estuary 1	ASF	Underwater mooring	135.3	50.28344	-64.33708	OTN-Global
+ASF-Estuary 2	ASF	Underwater mooring	135.3	50.28369	-64.33736	OTN-Global
+ASF-Bridge	ASF	Underwater mooring	135.3	50.3	-64.31317	OTN-Global
+ASF-East Line F	ASF	Underwater mooring	21	50.2472	-64.2256	OTN-Global
+ASF-East Line G	ASF	Underwater mooring	38.4	50.2392	-64.2256	OTN-Global
+ASF-East Line H	ASF	Underwater mooring	66.4	50.2306	-64.2264	OTN-Global
+ASF-Estuary-2009	ASF	Underwater mooring	135.3	46.4399	-61.1132	OTN-Global
+ASF-Rest Long Is. N	ASF	Underwater mooring	135.3	47.97307	-66.93804	OTN-Global
+ASF-Gulf E	ASF	Underwater mooring	135.3	50.26222	-64.38722	OTN-Global
+ASF-Gulf D	ASF	Underwater mooring	135.3	50.26444	-64.40139	OTN-Global
+ASF-Gulf C	ASF	Underwater mooring	135.3	50.26889	-64.41111	OTN-Global
+ASF-Rest Long Is s	ASF	Underwater mooring	135.3	47.97307	-66.93804	OTN-Global
+ASF-Rest RR bridge	ASF	Underwater mooring	135.3	47.97307	-66.93804	OTN-Global
+ASF-S. Portage 2	ASF	Underwater mooring	135.3	47.1422	-65.0447	OTN-Global
+ASF-ST Neguac 1	ASF	Underwater mooring	135.3	47.2053	-65.0431	OTN-Global
+ASF-Meo	ASF	Underwater mooring	2	50.46473	-64.15338	OTN-Global
+ASF-West Line C	ASF	Underwater mooring	135.3	50.29167	-64.43778	OTN-Global
+ASF-West Line D	ASF	Underwater mooring	135.3	50.28333	-64.43556	OTN-Global
+ASF-Upper portage	ASF	Underwater mooring	135.3	50.3535	-64.2305	OTN-Global
+ASF-Landslide	ASF	Underwater mooring	135.3	50.31425	-64.31019	OTN-Global
+ASF-Gulf J	ASF	Underwater mooring	135.3	50.23972	-64.33194	OTN-Global
+ASF-Gulf K	ASF	Underwater mooring	135.3	50.24	-64.31925	OTN-Global
+ASF-Gulf L	ASF	Underwater mooring	135.3	50.23833	-64.30694	OTN-Global
+ASF-Gulf M	ASF	Underwater mooring	135.3	50.23833	-64.29583	OTN-Global
+ASF-Gulf N	ASF	Underwater mooring	135.3	50.24333	-64.28667	OTN-Global
+ASF-ST300m	ASF	Underwater mooring	68.58	47.8519	-65.2389	OTN-Global
+ASF-Portage Is 2	ASF	Underwater mooring	135.3	47.14052	-65.04407	OTN-Global
+ASF-Portage Is 1	ASF	Underwater mooring	135.3	47.14402	-65.09587	OTN-Global
+ASF-Ponds Resort- Bridge 1	ASF	Underwater mooring	135.3	46.497	-65.35583	OTN-Global
+ASF-Ponds Resort- Bridge 2	ASF	Underwater mooring	135.3	46.49417	-66.35467	OTN-Global
+ASF-Neguac 3 2006	ASF	Underwater mooring	135.3	47.19565	-65.04232	OTN-Global
+ASF-Neguac 1 2006	ASF	Underwater mooring	135.3	47.20455	-65.03517	OTN-Global
+ASF-Neguac 2 2006	ASF	Underwater mooring	135.3	47.19868	-65.0364	OTN-Global
+ASF-Neguac 2	ASF	Underwater mooring	135.3	47.2069	-65.03788	OTN-Global
+ASF-Neguac 3	ASF	Underwater mooring	135.3	47.20535	-65.0468	OTN-Global
+ASF-NORDIN 1 Downstream of Newcastle	ASF	Underwater mooring	135.3	47.01553	-65.54365	OTN-Global
+ASF-NORDIN 2 Downstream of Newcastle	ASF	Underwater mooring	135.3	47.01408	-65.54173	OTN-Global
+ASF-Nelson	ASF	Underwater mooring	135.3	46.98775	-65.55915	OTN-Global
+ASF-NORTH SHORE OF BAY	ASF	Underwater mooring	135.3	47.13668	-65.2214	OTN-Global
+ASF-Chaleur Bay 15	ASF	Underwater mooring	135.3	47.91288	-65.30103	OTN-Global
+ASF-Chaleur Bay 16	ASF	Underwater mooring	135.3	47.91292	-65.30105	OTN-Global
+ASF-Chaleur Bay 17	ASF	Underwater mooring	135.3	47.92055	-65.30977	OTN-Global
+ASF-Chaleur Bay 19	ASF	Underwater mooring	135.3	47.94258	-65.33477	OTN-Global
+ASF-Chaleur Bay 20	ASF	Underwater mooring	135.3	47.95675	-65.35192	OTN-Global
+ASF-Chaleur Bay 21	ASF	Underwater mooring	135.3	47.9635	-65.35995	OTN-Global
+ASF-Chaleur Bay 22	ASF	Underwater mooring	135.3	47.97125	-65.36853	OTN-Global
+ASF-Chaleur Bay 23	ASF	Underwater mooring	135.3	47.97863	-65.37787	OTN-Global
+ASF-Chaleur Bay 25	ASF	Underwater mooring	135.3	47.9925	-65.39385	OTN-Global
+ASF-Chaleur Bay 26	ASF	Underwater mooring	135.3	47.9991	-65.40167	OTN-Global
+ASF-MILLSTREAM 2/Whitneyville	ASF	Underwater mooring	135.3	46.95853	-65.7288	OTN-Global
+ASF-MILLSTREAM 1	ASF	Underwater mooring	135.3	46.9644	-65.7043	OTN-Global
+ASF-Millstream 2	ASF	Underwater mooring	135.3	46.9645	-65.70405	OTN-Global
+ASF-Millstream	ASF	Underwater mooring	135.3	46.96483	-65.70958	OTN-Global
+ASF-MIDDLE ISLAND 1	ASF	Underwater mooring	135.3	47.05512	-65.45772	OTN-Global
+ASF-MIDDLE ISLAND 2	ASF	Underwater mooring	135.3	47.05392	-65.45558	OTN-Global
+ASF-MIDDLE ISLAND 2 2009	ASF	Underwater mooring	135.3	47.05518	-65.4567	OTN-Global
+ASF-Middle Is.	ASF	Underwater mooring	135.3	47.05507	-65.45698	OTN-Global
+ASF-Boiestown-Tuckaway Lodge	ASF	Underwater mooring	135.3	46.47652	-66.4007	OTN-Global
+ASF-Boiestown 2	ASF	Underwater mooring	135.3	46.46952	-66.40315	OTN-Global
+ASF-Boies1	ASF	Underwater mooring	135.3	46.47517	-66.40005	OTN-Global
+ASF-Chaleur Bay 7REPLACE	ASF	Underwater mooring	135.3	47.86367	-65.24217	OTN-Global
+ASF-Chaleur Bay 27	ASF	Underwater mooring	135.3	47.819	-65.18933	OTN-Global
+ASF-Chaleur Bay 28	ASF	Underwater mooring	135.3	47.81983	-65.16333	OTN-Global
+ASF-CHBAY-27	ASF	Underwater mooring	135.3	47.8105	-65.22328	OTN-Global
+ASF-CHBAY-1	ASF	Underwater mooring	135.3	47.81527	-65.20925	OTN-Global
+ASF-CHBAY-28	ASF	Underwater mooring	135.3	47.81895	-65.22823	OTN-Global
+ASF-CHBAY-2	ASF	Underwater mooring	135.3	47.82073	-65.21413	OTN-Global
+ASF-CHBAY-29	ASF	Underwater mooring	135.3	47.82658	-65.2356	OTN-Global
+ASF-CHBAY-3	ASF	Underwater mooring	135.3	47.83535	-65.20893	OTN-Global
+ASF-CHBAY-4	ASF	Underwater mooring	135.3	47.84248	-65.21732	OTN-Global
+ASF-CHBAY-5	ASF	Underwater mooring	135.3	47.84965	-65.22575	OTN-Global
+ASF-CHBAY-7	ASF	Underwater mooring	135.3	47.86393	-65.24253	OTN-Global
+ASF-CHBAY-10	ASF	Underwater mooring	135.3	47.86538	-65.25478	OTN-Global
+ASF-CHBAY-8	ASF	Underwater mooring	135.3	47.87113	-65.25053	OTN-Global
+ASF-CHBAY-15	ASF	Underwater mooring	135.3	47.90028	-65.28652	OTN-Global
+ASF-CHBAY-16	ASF	Underwater mooring	135.3	47.9072	-65.29288	OTN-Global
+ASF-CHBAY-17	ASF	Underwater mooring	135.3	47.91418	-65.29917	OTN-Global
+ASF-CHBAY-18	ASF	Underwater mooring	135.3	47.92093	-65.30542	OTN-Global
+ASF-CHBAY-19	ASF	Underwater mooring	135.3	47.92785	-65.3117	OTN-Global
+ASF-CHBAY-20	ASF	Underwater mooring	135.3	47.93477	-65.318	OTN-Global
+ASF-CHBAY-21	ASF	Underwater mooring	135.3	47.94175	-65.32438	OTN-Global
+ASF-CHBAY-22	ASF	Underwater mooring	135.3	47.9486	-65.33075	OTN-Global
+ASF-CHBAY-23	ASF	Underwater mooring	135.3	47.9552	-65.33678	OTN-Global
+ASF-CHBAY-24	ASF	Underwater mooring	135.3	47.9854	-65.38548	OTN-Global
+ASF-CHBAY-25	ASF	Underwater mooring	135.3	47.99242	-65.3938	OTN-Global
+ASF-CHBAY-26	ASF	Underwater mooring	135.3	47.99925	-65.401	OTN-Global
+ASF-Boies2	ASF	Underwater mooring	135.3	46.47575	-66.40132	OTN-Global
+ASF-CHB 1	ASF	Underwater mooring	135.3	47.81567	-65.20855	OTN-Global
+ASF-CHB 2	ASF	Underwater mooring	135.3	47.82072	-65.21463	OTN-Global
+ASF-CHB 3	ASF	Underwater mooring	135.3	47.82617	-65.21858	OTN-Global
+ASF-CHB 4	ASF	Underwater mooring	135.3	47.83138	-65.22337	OTN-Global
+ASF-CHB 5	ASF	Underwater mooring	135.3	47.83715	-65.22873	OTN-Global
+ASF-CHB 6	ASF	Underwater mooring	135.3	47.84255	-65.2338	OTN-Global
+ASF-CHB 7	ASF	Underwater mooring	135.3	47.8475	-65.23887	OTN-Global
+ASF-CHB 8	ASF	Underwater mooring	135.3	47.85328	-65.24363	OTN-Global
+ASF-CHB 9	ASF	Underwater mooring	135.3	47.85922	-65.24818	OTN-Global
+ASF-CHB 10	ASF	Underwater mooring	135.3	47.86545	-65.25502	OTN-Global
+ASF-CHB 11	ASF	Underwater mooring	135.3	47.87248	-65.26142	OTN-Global
+ASF-CHB 12	ASF	Underwater mooring	135.3	47.87955	-65.26603	OTN-Global
+ASF-CHB 13	ASF	Underwater mooring	135.3	47.88623	-65.2743	OTN-Global
+ASF-CHB 14	ASF	Underwater mooring	135.3	47.89308	-65.28075	OTN-Global
+ASF-CHB 15	ASF	Underwater mooring	135.3	47.90057	-65.28682	OTN-Global
+ASF-CHB 16	ASF	Underwater mooring	135.3	47.90772	-65.29297	OTN-Global
+ASF-CHB 17	ASF	Underwater mooring	135.3	47.91413	-65.29975	OTN-Global
+ASF-CHB 18	ASF	Underwater mooring	135.3	47.92382	-65.30933	OTN-Global
+ASF-CHB 19	ASF	Underwater mooring	135.3	47.93018	-65.31193	OTN-Global
+ASF-CHB 20	ASF	Underwater mooring	135.3	47.9351	-65.31865	OTN-Global
+ASF-CHB 21	ASF	Underwater mooring	135.3	47.94215	-65.3245	OTN-Global
+ASF-CHB 22	ASF	Underwater mooring	135.3	47.94872	-65.33132	OTN-Global
+ASF-CHB 23	ASF	Underwater mooring	135.3	47.95535	-65.33698	OTN-Global
+ASF-CHB 24	ASF	Underwater mooring	135.3	47.96245	-65.34295	OTN-Global
+ASF-CHB 25	ASF	Underwater mooring	135.3	47.96925	-65.34962	OTN-Global
+ASF-CHB 26	ASF	Underwater mooring	135.3	47.97643	-65.356	OTN-Global
+ASF-CHB 27	ASF	Underwater mooring	135.3	47.98285	-65.36242	OTN-Global
+ASF-CHB 28	ASF	Underwater mooring	135.3	47.99075	-65.36913	OTN-Global
+ASF-CHB 29	ASF	Underwater mooring	135.3	47.99782	-65.37532	OTN-Global
+ASF-CB1	ASF	Underwater mooring	135.3	47.81503	-65.20863	OTN-Global
+ASF-CB2	ASF	Underwater mooring	135.3	47.82103	-65.214	OTN-Global
+ASF-CB3	ASF	Underwater mooring	135.3	47.82633	-65.21888	OTN-Global
+ASF-CB4	ASF	Underwater mooring	135.3	47.83153	-65.22368	OTN-Global
+ASF-CB5	ASF	Underwater mooring	135.3	47.83702	-65.22885	OTN-Global
+ASF-CB6	ASF	Underwater mooring	135.3	47.84223	-65.23345	OTN-Global
+ASF-CB7	ASF	Underwater mooring	135.3	47.84785	-65.23913	OTN-Global
+ASF-CB8	ASF	Underwater mooring	135.3	47.85323	-65.24378	OTN-Global
+ASF-CB9	ASF	Underwater mooring	135.3	47.85897	-65.24855	OTN-Global
+ASF-CB10	ASF	Underwater mooring	135.3	47.86542	-65.25482	OTN-Global
+ASF-CB11	ASF	Underwater mooring	135.3	47.8727	-65.26175	OTN-Global
+ASF-CB12	ASF	Underwater mooring	135.3	47.87942	-65.26697	OTN-Global
+ASF-CB13	ASF	Underwater mooring	135.3	47.88623	-65.2737	OTN-Global
+ASF-CB14	ASF	Underwater mooring	135.3	47.89332	-65.28033	OTN-Global
+ASF-CB15	ASF	Underwater mooring	135.3	47.90032	-65.28652	OTN-Global
+ASF-CB16	ASF	Underwater mooring	135.3	47.9075	-65.29292	OTN-Global
+ASF-CB17	ASF	Underwater mooring	135.3	47.91418	-65.29935	OTN-Global
+ASF-CB18	ASF	Underwater mooring	135.3	47.92367	-65.3091	OTN-Global
+ASF-CB19	ASF	Underwater mooring	135.3	47.9302	-65.31177	OTN-Global
+ASF-CB20	ASF	Underwater mooring	135.3	47.93477	-65.31815	OTN-Global
+ASF-CB21	ASF	Underwater mooring	135.3	47.94205	-65.32418	OTN-Global
+ASF-CB22	ASF	Underwater mooring	135.3	47.9486	-65.33085	OTN-Global
+ASF-CB23	ASF	Underwater mooring	135.3	47.95458	-65.33663	OTN-Global
+ASF-CB24	ASF	Underwater mooring	135.3	47.96243	-65.34307	OTN-Global
+ASF-CB25	ASF	Underwater mooring	135.3	47.96918	-65.34932	OTN-Global
+ASF-CB26	ASF	Underwater mooring	135.3	47.97632	-65.35645	OTN-Global
+ASF-CB27	ASF	Underwater mooring	135.3	47.98288	-65.36173	OTN-Global
+ASF-CB28	ASF	Underwater mooring	135.3	47.99062	-65.36922	OTN-Global
+ASF-CB29	ASF	Underwater mooring	135.3	47.99728	-65.37537	OTN-Global
+ASF-Barnaby Isand	ASF	Underwater mooring	135.3	46.91154	-65.62074	OTN-Global
+ASF-BB low	ASF	Underwater mooring	135.3	46.98929	-65.55853	OTN-Global
+ASF-BARTIBOG UPSTREAM 1	ASF	Underwater mooring	135.3	47.07797	-65.36612	OTN-Global
+ASF-BARTIBOG UPSTREAM 2	ASF	Underwater mooring	135.3	47.08207	-65.36639	OTN-Global
+ASF-Quarryville	ASF	Underwater mooring	135.3	46.83865	-65.74458	OTN-Global
+ASF-DoylesBr	ASF	Underwater mooring	135.3	46.85	-65.7	OTN-Global
+ASF-Cassilis 2	ASF	Underwater mooring	135.3	46.93438	-65.78328	OTN-Global
+ASF-Cass 1	ASF	Underwater mooring	135.3	46.93703	-65.77995	OTN-Global
+ASF-Cass 2	ASF	Underwater mooring	135.3	46.93685	-65.78011	OTN-Global
+ASF-Cass 1 2005	ASF	Underwater mooring	135.3	46.93977	-65.77749	OTN-Global
+ASF-UPPER BB ISLAND	ASF	Underwater mooring	135.3	46.96002	-65.58425	OTN-Global
+ASF-Upper Beaubear Island SW	ASF	Underwater mooring	135.3	46.96065	-65.58388	OTN-Global
+ASF-East end of Beaubear Island-Strawberry Marsh	ASF	Underwater mooring	135.3	46.98688	-65.55905	OTN-Global
+ASF-Down's Gulch	ASF	Underwater mooring	135.3	47.75379	-67.44809	OTN-Global
+ASF-CASC1	ASF	Underwater mooring	135.3	48.09123	-65.66475	OTN-Global
+ASF-CASC2	ASF	Underwater mooring	135.3	48.08235	-65.66627	OTN-Global
+ASF-CASC3	ASF	Underwater mooring	135.3	48.07346	-65.67134	OTN-Global
+ASF-Cascapedia 1	ASF	Underwater mooring	135.3	48.20847	-65.90415	OTN-Global
+ASF-Cascapedia 2	ASF	Underwater mooring	135.3	48.18993	-65.90375	OTN-Global
+ASF-Cascapedia River 2	ASF	Underwater mooring	135.3	48.25252	-65.89808	OTN-Global
+ASF-Cascapedia River 1	ASF	Underwater mooring	135.3	48.25225	-65.90237	OTN-Global
+ASF-Belledune Coastline 1	ASF	Underwater mooring	135.3	47.92293	-65.89374	OTN-Global
+ASF-Belledune Coastline 2	ASF	Underwater mooring	135.3	47.93039	-65.88554	OTN-Global
+ASF-Belledune Coastline 3	ASF	Underwater mooring	135.3	47.93815	-65.87947	OTN-Global
+ASF-WAB001	ASF	Underwater mooring	135.3	51.20767	-56.77163	OTN-Global
+Barnaby Island-2015	ASF	Underwater mooring	4	46.910933	-65.622117	OTN-Global
+BLW Little Sevogle-2015	ASF	Underwater mooring	135.3	47.01257	-65.83742	OTN-Global
+Casc 1-2015	ASF	Underwater mooring	4	48.2084	-65.90534	OTN-Global
+Casc 2-2015	ASF	Underwater mooring	3	48.1903	-65.90461	OTN-Global
+Cassilis-2015	ASF	Underwater mooring	2	46.93493	-65.78328	OTN-Global
+CB10-2015	ASF	Underwater mooring	76.2	47.8749883	-65.2629433	OTN-Global
+CB11-2015	ASF	Underwater mooring	73.152	47.881245	-65.26898	OTN-Global
+CB1-2015	ASF	Underwater mooring	7.9248	47.817185	-65.2099033	OTN-Global
+CB12-2015	ASF	Underwater mooring	71.628	47.887775	-65.2748283	OTN-Global
+CB13-2015	ASF	Underwater mooring	73.152	47.89413	-65.28072	OTN-Global
+CB14-2015	ASF	Underwater mooring	73.152	47.9006767	-65.286695	OTN-Global
+CB15-2015	ASF	Underwater mooring	73.152	47.9070883	-65.29259	OTN-Global
+CB16-2015	ASF	Underwater mooring	73.152	47.9133733	-65.2984	OTN-Global
+CB17-2015	ASF	Underwater mooring	73.152	47.9199267	-65.3039883	OTN-Global
+CB18-2015	ASF	Underwater mooring	73.152	47.926345	-65.3101067	OTN-Global
+CB19-2015	ASF	Underwater mooring	68.58	47.932735	-65.3159983	OTN-Global
+CB20-2015	ASF	Underwater mooring	65.532	47.9392583	-65.3219417	OTN-Global
+CB21-2015	ASF	Underwater mooring	60.96	47.9456733	-65.327835	OTN-Global
+CB22-2015	ASF	Underwater mooring	57.912	47.9520783	-65.333825	OTN-Global
+CB23-2015	ASF	Underwater mooring	51.816	47.9585867	-65.3397367	OTN-Global
+CB24-2015	ASF	Underwater mooring	45.72	47.9648783	-65.3456267	OTN-Global
+CB25-2015	ASF	Underwater mooring	45.72	47.9713567	-65.351565	OTN-Global
+CB26-2015	ASF	Underwater mooring	39.624	47.97775	-65.3574817	OTN-Global
+CB27-2015	ASF	Underwater mooring	30.48	47.98415	-65.363446	OTN-Global
+CB28-2015	ASF	Underwater mooring	18.288	47.9906183	-65.3689867	OTN-Global
+ASF-HG1	ASF	Underwater mooring	135.3	47.08113	-64.9476	OTN-Global
+ASF-HG2	ASF	Underwater mooring	135.3	47.08387	-64.95208	OTN-Global
+ASF-Huckleberry Gully 1	ASF	Underwater mooring	135.3	47.0772	-64.95357	OTN-Global
+ASF-Huckleberry Gully 2	ASF	Underwater mooring	135.3	47.07697	-64.95023	OTN-Global
+ASF-Eel Ground	ASF	Underwater mooring	135.3	46.96002	-65.62078	OTN-Global
+ASF-Portage Gully 1	ASF	Underwater mooring	135.3	47.20455	-65.03517	OTN-Global
+ASF-Portage Gully 2	ASF	Underwater mooring	135.3	47.19868	-65.0364	OTN-Global
+ASF-PG1	ASF	Underwater mooring	135.3	47.18805	-65.03111	OTN-Global
+ASF-PG2	ASF	Underwater mooring	135.3	47.19337	-65.02677	OTN-Global
+ASF-PG3	ASF	Underwater mooring	135.3	47.20091	-65.0265	OTN-Global
+ASF-PG4	ASF	Underwater mooring	135.3	47.20617	-65.03589	OTN-Global
+ASF-PI2	ASF	Underwater mooring	135.3	47.1413	-65.04612	OTN-Global
+ASF-PI1	ASF	Underwater mooring	135.3	47.13543	-65.0505	OTN-Global
+ASF-PI3	ASF	Underwater mooring	135.3	47.14619	-65.0441	OTN-Global
+ASF-PI4	ASF	Underwater mooring	135.3	47.14951	-65.0435	OTN-Global
+ASF-PI5	ASF	Underwater mooring	135.3	47.14751	-65.05032	OTN-Global
+ASF-PI6	ASF	Underwater mooring	135.3	47.14309	-65.03588	OTN-Global
+ASF-Portage Island 1	ASF	Underwater mooring	135.3	47.13518	-65.0434	OTN-Global
+ASF-Portage Island 3	ASF	Underwater mooring	135.3	47.14368	-65.0445	OTN-Global
+ASF-Portage Island 4	ASF	Underwater mooring	135.3	47.14798	-65.04117	OTN-Global
+ASF-Portage Island 5	ASF	Underwater mooring	135.3	47.14547	-65.04252	OTN-Global
+ASF-Portage Island 6	ASF	Underwater mooring	135.3	47.13747	-65.0439	OTN-Global
+ASF-East end of Beaubear Island-Chatham Side	ASF	Underwater mooring	135.3	46.9866	-65.55657	OTN-Global
+ASF-UPMKymenne-NW	ASF	Underwater mooring	135.3	46.96712	-65.59007	OTN-Global
+ASF-UPM	ASF	Underwater mooring	135.3	46.96723	-65.58867	OTN-Global
+ASF-LOWER BB ISLAND 1	ASF	Underwater mooring	135.3	46.98748	-65.55607	OTN-Global
+ASF-LOWER BB ISLAND 2	ASF	Underwater mooring	135.3	46.98775	-65.55885	OTN-Global
+DALJ 2-2016	ASF	Underwater mooring	9	48.0516	-66.54	OTN-Global
+ASF-DOUGLASTOWN 1	ASF	Underwater mooring	135.3	47.02195	-65.49835	OTN-Global
+ASF-DOUGLASTOWN 2	ASF	Underwater mooring	135.3	47.02063	-65.4947	OTN-Global
+ASF-SI1	ASF	Underwater mooring	135.3	47.07751	-65.36705	OTN-Global
+ASF-SI2	ASF	Underwater mooring	135.3	47.08205	-65.3679	OTN-Global
+ASF-Sheldrake Island 1	ASF	Underwater mooring	135.3	47.08742	-65.33128	OTN-Global
+ASF-Sheldrake Island 2	ASF	Underwater mooring	135.3	47.08062	-65.33072	OTN-Global
+ASF-OUTSIDE OF BAY DU VIN ISLAND	ASF	Underwater mooring	135.3	47.09957	-65.11107	OTN-Global
+ASF-INSHORE OF BAY DU VIN ISLAND	ASF	Underwater mooring	135.3	47.08528	-65.10215	OTN-Global
+ASF-ESCUMINAC POINT 2	ASF	Underwater mooring	135.3	47.08813	-64.79213	OTN-Global
+ASF-Stewart Brook	ASF	Underwater mooring	135.3	46.96175	-65.66132	OTN-Global
+ASF-LSW	ASF	Underwater mooring	135.3	46.9529	-65.85803	OTN-Global
+ASF-Kymenne	ASF	Underwater mooring	135.3	46.9666	-65.58956	OTN-Global
+ASF-2 km Upriver of the Oxbow	ASF	Underwater mooring	135.3	46.95367	-65.8715	OTN-Global
+ASF-OXBOW	ASF	Underwater mooring	135.3	46.95917	-65.84967	OTN-Global
+ASF-OFF OF TABUSINTAC	ASF	Underwater mooring	135.3	47.29528	-64.92985	OTN-Global
+ASF-ESCUMINAC POINT 1	ASF	Underwater mooring	135.3	47.08235	-64.79828	OTN-Global
+ASF-Enclosure	ASF	Underwater mooring	135.3	46.9595	-65.5846	OTN-Global
+ASF-French Fort cove	ASF	Underwater mooring	135.3	47.0149	-65.54333	OTN-Global
+ASF-Chatam	ASF	Underwater mooring	135.3	47.02102	-65.49572	OTN-Global
+ASF-Hacket's Beach	ASF	Underwater mooring	135.3	46.95757	-65.67292	OTN-Global
+ASF-LSW1	ASF	Underwater mooring	135.3	46.95391	-65.85986	OTN-Global
+ASF-Suth BR	ASF	Underwater mooring	135.3	46.94	-65.82	OTN-Global
+ASF-Loggieville	ASF	Underwater mooring	135.3	47.07758	-65.39268	OTN-Global
+JDF006	JDF	Underwater mooring	127	48.34963	-123.95802	nep
+ASF-Deeside-Runnymede	ASF	Underwater mooring	135.3	47.9117	-67.0013	OTN-Global
+ASF-Dalhousie 3	ASF	Underwater mooring	135.3	48.06797	-66.33485	OTN-Global
+ASF-Dalhousie 1	ASF	Underwater mooring	135.3	48.06228	-66.34445	OTN-Global
+ASF-Dalhousie 2 	ASF	Underwater mooring	135.3	48.0665	-66.34362	OTN-Global
+ASF-Dalhousie 4	ASF	Underwater mooring	135.3	48.07505	-66.33048	OTN-Global
+ASF-Boston Brook	ASF	Underwater mooring	135.3	47.52763	-67.62078	OTN-Global
+ASF-Head of Tide 2	ASF	Underwater mooring	135.3	48.00903	-66.70108	OTN-Global
+ASF-Head of Tide 3	ASF	Underwater mooring	135.3	48.00564	-66.69999	OTN-Global
+ASF-Head of Tide 4	ASF	Underwater mooring	135.3	48.00801	-66.69458	OTN-Global
+ASF-Head of Tide 5	ASF	Underwater mooring	135.3	48.00572	-66.69467	OTN-Global
+ASF-HOME POOL RUNNYMEDE	ASF	Underwater mooring	135.3	47.91087	-66.957	OTN-Global
+ASF-Head of Tide 1	ASF	Underwater mooring	135.3	48.00416	-66.6985	OTN-Global
+ASF-HoT 1	ASF	Underwater mooring	135.3	48.0083	-66.69583	OTN-Global
+ASF-HoT 2	ASF	Underwater mooring	135.3	48.00512	-66.69603	OTN-Global
+ASF-HoT 3	ASF	Underwater mooring	135.3	48.00312	-66.69635	OTN-Global
+ASF-Larrys Gulch 1	ASF	Underwater mooring	135.3	47.71206	-67.43644	OTN-Global
+ASF-Upsalquitch	ASF	Underwater mooring	135.3	47.84865	-66.91097	OTN-Global
+ASF-Million Dollar Pool	ASF	Underwater mooring	135.3	47.84558	-67.37085	OTN-Global
+ASF-Ristigouche Salmon Club	ASF	Underwater mooring	135.3	47.97307	-66.93804	OTN-Global
+ASF-Florence Pool-Runnymede	ASF	Underwater mooring	135.3	47.90574	-66.94517	OTN-Global
+CB3-2015	ASF	Underwater mooring	36.576	47.8299233	-65.2216583	OTN-Global
+ASF-Larrys Gulch 2	ASF	Underwater mooring	135.3	47.72761	-67.43528	OTN-Global
+ASF-Junction Pool	ASF	Underwater mooring	135.3	47.66751	-67.48298	OTN-Global
+ASF-Matapedia	ASF	Underwater mooring	135.3	47.98355	-66.96883	OTN-Global
+ASF-Jimmies Hole	ASF	Underwater mooring	135.3	47.66853	-67.48174	OTN-Global
+ASF-MATAPEDIA-HAYLEY'S POOL	ASF	Underwater mooring	135.3	47.982	-66.95867	OTN-Global
+ASF-RUNNYMEDE	ASF	Underwater mooring	135.3	47.91087	-66.957	OTN-Global
+ASF-Rest 1	ASF	Underwater mooring	135.3	48.0083	-66.69583	OTN-Global
+ASF-Rest 3	ASF	Underwater mooring	135.3	48.00312	-66.69635	OTN-Global
+ASF-Rest 2	ASF	Underwater mooring	135.3	48.00512	-66.69603	OTN-Global
+CB4-2015	ASF	Underwater mooring	39.624	47.8362867	-65.22753	OTN-Global
+ASF-Old Salmon River (below 30 mile camp by castor lodge)	ASF	Underwater mooring	135.3	50.5285	-64.12278	OTN-Global
+ASF-Inner Arc 4-2009	ASF	Underwater mooring	135.3	50.2725	-64.32611	OTN-Global
+ASF-Inner Arc 5-2009	ASF	Underwater mooring	135.3	50.27139	-64.31861	OTN-Global
+ASF-Outer Arc 6-2009	ASF	Underwater mooring	135.3	50.26944	-64.30861	OTN-Global
+ASF-Outer Arc 7-2009	ASF	Underwater mooring	135.3	50.26639	-64.31861	OTN-Global
+ASF-Outer Arc 8-2009	ASF	Underwater mooring	135.3	50.26556	-64.33194	OTN-Global
+ASF-Outer Arc 9-2009	ASF	Underwater mooring	135.3	50.26806	-64.34167	OTN-Global
+ASF-Outer Arc 10-2009	ASF	Underwater mooring	135.3	50.27111	-64.35417	OTN-Global
+ASF-Outer Arc 11-2009	ASF	Underwater mooring	135.3	50.27583	-64.36139	OTN-Global
+ASF-Outer Arc 12-2009	ASF	Underwater mooring	135.3	50.28278	-64.36222	OTN-Global
+ASF-Outer Arc 5-2010	ASF	Underwater mooring	135.3	50.26558	-64.31751	OTN-Global
+ASF-Red Rock	ASF	Underwater mooring	135.3	50.33147	-64.25597	OTN-Global
+ASF-West Line A	ASF	Underwater mooring	135.3	50.30856	-64.44672	OTN-Global
+ASF-West Line B	ASF	Underwater mooring	135.3	50.30028	-64.44194	OTN-Global
+ASF-Anticosti Island 3	ASF	Underwater mooring	135.3	49.90093	-64.5633	OTN-Global
+ASF-Gulf F	ASF	Underwater mooring	135.3	50.25556	-64.37917	OTN-Global
+ASF-Gulf G	ASF	Underwater mooring	135.3	50.25111	-64.36778	OTN-Global
+ASF-Gulf H	ASF	Underwater mooring	135.3	50.24806	-64.35639	OTN-Global
+ASF-Gulf I	ASF	Underwater mooring	135.3	50.24528	-64.34361	OTN-Global
+JDF007	JDF	Underwater mooring	134	48.3443	-123.96613	nep
+ASF-Inner Arc 4-2010	ASF	Underwater mooring	135.3	50.27191	-64.32075	OTN-Global
+ASF-Inner Arc 3-2010	ASF	Underwater mooring	135.3	50.27136	-64.33285	OTN-Global
+ASF-Inner Arc 2-2010	ASF	Underwater mooring	135.3	50.27358	-64.34351	OTN-Global
+ASF-Inner Arc 1-2010	ASF	Underwater mooring	135.3	50.27986	-64.35062	OTN-Global
+ASF-Outer Arc 10-2010	ASF	Underwater mooring	135.3	50.28416	-64.36146	OTN-Global
+ASF-Outer Arc 9-2010	ASF	Underwater mooring	135.3	50.2768	-64.36098	OTN-Global
+ASF-Outer Arc 8-2010	ASF	Underwater mooring	135.3	50.27039	-64.35453	OTN-Global
+ASF-Outer Arc 7-2010	ASF	Underwater mooring	135.3	50.26579	-64.34414	OTN-Global
+ASF-Outer Arc 6-2010	ASF	Underwater mooring	135.3	50.26382	-64.3313	OTN-Global
+ASF-Deforest-2010	ASF	Underwater mooring	135.3	50.3395	-64.24783	OTN-Global
+ASF-Deforest-2011	ASF	Underwater mooring	135.3	50.339	-64.24817	OTN-Global
+ASF-Anticosti Island 2	ASF	Underwater mooring	135.3	49.89673	-64.54998	OTN-Global
+ASF-Anticosti Island 1	ASF	Underwater mooring	135.3	49.89227	-64.5363	OTN-Global
+ASF-Anticosti Island 4	ASF	Underwater mooring	135.3	49.90455	-64.57548	OTN-Global
+ASF-Anticosti Island 5	ASF	Underwater mooring	135.3	49.90867	-64.58682	OTN-Global
+ASF-Casc Estuary 1	ASF	Underwater mooring	135.3	48.18895	-65.90343	OTN-Global
+ASF-Casc Estuary 2	ASF	Underwater mooring	135.3	48.20888	-65.90379	OTN-Global
+Eel Ground-2016	ASF	Underwater mooring	6	46.9603	-65.6215	OTN-Global
+CB5-2015	ASF	Underwater mooring	48.768	47.8428533	-65.2334017	OTN-Global
+CB6-2015	ASF	Underwater mooring	57.912	47.8493508	-65.2394307	OTN-Global
+CB7-2015	ASF	Underwater mooring	67.056	47.8556033	-65.2451833	OTN-Global
+CB8-2015	ASF	Underwater mooring	70.104	47.8621117	-65.2510683	OTN-Global
+CB9-2015	ASF	Underwater mooring	65.532	47.8684867	-65.2569633	OTN-Global
+Chatham-2015	ASF	Underwater mooring	6.3	47.021017	-65.495717	OTN-Global
+DAL 1-2015	ASF	Underwater mooring	10	48.064167	-66.34625	OTN-Global
+DAL 2-2015	ASF	Underwater mooring	20	48.069494	-66.338775	OTN-Global
+DAL 3-2015	ASF	Underwater mooring	9	48.074367	-66.33145	OTN-Global
+DALJ 1-2015	ASF	Underwater mooring	9	48.04458	-66.53629	OTN-Global
+DALJ 2-2015	ASF	Underwater mooring	9	48.05157	-66.53998	OTN-Global
+Eel Ground-2015	ASF	Underwater mooring	6	46.9602	-65.62155	OTN-Global
+Enclosure-2015	ASF	Underwater mooring	6	46.9595	-65.5846	OTN-Global
+French Fort Cove-2015	ASF	Underwater mooring	7.5	47.0149	-65.543333	OTN-Global
+Hacketts Beach-2015	ASF	Underwater mooring	7	46.957567	-65.672917	OTN-Global
+Huckleberry 1-2015	ASF	Underwater mooring	1	47.077183	-64.953417	OTN-Global
+Huckleberry 2-2015	ASF	Underwater mooring	1	47.077667	-64.951117	OTN-Global
+Johnson Bridge-2015	ASF	Underwater mooring	135.3	46.96335	-65.82644	OTN-Global
+Kingston Lane-2015	ASF	Underwater mooring	135.3	47.0828	-65.82644	OTN-Global
+Loggieville-2015	ASF	Underwater mooring	9.5	47.077583	-65.392683	OTN-Global
+Mann Mountain Settlement-2015	ASF	Underwater mooring	135.3	47.962017	-66.94365	OTN-Global
+Middle Island-2015	ASF	Underwater mooring	10	47.055067	-65.456983	OTN-Global
+Millerton-2015	ASF	Underwater mooring	4	46.881517	-65.6588	OTN-Global
+Millstream-2015	ASF	Underwater mooring	4.3	46.964833	-65.709583	OTN-Global
+Neguac 2-2015	ASF	Underwater mooring	3	47.20625	-65.038133	OTN-Global
+Neguac 3-2015	ASF	Underwater mooring	2	47.205883	-65.046267	OTN-Global
+Nelson-2015	ASF	Underwater mooring	4.1	46.98775	-65.55915	OTN-Global
+N. Portage 1-2015	ASF	Underwater mooring	10	47.147483	-65.055717	OTN-Global
+N. Portage 2-2015	ASF	Underwater mooring	11	47.14785	-65.04855	OTN-Global
+N. Portage 3-2015	ASF	Underwater mooring	13	47.148	-65.0415	OTN-Global
+Parks Landing-2015	ASF	Underwater mooring	5	46.93221	-65.79787	OTN-Global
+Quarryville-2015	ASF	Underwater mooring	135.3	46.829933	-65.783867	OTN-Global
+Red Bank-2015	ASF	Underwater mooring	5	46.94094	-65.81902	OTN-Global
+REST 4-2015	ASF	Underwater mooring	6.096	48.01045	-66.675533	OTN-Global
+JDF011	JDF	Underwater mooring	172	48.31968	-123.99303	nep
+REST 5-2015	ASF	Underwater mooring	5.4864	48.011683	-66.676567	OTN-Global
+REST 6-2015	ASF	Underwater mooring	3.6576	48.013183	-66.677867	OTN-Global
+SOBI 10-2015	ASF	Underwater mooring	81.4	51.4187183	-56.69033	OTN-Global
+SOBI 11-2015	ASF	Underwater mooring	66.4	51.4238117	-56.69896	OTN-Global
+SOBI 1-2015	ASF	Underwater mooring	1.8	51.3770433	-56.6155133	OTN-Global
+SOBI 12-2015	ASF	Underwater mooring	65.5	51.4287967	-56.7070217	OTN-Global
+SOBI 13-2015	ASF	Underwater mooring	60.7	51.433725	-56.7153817	OTN-Global
+SOBI 14-2015	ASF	Underwater mooring	65.5	51.4373233	-56.7256	OTN-Global
+SOBI 15-2015	ASF	Underwater mooring	62.8	51.44216	-56.733925	OTN-Global
+SOBI 16-2015	ASF	Underwater mooring	56.7	51.4472367	-56.7413967	OTN-Global
+ASF-ST Portage 1	ASF	Underwater mooring	135.3	47.1447	-65.0473	OTN-Global
+ASF-ST Portage 3	ASF	Underwater mooring	135.3	47.1472	-65.048	OTN-Global
+ASF-S. Portage 3	ASF	Underwater mooring	135.3	47.1414	-65.0392	OTN-Global
+SOBI 17-2015	ASF	Underwater mooring	52.7	51.451945	-56.750305	OTN-Global
+SOBI 18-2015	ASF	Underwater mooring	62.2	51.4560133	-56.7583933	OTN-Global
+SOBI 19-2015	ASF	Underwater mooring	70.7	51.46136	-56.7676517	OTN-Global
+SOBI 20-2015	ASF	Underwater mooring	89.6	51.4650983	-56.7760467	OTN-Global
+SOBI 2-2015	ASF	Underwater mooring	2.6	51.3819383	-56.6234033	OTN-Global
+SOBI 23-2015	ASF	Underwater mooring	105.5	51.47486	-56.7921583	OTN-Global
+SOBI 25-2015	ASF	Underwater mooring	106.7	51.4797067	-56.80137	OTN-Global
+SOBI 26-2015	ASF	Underwater mooring	80.5	51.4839933	-56.809275	OTN-Global
+SOBI 3-2015	ASF	Underwater mooring	2.1	51.3869633	-56.6315917	OTN-Global
+SOBI 4-2015	ASF	Underwater mooring	73.8	51.3905583	-56.640545	OTN-Global
+SOBI 5-2015	ASF	Underwater mooring	66.4	51.3959233	-56.648335	OTN-Global
+SOBI 6-2015	ASF	Underwater mooring	79.2	51.40052	-56.6571967	OTN-Global
+SOBI 7-2015	ASF	Underwater mooring	79.2	51.4052483	-56.6643083	OTN-Global
+SOBI 8-2015	ASF	Underwater mooring	86.6	51.4095867	-56.673195	OTN-Global
+SOBI 9-2015	ASF	Underwater mooring	79.9	51.41446	-56.68113	OTN-Global
+SOBI N 10-2015	ASF	Underwater mooring	70	51.43187024	-56.64607784	OTN-Global
+SOBI N 11-2015	ASF	Underwater mooring	60	51.43663746	-56.65394569	OTN-Global
+SOBI N 1-2015	ASF	Underwater mooring	5	51.3895145	-56.57799783	OTN-Global
+SOBI N 12-2015	ASF	Underwater mooring	65	51.44152185	-56.66184693	OTN-Global
+SOBI N 13-2015	ASF	Underwater mooring	62	51.44651147	-56.66968645	OTN-Global
+SOBI N 14-2015	ASF	Underwater mooring	60	51.45146042	-56.67762838	OTN-Global
+SOBI N 15-2015	ASF	Underwater mooring	50	51.45634992	-56.68564416	OTN-Global
+SOBI N 16-2015	ASF	Underwater mooring	50	51.46129842	-56.69354676	OTN-Global
+SOBI N 17-2015	ASF	Underwater mooring	60	51.4662161	-56.70152768	OTN-Global
+SOBI N 18-2015	ASF	Underwater mooring	55	51.47119336	-56.70959692	OTN-Global
+SOBI N 19-2015	ASF	Underwater mooring	60	51.47616376	-56.71749844	OTN-Global
+SOBI N 20-2015	ASF	Underwater mooring	65	51.481035	-56.72549878	OTN-Global
+SOBI N 21-2015	ASF	Underwater mooring	85	51.48601574	-56.733382	OTN-Global
+SOBI N 2-2015	ASF	Underwater mooring	7	51.39194677	-56.58241907	OTN-Global
+SOBI N 22-2015	ASF	Underwater mooring	95	51.49094173	-56.74134991	OTN-Global
+SOBI N 23-2015	ASF	Underwater mooring	100	51.49582445	-56.74934045	OTN-Global
+SOBI N 24-2015	ASF	Underwater mooring	100	51.50066989	-56.75710619	OTN-Global
+SOBI N 25-2015	ASF	Underwater mooring	90	51.50561736	-56.7651693	OTN-Global
+SOBI N 26-2015	ASF	Underwater mooring	40	51.51052594	-56.77326819	OTN-Global
+SOBI N 27-2015	ASF	Underwater mooring	45	51.51559732	-56.78141182	OTN-Global
+SOBI N 28-2015	ASF	Underwater mooring	40	51.51896846	-56.78683538	OTN-Global
+SOBI N 3-2015	ASF	Underwater mooring	12	51.39713259	-56.59038946	OTN-Global
+SOBI N 4-2015	ASF	Underwater mooring	50	51.4020935	-56.59843475	OTN-Global
+SOBI N 5-2015	ASF	Underwater mooring	62	51.40712793	-56.60642523	OTN-Global
+SOBI N 6-2015	ASF	Underwater mooring	65	51.41218485	-56.61445552	OTN-Global
+SOBI N 7-2015	ASF	Underwater mooring	65	51.41693747	-56.62249209	OTN-Global
+SOBI N 8-2015	ASF	Underwater mooring	70	51.42200989	-56.63024044	OTN-Global
+SOBI N 9-2015	ASF	Underwater mooring	70	51.42699366	-56.63817228	OTN-Global
+S. Portage 11-2015	ASF	Underwater mooring	5	47.13637	-65.05188	OTN-Global
+S. Portage 1-2015	ASF	Underwater mooring	6	47.141433	-65.053233	OTN-Global
+S. Portage 2-2015	ASF	Underwater mooring	9	47.14215	-65.04465	OTN-Global
+S. Portage 3-2015	ASF	Underwater mooring	11	47.1414	-65.0392	OTN-Global
+SW Mir 1-2015	ASF	Underwater mooring	135.3	46.47446	-66.40185	OTN-Global
+SW Mir 2-2015	ASF	Underwater mooring	135.3	46.54781	-66.15697	OTN-Global
+SW Mir 3 Black Brook-2015	ASF	Underwater mooring	135.3	46.670442	-65.775455	OTN-Global
+ASF-Chaleur Bay 1-2004	ASF	Underwater mooring	135.3	47.824	-65.1825	OTN-Global
+ASF-Cassilis 1-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+SBX006	ASF	Underwater mooring	135.3	51.39995	-56.65771	OTN-Global
+ASF-Cassilis 2-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+ASF-Cassilis 3-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+SBX007	ASF	Underwater mooring	135.3	51.40462	-56.66613	OTN-Global
+ASF-Cassilis 4-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+SOBI002	ASF	Underwater mooring	135.3	51.38194	-56.62358	OTN-Global
+SOBI001	ASF	Underwater mooring	135.3	51.37792	-56.60967	OTN-Global
+SOBI003	ASF	Underwater mooring	135.3	51.38608	-56.63622	OTN-Global
+SOBI004	ASF	Underwater mooring	135.3	51.39072	-56.64817	OTN-Global
+SOBI005	ASF	Underwater mooring	135.3	51.39614	-56.65983	OTN-Global
+SOBI006	ASF	Underwater mooring	135.3	51.40233	-56.66989	OTN-Global
+SOBI007	ASF	Underwater mooring	135.3	51.40878	-56.67975	OTN-Global
+SOBI008	ASF	Underwater mooring	135.3	51.41467	-56.69031	OTN-Global
+SOBI009	ASF	Underwater mooring	135.3	51.42136	-56.6995	OTN-Global
+SOBI010	ASF	Underwater mooring	135.3	51.42853	-56.70939	OTN-Global
+SOBI011	ASF	Underwater mooring	135.3	51.43569	-56.71814	OTN-Global
+SOBI012	ASF	Underwater mooring	135.3	51.44275	-56.728	OTN-Global
+SOBI013	ASF	Underwater mooring	135.3	51.45033	-56.73633	OTN-Global
+SOBI014	ASF	Underwater mooring	135.3	51.45733	-56.74561	OTN-Global
+SOBI015	ASF	Underwater mooring	135.3	51.46494	-56.75386	OTN-Global
+SOBI016	ASF	Underwater mooring	135.3	51.47219	-56.76217	OTN-Global
+SOBI017	ASF	Underwater mooring	135.3	51.47878	-56.77156	OTN-Global
+SOBI018	ASF	Underwater mooring	135.3	51.48375	-56.78253	OTN-Global
+SOBI019	ASF	Underwater mooring	135.3	51.48861	-56.79361	OTN-Global
+SOBI020	ASF	Underwater mooring	135.3	51.48747	-56.80161	OTN-Global
+SOBI021	ASF	Underwater mooring	135.3	51.49064	-56.80906	OTN-Global
+SOBI022	ASF	Underwater mooring	135.3	51.48936	-56.81408	OTN-Global
+SBX-WHARF	ASF	Underwater mooring	2	51.3843	-56.57963	OTN-Global
+SBX019	ASF	Underwater mooring	135.3	51.46063	-56.76723	OTN-Global
+SBX020	ASF	Underwater mooring	135.3	51.46529	-56.77566	OTN-Global
+SBX001	ASF	Underwater mooring	135.3	51.37662	-56.61558	OTN-Global
+SBX025	ASF	Underwater mooring	135.3	51.47929	-56.80093	OTN-Global
+SBX026	ASF	Underwater mooring	135.3	51.48396	-56.80936	OTN-Global
+SBX002	ASF	Underwater mooring	135.3	51.38129	-56.62401	OTN-Global
+SBX003	ASF	Underwater mooring	135.3	51.38595	-56.63243	OTN-Global
+SBX004	ASF	Underwater mooring	135.3	51.39062	-56.64086	OTN-Global
+SBX005	ASF	Underwater mooring	135.3	51.39529	-56.64928	OTN-Global
+SBX008	ASF	Underwater mooring	135.3	51.40929	-56.67456	OTN-Global
+SBX009	ASF	Underwater mooring	135.3	51.41396	-56.68298	OTN-Global
+SBX010	ASF	Underwater mooring	135.3	51.41862	-56.69141	OTN-Global
+SBX011	ASF	Underwater mooring	135.3	51.42329	-56.69983	OTN-Global
+SBX-ST100	ASF	Underwater mooring	135.3	51.3843	-56.5796	OTN-Global
+SBX-ST034	ASF	Underwater mooring	135.3	51.4822	-56.8062	OTN-Global
+SBX-PODNL	ASF	Underwater mooring	105	51.3705	-56.7461	OTN-Global
+SBX012	ASF	Underwater mooring	135.3	51.42796	-56.70826	OTN-Global
+SBX013	ASF	Underwater mooring	135.3	51.43262	-56.71668	OTN-Global
+SBX014	ASF	Underwater mooring	135.3	51.43729	-56.72511	OTN-Global
+SBX015	ASF	Underwater mooring	135.3	51.44196	-56.73353	OTN-Global
+SBX016	ASF	Underwater mooring	135.3	51.44662	-56.74196	OTN-Global
+SBX-ST027	ASF	Underwater mooring	135.3	51.3936	-56.646	OTN-Global
+SBX024	ASF	Underwater mooring	116.7	51.47649	-56.79588	OTN-Global
+SBX021	ASF	Underwater mooring	105.2	51.46809	-56.78071	OTN-Global
+SBX-ST028	ASF	Underwater mooring	135.3	51.4262	-56.7051	OTN-Global
+SBX-ST033	ASF	Underwater mooring	135.3	51.4667	-56.7782	OTN-Global
+SBX022	ASF	Underwater mooring	106.1	51.47089	-56.78577	OTN-Global
+SBX017	ASF	Underwater mooring	135.3	51.45129	-56.75038	OTN-Global
+SBX018	ASF	Underwater mooring	135.3	51.45596	-56.75881	OTN-Global
+SBX023	ASF	Underwater mooring	105.5	51.47369	-56.79082	OTN-Global
+SBX-ST029	ASF	Underwater mooring	135.3	51.4536	-56.7546	OTN-Global
+SBX-ST030	ASF	Underwater mooring	135.3	51.4542	-56.7557	OTN-Global
+SBX-ST032	ASF	Underwater mooring	135.3	51.4554	-56.7578	OTN-Global
+SBX-ST031	ASF	Underwater mooring	135.3	51.4548	-56.7567	OTN-Global
+SBX-PODLB	ASF	Underwater mooring	105	51.4591	-56.8179	OTN-Global
+ASF-Cassilis  (most downstream)-2004	ASF	Underwater mooring	135.3	46.9369	-65.7804	OTN-Global
+ASF-Cassilis  (most upstream)-2004	ASF	Underwater mooring	135.3	46.9354	-65.7827	OTN-Global
+ASF-Catamaran Brook 1-2003	ASF	Underwater mooring	135.3	46.7667	-67.1	OTN-Global
+ASF-Catamaran Brook 2-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+Enclosure-2016	ASF	Underwater mooring	6	46.9593	-65.5843	OTN-Global
+PODLB	ASF	Underwater mooring	105	51.4591	-56.8179	OTN-Global
+PODNL	ASF	Underwater mooring	105	51.3705	-56.7461	OTN-Global
+ASF-2 MILE POOL PAT. RIVER	ASF	Underwater mooring	135.3	43.03	-66.36	OTN-Global
+ASF-HOT pool	ASF	Underwater mooring	135.3	43.03	-66.36	OTN-Global
+Barnaby Isl.-2016	ASF	Underwater mooring	4	46.9109	-65.6218	OTN-Global
+BLW Little Sevogle-2016	ASF	Underwater mooring	135.3	47.0126	-65.8374	OTN-Global
+Casc 1-2016	ASF	Underwater mooring	4	48.2084	-65.9053	OTN-Global
+Casc 2-2016	ASF	Underwater mooring	3	48.1903	-65.9046	OTN-Global
+Cassilis-2016	ASF	Underwater mooring	2	46.935	-65.7831	OTN-Global
+Cassilis B-2016	ASF	Underwater mooring	2	46.935	-65.7831	OTN-Global
+CB10-2016	ASF	Underwater mooring	76.2	47.875	-65.2629	OTN-Global
+CB11-2016	ASF	Underwater mooring	73.152	47.8812	-65.269	OTN-Global
+CB1-2016	ASF	Underwater mooring	7.9248	47.8172	-65.2099	OTN-Global
+CB12-2016	ASF	Underwater mooring	71.628	47.8878	-65.2748	OTN-Global
+CB13-2016	ASF	Underwater mooring	73.152	47.8941	-65.2807	OTN-Global
+CB14-2016	ASF	Underwater mooring	73.152	47.9007	-65.2867	OTN-Global
+CB15-2016	ASF	Underwater mooring	73.152	47.9071	-65.2926	OTN-Global
+CB16-2016	ASF	Underwater mooring	73.152	47.9134	-65.2984	OTN-Global
+CB17-2016	ASF	Underwater mooring	73.152	47.9199	-65.304	OTN-Global
+CB18-2016	ASF	Underwater mooring	73.152	47.9263	-65.3101	OTN-Global
+CB19-2016	ASF	Underwater mooring	68.58	47.9327	-65.316	OTN-Global
+CB20-2016	ASF	Underwater mooring	65.532	47.9393	-65.3219	OTN-Global
+CB21-2016	ASF	Underwater mooring	60.96	47.9457	-65.3278	OTN-Global
+CB2-2016	ASF	Underwater mooring	30.48	47.8236	-65.216	OTN-Global
+CB22-2016	ASF	Underwater mooring	57.912	47.9521	-65.3338	OTN-Global
+CB23-2016	ASF	Underwater mooring	51.816	47.9586	-65.3397	OTN-Global
+CB24-2016	ASF	Underwater mooring	45.72	47.9649	-65.3456	OTN-Global
+CB25-2016	ASF	Underwater mooring	45.72	47.9714	-65.3516	OTN-Global
+CB26-2016	ASF	Underwater mooring	39.624	47.9778	-65.3575	OTN-Global
+CB27-2016	ASF	Underwater mooring	30.48	47.9842	-65.3634	OTN-Global
+CB28-2016	ASF	Underwater mooring	18.288	47.9906	-65.369	OTN-Global
+ASF-Chaleur Bay 10-2004	ASF	Underwater mooring	135.3	47.9025	-65.2102	OTN-Global
+ASF-Chaleur Bay 11-2004	ASF	Underwater mooring	135.3	47.9112	-65.2132	OTN-Global
+CB3-2016	ASF	Underwater mooring	36.576	47.8299	-65.2217	OTN-Global
+CB4-2016	ASF	Underwater mooring	39.624	47.8363	-65.2275	OTN-Global
+CB5-2016	ASF	Underwater mooring	48.768	47.8429	-65.2334	OTN-Global
+CB6-2016	ASF	Underwater mooring	57.912	47.8494	-65.2394	OTN-Global
+CB7-2016	ASF	Underwater mooring	67.056	47.8556	-65.2452	OTN-Global
+CB8-2016	ASF	Underwater mooring	70.104	47.8621	-65.2511	OTN-Global
+CB9-2016	ASF	Underwater mooring	65.532	47.8685	-65.257	OTN-Global
+Chatham-2016	ASF	Underwater mooring	6.3	47.0211	-65.4954	OTN-Global
+DAL 1-2016	ASF	Underwater mooring	10	48.0635	-66.3468	OTN-Global
+DAL 2-2016	ASF	Underwater mooring	20	48.0695	-66.3388	OTN-Global
+DAL 3-2016	ASF	Underwater mooring	12	48.0746	-66.3322	OTN-Global
+DALJ 1-2016	ASF	Underwater mooring	9	48.0441	-66.5358	OTN-Global
+French Fort Cove-2016	ASF	Underwater mooring	7.5	47.015	-65.5433	OTN-Global
+Hacketts Beach-2016	ASF	Underwater mooring	7	46.9576	-65.6726	OTN-Global
+Huckleberry 1-2016	ASF	Underwater mooring	1	47.0772	-64.9534	OTN-Global
+Huckleberry 2-2016	ASF	Underwater mooring	1	47.0777	-64.9511	OTN-Global
+Johnson Bridge-2016	ASF	Underwater mooring	135.3	46.9634	-65.8264	OTN-Global
+Kingston Lane-2016	ASF	Underwater mooring	135.3	47.0828	-65.8264	OTN-Global
+Loggieville-2016	ASF	Underwater mooring	9.5	47.0773	-65.3925	OTN-Global
+Loggieville 2-2016	ASF	Underwater mooring	135.3	47.0746	-65.3899	OTN-Global
+Loggieville B-2016	ASF	Underwater mooring	9.5	47.0773	-65.3925	OTN-Global
+Mann Mtn 1-2016	ASF	Underwater mooring	135.3	47.962	-66.9437	OTN-Global
+Mann Mtn 2-2016	ASF	Underwater mooring	135.3	47.962	-66.9437	OTN-Global
+Middle Island-2016	ASF	Underwater mooring	10	47.0553	-65.4557	OTN-Global
+Millerton-2016	ASF	Underwater mooring	4	46.8763	-65.664	OTN-Global
+Millstream-2016	ASF	Underwater mooring	4.3	46.9651	-65.7088	OTN-Global
+Miners Bridge-2016	ASF	Underwater mooring	135.3	47.1929	-65.8802	OTN-Global
+Neguac 2-2016	ASF	Underwater mooring	3	47.2063	-65.0381	OTN-Global
+Neguac 3-2016	ASF	Underwater mooring	2	47.2059	-65.0463	OTN-Global
+ASF-2014 Dal Junction 2	ASF	Underwater mooring	9	48.0516	-66.54	OTN-Global
+ASF-2014 Doyle's	ASF	Underwater mooring	135.3	46.8438	-65.7323	OTN-Global
+ASF-2014 REST 1	ASF	Underwater mooring	2.1	48.0029	-66.6978	OTN-Global
+ASF-2014 REST 2	ASF	Underwater mooring	2.1	48.005	-66.6981	OTN-Global
+ASF-2014 REST 3	ASF	Underwater mooring	2.7	48.0067	-66.6984	OTN-Global
+ASF-2014 REST 4	ASF	Underwater mooring	6.1	48.0105	-66.6755	OTN-Global
+ASF-2014 REST 5	ASF	Underwater mooring	5.5	48.0117	-66.6766	OTN-Global
+ASF-2014 REST 6	ASF	Underwater mooring	3.7	48.0132	-66.6779	OTN-Global
+ASF-2014 Barnaby Island	ASF	Underwater mooring	4	46.9109	-65.6221	OTN-Global
+ASF-2014 Dal Junction 1	ASF	Underwater mooring	9	48.0446	-66.5363	OTN-Global
+ASF-Barnaby Island-2004	ASF	Underwater mooring	135.3	46.9113	-65.6219	OTN-Global
+ASF-Beaubear Island 1-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+ASF-Beaubear Island 2-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+ASF-Beaubear Island 3-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+ASF-Beaubear Island 4-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+ASF-Beaubear Island 5-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+ASF-Beaubear Island 6-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
+ASF-Beaubear Island 7-2003	ASF	Underwater mooring	135.3	46.7667	-66.0833	OTN-Global
